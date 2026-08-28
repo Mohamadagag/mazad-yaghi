@@ -6,10 +6,21 @@ import type { Product } from "@/app/data/products";
 
 type ProductCarouselProps = {
   products: Product[];
+  initialProductId: string;
 };
 
-export function ProductCarousel({ products }: ProductCarouselProps) {
-  const [activeIndex, setActiveIndex] = useState(0);
+export function ProductCarousel({
+  products,
+  initialProductId,
+}: ProductCarouselProps) {
+  const initialIndex = products.findIndex(
+    (product) => product.id === initialProductId,
+  );
+
+  const [activeIndex, setActiveIndex] = useState(
+    initialIndex >= 0 ? initialIndex : 0,
+  );
+
   const product = products[activeIndex];
 
   const nextProduct = () => {
@@ -17,13 +28,16 @@ export function ProductCarousel({ products }: ProductCarouselProps) {
   };
 
   const previousProduct = () => {
-    setActiveIndex((index) => (index - 1 + products.length) % products.length);
+    setActiveIndex(
+      (index) => (index - 1 + products.length) % products.length,
+    );
   };
 
   const visibleNumber = useMemo(
     () => String(activeIndex + 1).padStart(2, "0"),
     [activeIndex],
   );
+
 
   return (
     <section className="grid gap-6 lg:grid-cols-[minmax(0,1.1fr)_minmax(320px,0.9fr)]">
@@ -34,7 +48,7 @@ export function ProductCarousel({ products }: ProductCarouselProps) {
             alt={`${product.name} product image`}
             fill
             sizes="(max-width: 1024px) 100vw, 58vw"
-            className="object-cover"
+            className="object-contain"
             priority
           />
         </div>

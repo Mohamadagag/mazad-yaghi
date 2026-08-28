@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 
-const initialSeconds = 30;
+const initialSeconds = 10;
 
 type AuctionTimerProps = {
   onSold?: () => void;
@@ -21,27 +21,27 @@ export function AuctionTimer({ onSold }: AuctionTimerProps) {
     onSold?.();
   };
 
+  // Countdown
   useEffect(() => {
     if (!isActive) {
       return;
     }
 
     const interval = window.setInterval(() => {
-      setTimeLeft((seconds) => {
-        const nextSeconds = Math.max(seconds - 1, 0);
-
-        if (nextSeconds === 0) {
-          setIsRunning(false);
-          setIsSold(true);
-          onSold?.();
-        }
-
-        return nextSeconds;
-      });
+      setTimeLeft((seconds) => Math.max(seconds - 1, 0));
     }, 1000);
 
     return () => window.clearInterval(interval);
-  }, [isActive, onSold]);
+  }, [isActive]);
+
+  // Automatically mark auction as sold when timer reaches 0
+  useEffect(() => {
+    if (timeLeft === 0 && isRunning && !isSold) {
+      setIsRunning(false);
+      setIsSold(true);
+      onSold?.();
+    }
+  }, [timeLeft, isRunning, isSold, onSold]);
 
   const formattedTime = useMemo(() => {
     const seconds = String(timeLeft).padStart(2, "0");
@@ -101,7 +101,6 @@ export function AuctionTimer({ onSold }: AuctionTimerProps) {
         />
       </div>
 
-      {/* Auction buttons */}
       <div className="mt-6 grid grid-cols-3 gap-3">
         <button
           type="button"
@@ -110,7 +109,7 @@ export function AuctionTimer({ onSold }: AuctionTimerProps) {
           disabled={isSold}
           className="min-h-12 rounded-md bg-[#101316] px-4 text-sm font-semibold text-white transition hover:bg-[#263039] disabled:cursor-not-allowed disabled:opacity-40"
         >
-          Start 30s
+          Start 10s
         </button>
 
         <button

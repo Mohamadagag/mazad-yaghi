@@ -210,7 +210,7 @@ export default function MazadPage() {
               alt={`${product.name} product image`}
               fill
               sizes="(max-width: 1024px) 100vw, 55vw"
-              className="object-cover"
+              className="object-contain"
               priority
             />
           </div>
@@ -251,9 +251,9 @@ export default function MazadPage() {
                   {product.bidder.name}
                 </h2>
 
-                <p className="mt-2 text-sm text-[#59636d]">
+                {/* <p className="mt-2 text-sm text-[#59636d]">
                   {product.bidder.badge}
-                </p>
+                </p> */}
               </div>
 
               <div
@@ -266,7 +266,7 @@ export default function MazadPage() {
             <div className="mt-6 grid grid-cols-2 gap-3">
               <div className="rounded-md bg-[#f7f8fb] p-4">
                 <p className="text-xs text-[#76818b]">
-                  Current amount
+                  Current Bid
                 </p>
 
                 <p className="mt-1 text-xl font-semibold text-[#101316]">
