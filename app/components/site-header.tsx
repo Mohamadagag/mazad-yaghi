@@ -2,6 +2,7 @@ import Link from "next/link";
 
 const navItems = [
   { href: "/", label: "Auction List" },
+  { href: "/rules", label: "Auction Rules" },
 ];
 
 export function SiteHeader() {

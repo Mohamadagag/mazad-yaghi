@@ -44,7 +44,7 @@ export function MainItemsView() {
                 className="rounded-lg border border-black/10 bg-white p-4 shadow-sm"
               >
                 <p className="text-2xl font-semibold text-[#101316]">
-                  {value}
+                  {filteredProducts.length}
                 </p>
                 <p className="mt-1 text-xs leading-5 text-[#647079]">
                   {label}
