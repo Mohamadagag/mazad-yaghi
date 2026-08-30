@@ -1284,7 +1284,7 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "30$",
-    currentBid: "$0",
+    currentBid: "$10",
     closing: "Friday, 8:10 PM",
     image: "/products/Steamer.jpeg",
     accent: "#dc2626",
