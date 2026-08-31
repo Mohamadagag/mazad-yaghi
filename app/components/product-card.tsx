@@ -35,12 +35,6 @@ export function ProductCard({ product, priority = false }: ProductCardProps) {
               {product.name}
             </h2>
           </div>
-
-          <span
-            className="h-3 w-3 shrink-0 rounded-sm"
-            style={{ backgroundColor: product.accent }}
-            aria-hidden="true"
-          />
         </div>
 
         <p className="line-clamp-3 text-sm leading-6 text-[#59636d]">
