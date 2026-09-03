@@ -4121,6 +4121,39 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+   {
+    id: "Parkside-Sliding-Compound-Mitre-Saw",
+    name: 'Parkside Sliding Compound Mitre Saw',
+    code: "B079PYJ6S8",
+    category: "Tools",
+    condition: "New",
+    estimate: "€110",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Parkside-Sliding-Compound-Mitre-Saw.jpg",
+    accent: "#dc2626",
+    description:
+      "This Parkside PZKS 2000 C3 is a 2000W sliding compound mitre saw engineered for making precise, clean cuts through wood and plastic materials. It features a continuous tilting saw head and an integrated laser guide to ensure maximum accuracy for both DIY workshops and home renovation projects.",
+    details: [
+      'Power Output: 2000W high-performance motor.',
+      "No-Load Speed: 4800 rpm for rapid, clean cutting.",
+      "Blade Dimensions: Ø 210 mm diameter with a 24-tooth carbide-tipped blade pre-installed.",
+      'Cutting Adjustments: Continuous mitre bevel tracking from 0° to 45° with a flexible tilting mechanism.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€110"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
        {
     id: "Lightweight-Framed-Child-Carrier",
     name: 'Lightweight Framed Child Carrier',
