@@ -1596,40 +1596,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-          {
-    id: "SONGMICS-Folding-Camping-Chair",
-    name: ' SONGMICS Folding Camping Chair',
-    code: "GCB06BU",
-    category: "Furniture",
-    condition: "New",
-    estimate: "40$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Songmics-Camping-Chair.webp",
-    accent: "#dc2626",
-    description:
-      "This heavy-duty SONGMICS folding camping chair features a high-back design with a thick, sponge-padded seat for maximum relaxation during extended outdoor use. It is engineered with a reinforced steel frame that can securely support an impressive weight capacity of up to 551 lbs (250 kg).",
-    details: [
-      "Padded Comfort: Full sponge-cushioned lining on the seat and backrest.",
-      "Heavy-Duty Frame: Robust, powder-coated steel tubes crossed for maximum stability.",
-      "Built-in Storage: Integrated mesh cup holder built into the armrest.",
-      "Easy Portability: Quick fold-and-unfold mechanism with an included carry bag.",
-      "Premium Fabric: Crafted from wear-resistant, easy-to-clean 600D Oxford fabric.",
-    ],
-      specs:[
-      ["Lot", "50"],
-      ["Included", "Full set"],
-      ["Price in origin country", "40$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
        {
     id: "Cotsoco-Massage-Gun",
     name: 'Cotsoco Deep Tissue Massage Gun',
@@ -4081,6 +4047,208 @@ export const products: Product[] = [
       ["Lot", "113"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Coocaa-43-inch-Roku-TV",
+    name: 'Coocaa 43-inch Roku TV ',
+    code: "43CRUG50 ",
+    category: "Sports",
+    condition: "New",
+    estimate: "£165",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Coocaa-43-inch-Roku-TV.webp",
+    accent: "#dc2626",
+    description:
+      "This Nakabayashi CNN-008BK is an ergonomic mesh office chair designed with an adjustable lumbar support system to minimize lower back fatigue. It features spacesaving, flip-up padded armrests and a high-density urethane foam cushion for reliable daily working comfort.",
+    details: [
+      'Lumbar Support: Adjusts up and down by 2.4 inches (6 cm) to match the natural curvature of your spine.',
+      'Flip-Up Armrests: Rotate upward smoothly so you can tuck the chair completely under your desk when not in use.',
+      "Seat Cushion: Features a thick 2.8-inch (70 mm) molded urethane foam pad that prevents bottoming out.",
+      'Materials: Constructed with a high-tension, breathable polyester mesh backrest and a durable nylon base.',
+      'Dimensions: Measures 72.5 cm x 67 cm x 100–108 cm with an adjustable seat height range of 44.5–52.5 cm.',
+      'Weight Capacity: Supports a maximum user weight of up to 220.5 lbs (100 kg).',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£165"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "Sharp-Aquos-40-inch",
+    name: 'Sharp Aquos 40-inch',
+    code: "40HE2245K ",
+    category: "Sports",
+    condition: "New",
+    estimate: "£190",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Sharp-Aquos-40-inch.jpg",
+    accent: "#dc2626",
+    description:
+      "This Sharp Aquos 40-inch Full HD Smart TV comes equipped with TiVo OS to seamlessly bring live television and your favorite streaming apps together onto one screen. Its modern, frameless design provides an expansive view, making it a great fit for bedrooms, kitchens, or smaller living spaces.",
+    details: [
+      'Display: 40-inch (101 cm) screen featuring crisp Full HD (1080p) resolution.',
+      'Smart Platform: Powered by TiVo OS for intuitive, content-first browsing across multiple services.',
+      "Visuals & Audio: Enhances content with HDR10/HLG support and features Dolby Audio for balanced sound.",
+      'Connectivity: Offers built-in Wi-Fi and Freely TV integration to stream live television channels without needing a traditional aerial cable.',
+      'Dimensions: Measures 72.5 cm x 67 cm x 100–108 cm with an adjustable seat height range of 44.5–52.5 cm.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£190"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "Scratching-tree",
+    name: 'Scratching tree ',
+    code: "Scratching tree ",
+    category: "Sports",
+    condition: "New",
+    estimate: "£70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Scratching-tree.webp",
+    accent: "#dc2626",
+    description:
+      "This multi-level beige plush cat tree serves as an all-in-one activity tower designed to keep indoor cats active, cozy, and entertained. It combines elevated lounging perches with dedicated scratching zones to satisfy your pet's natural instincts while saving your household furniture.",
+    details: [
+      'Top Cushion Bed: Elevated circular perch with thick, padded borders for comfortable sleeping and bird-watching.',
+      'Side-Mounted Hammock: A soft, flexible plush pouch extending from the main post that creates a perfect cradled nesting spot.',
+      "Lower Hiding Condo: Features a barrel-shaped enclosed shelter near the base for private retreats and quiet catnaps.",
+      'Sisal Scratching Posts: Heavy-duty support columns tightly wrapped in durable, natural sisal rope to promote healthy nail maintenance.',
+      'Sturdy Construction: Engineered with a wide baseplate and low center of gravity to prevent tipping during high-energy play..',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Feandrea-Scratching-tree",
+    name: 'Feandrea Cat Tree ',
+    code: "Cat Tree ",
+    category: "Sports",
+    condition: "New",
+    estimate: "$60",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Feandrea-Scratching-tree.webp",
+    accent: "#dc2626",
+    description:
+      "The Feandrea Cat Tree is a sturdy, multi-level activity center designed to give indoor cats a dedicated space to climb, play, and rest. Combining cozy plush lounging surfaces with natural sisal scratching posts, it provides vertical enrichment while protecting household furniture.",
+    details: [
+      'Comfortable Lounging: Features a spacious, heavily cushioned top perch with raised edges and two enclosed dark condos for secure napping.',
+      "Furniture Protection: Equipped with durable, fully-wrapped natural sisal scratching posts to satisfy your cat's natural scratching instincts",
+      "Stable Design: Constructed with a thick, heavy baseboard and includes an anti-tip wall-anchor safety strap to prevent shaking or tipping",
+      'Space-Saving Build: Optimizes vertical space to offer multiple tiers of activity without taking up excessive floor real estate ',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$60"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Cat-Tree-Fippi",
+    name: 'Cat Tree Fippi',
+    code: "402185",
+    category: "Sports",
+    condition: "New",
+    estimate: "£75",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/cat-treehouse.webp",
+    accent: "#dc2626",
+    description:
+      "This multi-level cat tree is a comprehensive pet activity tower designed to satisfy a cat's natural instincts to climb, scratch, and lounge. Standing at an impressive height, it features a striking black-and-white plush fabric finish that blends entertainment with home comfort.",
+    details: [
+      'Multi-Tier Layout: Features staggered jumping platforms and elevated viewing perches.',
+      "Cozy Hideaway: Includes a central enclosed condo cave for private resting.",
+      "Relaxation Zones: Equipped with multiple hanging hammock cradles and plush beds.",
+      'Scratching Surfaces: Built with durable sisal-wrapped posts to encourage healthy claw maintenance.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£75"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "Cat-Tree-house",
+    name: 'Cat Tree House',
+    code: "Cat Tree",
+    category: "Sports",
+    condition: "New",
+    estimate: "£60",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Cat-Tree-house.webp",
+    accent: "#dc2626",
+    description:
+      "This compact multi-level cat tree is designed to provide your pet with a comfortable space for scratching, climbing, and resting. It features a space-saving layout finished in a soft, beige plush fabric that easily blends into small indoor spaces.",
+    details: [
+      'Structure: Multi-tier design with two elevated platforms and a ground-level hiding tunnel.',
+      "Materials: Sturdy wooden base plates wrapped in soft plush fabric and durable sisal rope posts.",
+      "Entertainment: Built-in hanging toy ball to encourage active play and hunting instincts.",
+      'Functionality: Multiple dedicated scratching surfaces to help keep your cat’s claws healthy and protect home furniture.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£60"],
     ],
     bidder: {
       name: "Rami B.",
