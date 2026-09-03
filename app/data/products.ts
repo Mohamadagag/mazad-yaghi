@@ -28,7 +28,9 @@ export const products: Product[] = [
     category: "Coffee Maker",
     condition: "New",
     estimate: "€80",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Today, 8:30 PM",
     image: "/products/sevrin-KA9307.png",
     accent: "#0f766e",
@@ -43,7 +45,6 @@ export const products: Product[] = [
     specs: [
       ["Lot", "1"],
       ["Included", "Full set"],
-      // ["Missing", "something, 1,2,4,5"],
       ["Price in origin country", "€90"],
     ],
     bidder: {
@@ -60,7 +61,9 @@ export const products: Product[] = [
     category: "Ice Cream Maker",
     condition: "New",
     estimate: "€130-€150",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Today, 9:00 PM",
     image: "/products/Ice-Cream-Maker.png",
     accent: "#b45309",
@@ -92,7 +95,9 @@ export const products: Product[] = [
     category: "Coffee Maker",
     condition: "Used",
     estimate: "€90-€150",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Tomorrow, 6:15 PM",
     image: "/products/barista.png",
     accent: "#2563eb",
@@ -125,7 +130,9 @@ export const products: Product[] = [
     category: "Air Fryer",
     condition: "New",
     estimate: "€94,99",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Tomorrow, 7:20 PM",
     image: "/products/airfryer.png",
     accent: "#be123c",
@@ -158,7 +165,9 @@ export const products: Product[] = [
     category: "Blender",
     condition: "New",
     estimate: "35$ - 50$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 5:45 PM",
     image: "/products/zitblender.png",
     accent: "#7c3aed",
@@ -189,7 +198,9 @@ export const products: Product[] = [
     category: "Blender",
     condition: "New",
     estimate: "30$ - 40$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/zit2.jpeg",
     accent: "#dc2626",
@@ -222,7 +233,9 @@ export const products: Product[] = [
     category: "Blender",
     condition: "New",
     estimate: "$90 to $150",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/zitfoodprocessor.jpeg",
     accent: "#dc2626",
@@ -254,7 +267,9 @@ export const products: Product[] = [
     category: "Blender",
     condition: "New",
     estimate: "$90 to $150",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Planetary-Stand-Mixer.jpeg",
     accent: "#dc2626",
@@ -286,7 +301,9 @@ export const products: Product[] = [
     category: "Robot",
     condition: "New",
     estimate: "$110 to $200",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/ultenic.jpg",
     accent: "#dc2626",
@@ -319,7 +336,9 @@ export const products: Product[] = [
     category: "Cleaner",
     condition: "New",
     estimate: "€99.99",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/champonese.webp",
     accent: "#dc2626",
@@ -353,7 +372,9 @@ export const products: Product[] = [
     category: "Cleaner",
     condition: "New",
     estimate: "€80 to €130",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/hopvision.jpg",
     accent: "#dc2626",
@@ -386,7 +407,9 @@ export const products: Product[] = [
     category: "Hair Removal",
     condition: "New",
     estimate: "300$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/vernus.jpg",
     accent: "#dc2626",
@@ -419,7 +442,9 @@ export const products: Product[] = [
     category: "Projector",
     condition: "New",
     estimate: "100$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/projector.jpg",
     accent: "#dc2626",
@@ -451,7 +476,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "75€",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/pcm300.webp",
     accent: "#dc2626",
@@ -482,7 +509,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€49.99",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/pot.webp",
     accent: "#dc2626",
@@ -513,7 +542,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€45.99",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/vaccum.webp",
     accent: "#dc2626",
@@ -545,7 +576,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€40",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/foodslicer.jpg",
     accent: "#dc2626",
@@ -577,7 +610,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€45",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/meatgrinder.webp",
     accent: "#dc2626",
@@ -609,7 +644,9 @@ export const products: Product[] = [
     category: "Massage",
     condition: "New",
     estimate: "30$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/neck-massager.jpg",
     accent: "#dc2626",
@@ -641,7 +678,9 @@ export const products: Product[] = [
     category: "Massage",
     condition: "New",
     estimate: "€299",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/VenenWalkerPRO2.webp",
     accent: "#dc2626",
@@ -673,7 +712,9 @@ export const products: Product[] = [
     category: "Electonics",
     condition: "New",
     estimate: "£260",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/TV43.webp",
     accent: "#dc2626",
@@ -705,7 +746,9 @@ export const products: Product[] = [
     category: "Electonics",
     condition: "New",
     estimate: "170$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/tornadotv32.webp",
     accent: "#dc2626",
@@ -730,38 +773,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-    {
-    id: "philips-centrifugal-juicer",
-    name: 'Philips Centrifugal Juicer"',
-    code: "HR1832",
-    category: "Electonics",
-    condition: "New",
-    estimate: "£50",
-    currentBid: "$0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/philipscentrifugaljuicer.jpg",
-    accent: "#dc2626",
-    description:
-      'The Philips Viva Collection Compact Juicer (HR1832) is a space-saving, 500-watt appliance designed to make up to 1.5 liters of fresh juice in one go. Its patented QuickClean technology simplifies cleanup, allowing you to completely rinse the mesh sieve and pulp container in under a minute.',
-    details: [
-      "Compact Footprint: Measures half the size of standard centrifugal juicers to save valuable countertop space.",
-      "QuickClean Sieve: Features polished, inverted mesh surfaces so pulp fibers can be wiped away easily with a sponge.",
-      "Direct-to-Glass Dispensing: Pumps juice straight into your own glass (up to 12cm tall) via an integrated spout.",
-      "Integrated Pulp Container: Collects all waste in one central, transparent container for clean, see-through monitoring.",
-      "Drip-Stop Spout: Activates with a simple twist to prevent juice from dripping onto your kitchen counters.",
-    ],
-      specs:[
-      ["Lot", "23"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£50"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
    {
     id: "SILVERCREST-20V-Cordless-Handheld",
     name: 'SILVERCREST® 20V Cordless Handheld',
@@ -769,7 +781,9 @@ export const products: Product[] = [
     category: "Electonics",
     condition: "New",
     estimate: "€25",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/silvercrest-20-v-akku.webp",
     accent: "#dc2626",
@@ -801,7 +815,9 @@ export const products: Product[] = [
     category: "Electonics",
     condition: "New",
     estimate: "€50",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/WETDRYVACUUMCLEANER.webp",
     accent: "#dc2626",
@@ -833,7 +849,9 @@ export const products: Product[] = [
     category: "Electonics",
     condition: "New",
     estimate: "€150",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/3-in-1-aircooler.webp",
     accent: "#dc2626",
@@ -866,7 +884,9 @@ export const products: Product[] = [
     category: "Electonics",
     condition: "New",
     estimate: "50$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/oral-irrigator.jpg",
     accent: "#dc2626",
@@ -897,7 +917,9 @@ export const products: Product[] = [
     category: "Electonics",
     condition: "New",
     estimate: "€170",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/comfee7000btu.webp",
     accent: "#dc2626",
@@ -929,7 +951,9 @@ export const products: Product[] = [
     category: "Tools",
     condition: "New",
     estimate: "€80",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/parkside-tool-set.jpg",
     accent: "#dc2626",
@@ -961,7 +985,9 @@ export const products: Product[] = [
     category: "Tools",
     condition: "New",
     estimate: "€60",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/crivit-cooler.webp",
     accent: "#dc2626",
@@ -992,7 +1018,9 @@ export const products: Product[] = [
     category: "Tools",
     condition: "New",
     estimate: "€130",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/parksidelawnmower.jpg",
     accent: "#dc2626",
@@ -1025,7 +1053,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€40",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cwitchonac.jpg",
     accent: "#dc2626",
@@ -1050,38 +1080,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-    {
-    id: "Midea-Portasplit-12000-BTU",
-    name: 'Midea Portasplit 12000 BTU',
-    code: "PortaSplit",
-    category: "Electronics",
-    condition: "New",
-    estimate: "€999",
-    currentBid: "$0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/midea12000.webp",
-    accent: "#dc2626",
-    description:
-      "The Midea PortaSplit is a revolutionary portable split air conditioner that places its loud compressor outside to deliver powerful, whisper-quiet cooling without permanent installation. It connects its indoor and outdoor units via an ultra-flat refrigerant hose that fits easily through a slightly cracked window, making it perfect for apartments and rentals.",
-    details: [
-      "True Split Efficiency: Delivers up to 4x better energy efficiency than traditional single-hose portable AC units by preventing negative air pressure.",
-      "Whisper-Quiet Operation: Runs as low as 39 dB(A) indoors because the noisy compressor sits entirely outside on your windowsill or balcony.",
-      "4-in-1 Climate Control: Provides cooling, heat pump heating, dehumidification, and ventilation in a single plug-and-play system.",
-      "Drill-Free Installation: Installs in minutes using a flat, durable connection hose and specialized, adjustable window sealing kits.",
-      "Smart Home Ready: Connects via Wi-Fi and supports the universal Matter smart protocol for seamless control via Apple Home, Google Home, and Alexa.",
-    ],
-      specs:[
-      ["Lot", "33"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€999"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
       {
     id: "GourmetMaxx-12L",
     name: 'Digital Air Fryer 12L',
@@ -1089,7 +1087,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€110",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/gourmetmaxx12L.webp",
     accent: "#dc2626",
@@ -1122,7 +1122,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€40",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/ultiatespeed.jpg",
     accent: "#dc2626",
@@ -1154,7 +1156,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "170$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/upsterman.webp",
     accent: "#dc2626",
@@ -1186,7 +1190,9 @@ export const products: Product[] = [
     category: "Sports",
     condition: "New",
     estimate: "700$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
     accent: "#dc2626",
@@ -1218,7 +1224,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€50",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/icemaker.webp",
     accent: "#dc2626",
@@ -1251,7 +1259,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€40",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/hover.jpg",
     accent: "#dc2626",
@@ -1284,7 +1294,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "30$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Steamer.jpeg",
     accent: "#dc2626",
@@ -1316,7 +1328,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "128$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/northclan-icemaker.jpg",
     accent: "#dc2626",
@@ -1347,7 +1361,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "75$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/ceilingfan.jpg",
     accent: "#dc2626",
@@ -1381,7 +1397,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "£280",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/merach.webp",
     accent: "#dc2626",
@@ -1415,7 +1433,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "$90",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/footmassager.jpg",
     accent: "#dc2626",
@@ -1447,7 +1467,9 @@ export const products: Product[] = [
     category: "Electronics",
     condition: "New",
     estimate: "€45",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/WOLTU-shelf.jpg",
     accent: "#dc2626",
@@ -1479,7 +1501,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$280",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Barber-Chair.jpg",
     accent: "#dc2626",
@@ -1510,7 +1534,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€45",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/LaundrySorter.webp",
     accent: "#dc2626",
@@ -1536,38 +1562,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-         {
-    id: "Foldable-Floor-Sofa-Bed",
-    name: 'Costway Foldable Floor Sofa Bed',
-    code: "15607293",
-    category: "Furniture",
-    condition: "New",
-    estimate: "$140",
-    currentBid: "$0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/FoldableFloorSofaBed.jpg",
-    accent: "#dc2626",
-    description:
-      "The Costway 6-Position Foldable Floor Sofa Bed is a versatile, space-saving 3-in-1 piece of furniture that functions as a floor sofa, tilted lounge recliner, or a flat sleeper bed. It features an adjustable internal steel frame and plush tufted upholstery, making it perfect for compact living spaces, apartments, and gaming setups.",
-    details: [
-      "Adjustable Backrest: Features a flexible internal mechanism that clicks securely into 6 distinct reclining positions ranging from 90° to 180°.",
-      "Premium Comfort: Upholstered in soft, plush fabric with thick tufted padding designed for long-lasting body support.",
-      "Included Accessories: Comes equipped with two matching bolster pillows that serve as comfortable lumbar support or headrests.",
-      "Ergonomic Construction: Built around a durable steel tube frame that ensures stability when configured in any seating or sleeping layout.",
-      "No Assembly Required: Shipped completely assembled and ready to use right out of the box for ultimate convenience.",
-    ],
-      specs:[
-      ["Lot", "48"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$140"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
          {
     id: "Dining-Chair",
     name: 'Tectake Dining Chair',
@@ -1575,7 +1570,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£113",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/highChair.webp",
     accent: "#dc2626",
@@ -1606,7 +1603,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "40$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Songmics-Camping-Chair.webp",
     accent: "#dc2626",
@@ -1631,39 +1630,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-
-      {
-    id: "Tectake-Tool-Chest",
-    name: 'Tectake Tool Chest',
-    code: "402800",
-    category: "Furniture",
-    condition: "New",
-    estimate: "£170",
-    currentBid: "$0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/ToolChest.webp",
-    accent: "#dc2626",
-    description:
-      "This heavy-duty tectake 7-Drawer Mobile Tool Chest offers an efficient, lockable storage solution to keep your workshop or garage meticulously organized. Its robust steel construction paired with rolling casters allows you to effortlessly transport your heavy tools exactly where you need them.",
-    details: [
-      "7 Smooth-Glide Drawers: Designed with integrated ball-bearing slides for effortless opening and closing under heavy loads.",
-      "Central Locking Mechanism: Features a top-mounted security lock to securely latch all drawers at once, preventing accidental opening on the move.",
-      "Heavy-Duty Mobility: Outfitted with sturdy rolling casters, including two lockable brakes to firmly anchor the cabinet in place.",
-      "Rugged Finish: Finished in a scratch-resistant, matte-black powder coating with clean, silver-accented drawer trim pulls.",
-      "Anti-Slip Matting: Includes a protective foam top mat that provides a stable, non-slip work surface for tools and parts.",
-    ],
-      specs:[
-      ["Lot", "51"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£170"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
        {
     id: "Cotsoco-Massage-Gun",
     name: 'Cotsoco Deep Tissue Massage Gun',
@@ -1671,7 +1637,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "30$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/massageGun.webp",
     accent: "#dc2626",
@@ -1703,7 +1671,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€80",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Bar-Stool.jpg",
     accent: "#dc2626",
@@ -1735,7 +1705,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£70",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/babychair.jpg",
     accent: "#dc2626",
@@ -1766,7 +1738,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£65",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-Makeup-Trolley.jpg",
     accent: "#dc2626",
@@ -1798,7 +1772,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "55$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/CoatRack.jpg",
     accent: "#dc2626",
@@ -1830,7 +1806,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£120",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/gardenchairs.webp",
     accent: "#dc2626",
@@ -1860,7 +1838,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "140$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cofeetable.jpg",
     accent: "#dc2626",
@@ -1891,7 +1871,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "130$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/walker.webp",
     accent: "#dc2626",
@@ -1925,7 +1907,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$120",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/costwaywalker.jpg",
     accent: "#dc2626",
@@ -1958,7 +1942,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$30",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/skateboard.jpg",
     accent: "#dc2626",
@@ -1992,7 +1978,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$179",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/B&K.png",
     accent: "#dc2626",
@@ -2024,7 +2012,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€65",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/B&K2.png",
     accent: "#dc2626",
@@ -2056,7 +2046,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€60",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/LTB001A01.jpg",
     accent: "#dc2626",
@@ -2088,7 +2080,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€160",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/B34UKLTB60WT.jpg",
     accent: "#dc2626",
@@ -2119,7 +2113,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€50",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Under-Sink-Bathroom-Storage.jpg",
     accent: "#dc2626",
@@ -2150,7 +2146,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "90$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-gaming-chair.jpg",
     accent: "#dc2626",
@@ -2181,7 +2179,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "90$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/HLDIRECT-High-Back-Gaming-Chair.jpg",
     accent: "#dc2626",
@@ -2214,7 +2214,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "90$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/HLDIRECT-Ergonomic-High-Back-Gaming-Chair.jpg",
     accent: "#dc2626",
@@ -2246,7 +2248,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£120",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-3-Compartment.jpg",
     accent: "#dc2626",
@@ -2270,36 +2274,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-  {
-    id: "3-Piece-Grey-Foldable-Bistro-Set",
-    name: 'Bravich 3-Piece Grey Foldable Bistro Set',
-    code: "B0CZS7Q9T7",
-    category: "Furniture",
-    condition: "New",
-    estimate: "£80",
-    currentBid: "$0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/3-Piece-Grey-Foldable-Bistro-Set.jpg",
-    accent: "#dc2626",
-    description:
-      "This sleek, contemporary 3-piece metal bistro set includes a round table and two matching chairs designed to instantly elevate your outdoor space. Crafted with a powder-coated matt grey finish, it offers a stylish and highly durable seating solution for compact areas like balconies, patios, and gardens.",
-    details: [
-      "Space-Saving Design: Both the table and chairs fold entirely flat for quick, effortless storage and hassle-free transport.",
-      "Weather Resistant: Constructed from heavy-duty steel with a protective coating to prevent rust and withstand outdoor conditions.",
-      'Ready to Use: Arrives fully assembled right out of the box so you can set it up immediately without any tools.',
-    ],
-      specs:[
-      ["Lot", "71"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£80"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
    {
     id: "AINPECCA-Velvet-Dining-Chairs",
     name: 'AINPECCA Velvet Dining Chairs',
@@ -2307,7 +2281,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£80",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/AINPECCA.webp",
     accent: "#dc2626",
@@ -2338,7 +2314,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£160",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Armchair-Lucia-cream.webp",
     accent: "#dc2626",
@@ -2370,7 +2348,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$120",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Z-OFC104dgr.jpg",
     accent: "#dc2626",
@@ -2402,7 +2382,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$190",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Jewelry-Organizers.jpg",
     accent: "#dc2626",
@@ -2435,7 +2417,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$110",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Advwin Armless Cross-Legged.jpg",
     accent: "#dc2626",
@@ -2466,7 +2450,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$50",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-parasol.jpg",
     accent: "#dc2626",
@@ -2498,7 +2484,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$35",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/dryingRack.png",
     accent: "#dc2626",
@@ -2529,7 +2517,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$60",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/sunLoungerChair.jpg",
     accent: "#dc2626",
@@ -2560,7 +2550,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£125",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/bar-Stool-Avane-Set-of-2.webp",
     accent: "#dc2626",
@@ -2592,7 +2584,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$45",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/feandrea.jpg",
     accent: "#dc2626",
@@ -2624,7 +2618,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "$35",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Ladder-DAVDING.webp",
     accent: "#dc2626",
@@ -2656,7 +2652,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€35",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Playtive-Fairy-Bouncy-Castle.webp",
     accent: "#dc2626",
@@ -2687,7 +2685,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "£399",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/flexispot.jpg",
     accent: "#dc2626",
@@ -2718,7 +2718,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€60",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/LEBENLANG 2-in-1-Electric-Stand-Grill.png",
     accent: "#dc2626",
@@ -2743,44 +2745,15 @@ export const products: Product[] = [
     },
   },
   {
-    id: "HLDIRECT-47-Inch-Gaming-Desk",
-    name: 'HLDIRECT 47 Inch Gaming Desk',
-    code: "B0G2RVXD2G",
-    category: "Furniture",
-    condition: "New",
-    estimate: "$80",
-    currentBid: "$0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/HLDIRECT-47-Inch-Gaming-Desk.jpg",
-    accent: "#dc2626",
-    description:
-      "The HLDIRECT 47-Inch Gaming Desk is a space-saving workstation that blends an industrial rustic brown finish with a sturdy black alloy steel frame. It features integrated smart features, elevating monitor layouts while maximizing under-desk layout organization for home office configurations.",
-    details: [
-      "Integrated Power Hub: Features 2 AC outlets and 2 USB ports built into the desk surface to power multiple monitors, charging bricks, and peripherals simultaneously.",
-      "Ambient RGB Illumination: Includes an app-controlled LED light strip nested under the upper tier to easily customize color profiles and ambient workspace backlighting.",
-      "8 Foldable Storage Drawers: Outfitted with light yet structurally supportive removable fabric drawers to keep electronics, paperwork, and gaming accessories hidden.",
-      'Full-Length Monitor Riser: Equipped with a built-in elevated shelf that spans the top, raising screens to eye level and freeing up the primary desk workspace below.',
-    ],
-      specs:[
-      ["Lot", "86"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$80"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-  {
     id: "parkside-set",
     name: 'Parkside Performance 12V Cordless Drill Driver and Impact Screwdriver Starter',
     code: "B0FZFKKF31",
     category: "Furniture",
     condition: "New",
     estimate: "€90",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/parkside-set.jpg",
     accent: "#dc2626",
@@ -2811,7 +2784,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€90",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cordless-drill.png",
     accent: "#dc2626",
@@ -2842,7 +2817,9 @@ export const products: Product[] = [
     category: "Furniture",
     condition: "New",
     estimate: "€90",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Parkside-9-piece-tile-tool-case.jpg",
     accent: "#dc2626",
@@ -2873,7 +2850,9 @@ export const products: Product[] = [
     category: "Tools",
     condition: "New",
     estimate: "€70",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/PPFBSA12A1.jpg",
     accent: "#dc2626",
@@ -2904,7 +2883,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "70$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Closet-Organizer.jpg",
     accent: "#dc2626",
@@ -2935,7 +2916,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "€40",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/WOLTU-6-tier-bookshelf.jpg",
     accent: "#dc2626",
@@ -2967,7 +2950,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "€30",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/bookshelf.jpg",
     accent: "#dc2626",
@@ -2999,7 +2984,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "€55",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Nightstand.jpg",
     accent: "#dc2626",
@@ -3024,38 +3011,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-     {
-    id: "bathroom-cabinet",
-    name: 'WOLTU Bathroom cabinet',
-    code: "W0ITT3071",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€45",
-    currentBid: "$0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/bathroom-cabinet.jpg",
-    accent: "#dc2626",
-    description:
-      "The WOLTU W0ITT3071 is a compact, three-drawer bathroom cabinet designed to maximize storage in tight, narrow spaces. Crafted from white-lacquered MDF, this stylish unit features a moisture-resistant finish that makes it both durable and perfect for humid bathroom environments.",
-    details: [
-      'Product Type: Slim freestanding bathroom floor cabinet',
-      "Dimensions: 32 x 81 x 30 cm (W x H x D)",
-      "Material: Eco-friendly, lacquered Class E1 MDF",
-      'Storage Capacity: 3 sliding drawers with built-in anti-drop safety stoppers',
-      'Design Features: Slatted drawer fronts with cut-out handles for ventilation and a modern look',
-    ],
-      specs:[
-      ["Lot", "95"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€45"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
     {
     id: "Coffee-Table",
     name: 'WOLTU Coffee Table',
@@ -3063,7 +3018,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "€25",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Coffee-Table.jpg",
     accent: "#dc2626",
@@ -3095,7 +3052,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "€70",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-mirror.jpg",
     accent: "#dc2626",
@@ -3127,7 +3086,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "€90",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/KKS025B01EU.jpg",
     accent: "#dc2626",
@@ -3159,7 +3120,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "100$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/1039160.jpg",
     accent: "#dc2626",
@@ -3190,7 +3153,9 @@ export const products: Product[] = [
     category: "Furnniture",
     condition: "New",
     estimate: "400$",
+    ////////////////////////////////////////////////////
     currentBid: "$0",
+    //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/grill.jpg",
     accent: "#dc2626",
@@ -3214,6 +3179,915 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+       {
+    id: "VITALmaxx-Fitmaxx-5",
+    name: 'VITALmaxx Fitmaxx 5 / Abmaxx 6 abdominal and core trainer',
+    code: "02678200101",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "110$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/vitalmaxx.jpg",
+    accent: "#dc2626",
+    description:
+      "The VITALmaxx Fitmaxx 5 is a compact, foldable home fitness trainer that uses an upward gliding reverse-crunch motion to intensely target your entire core. By combining strength and endurance training, it simultaneously engages your abdomen, legs, glutes, arms, and back for an efficient full-body workout.",
+    details: [
+      'Resistance Levels: Features 5 adjustable difficulty levels that allow you to change the angle of the incline to match your fitness level.',
+      'Digital Computer: Includes a battery-operated display that tracks time, repetition count, and estimated calories burned',
+      "Space-Saving Design: Folds completely flat in seconds, making it incredibly easy to store under a bed or inside a closet",
+      'Weight Capacity: Accommodates users with a maximum body weight of up to 100 kg (220 lbs).',
+    ],
+      specs:[
+      ["Lot", "101"],
+      ["Included", "Full set"],
+      ["Price in origin country", "110$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Pull-Up-Station",
+    name: 'Pull Up Station',
+    code: "B07G85F8BB",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€300",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Pull-Up-Station.jpg",
+    accent: "#dc2626",
+    description:
+      "This compact, plate-loaded lat pull tower utilizes top and bottom cable pulleys to deliver full-body workouts like lat pulldowns and seated rows. It is designed to fit comfortably into home gym spaces without taking up significant floor area.",
+    details: [
+      'Brand/Model: Bad Company Lat Pull Tower (BCA-27)',
+      'Maximum Load Capacity: Supports up to 150 kg of weight plates',
+      "Plate Compatibility: Fits both standard (30/31 mm) and Olympic (50/51 mm) weight plates",
+      'Ergonomics: Equipped with a 4-way height-adjustable seat and padded thigh rollers to lock you into position during heavy lifts',
+    ],
+      specs:[
+      ["Lot", "102"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€300"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "VASAGLE-Bedside-Table",
+    name: 'VASAGLE Bedside Table',
+    code: "LET631B57",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€40",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/VASAGLE-Bedside-Table.jpg",
+    accent: "#dc2626",
+    description:
+      "This modern VASAGLE nightstand from the KAILYN collection features a sleek, handleless three-drawer design finished in a textured ebony black wood grain. It includes a built-in, flush-mounted charging station on the top surface to keep all your personal devices powered right by your bedside.",
+    details: [
+      'Charging Hub: Built-in power strip with 2 AC outlets and 2 USB-A ports.',
+      'Dimensions: Standard bedside size measuring 13.8"D x 15.7"W x 23.2"H (35 x 40 x 59 cm).',
+      "Storage Space: Three spacious, handle-free drawers featuring smooth metal runners and sleek bevelled top edges",
+      'Power Cord: Equipped with a 4.9 ft (1.5 m) integrated power cable.',
+      'Weight Capacity: Supports a total static load of up to 136 lbs (62 kg) on the top surface.',
+      'Materials: Constructed from durable 15 mm particleboard with a smooth, wipe-clean finish.',
+    ],
+      specs:[
+      ["Lot", "103"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€40"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "VOWNER-Extendable-Coffee-Table",
+    name: 'VOWNER Extendable Coffee Table',
+    code: "VOWNER-43",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/VOWNER.jpg",
+    accent: "#dc2626",
+    description:
+      "This modern dual lift-top coffee table features an independent split-surface design that smoothly elevates to comfortable working or dining heights. It seamlessly balances style and utility, resting on tapered wooden legs and hiding ample storage compartments underneath the panels.",
+    details: [
+      'Dual Lifting Surfaces: Features two independent pop-up sections that can be used simultaneously at different heights.',
+      'Hidden Storage: Provides two large, separate compartments beneath the tabletops to keep living room clutter out of sight.',
+      "Premium Mechanics: Utilizes smooth gas struts and pneumatic cushions for quiet, effortless, and safe opening and closing.",
+      'Sturdy Construction: Built from durable engineered wood with a clean, matte white finish supported by solid wood legs.',
+      'Weight Capacity: Supports a total static load of up to 136 lbs (62 kg) on the top surface.',
+      'Multifunctional Design: Quickly transitions from a standard low center table into a laptop desk or a casual dining spot.',
+    ],
+      specs:[
+      ["Lot", "104"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Coffee-Table-vower",
+    name: 'Coffee Table',
+    code: "B0CF3XP4DC",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€80",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Coffee-Table-vower.jpg",
+    accent: "#dc2626",
+    description:
+      "This mid-century modern coffee table balances Japandi simplicity with functional storage, making it an ideal anchor piece for smaller living spaces. Its split two-tier layout pairs an open display compartment with a sleek, vertically slatted storage drawer.",
+    details: [
+      'Slatted Front Panel: Features a textured, vertical fluted aesthetic on the sliding drawer face.',
+      'Warm Wood Effect: Wrapped in a light natural oak wood-grain paper finish for an organic feel.',
+      "Sturdy Solid Legs: Supported by four outward-tapered solid pine wood legs for stability.",
+      'Dual Storage Options: Includes one hidden drawer and one open side-cubby shelf.',
+      'Compact Footprint: Measures exactly 100 cm L x 50 cm D x 43 cm H and weighs 22 kg',
+    ],
+      specs:[
+      ["Lot", "105"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "white-comod",
+    name: 'Bedroom Comod',
+    code: "B0FVDX25JG",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/white-comod.jpg",
+    accent: "#dc2626",
+    description:
+      "This white wooden 3-drawer chest serves as a compact bedside table or office storage unit featuring an integrated top-panel power outlet for easy device charging. Its minimal, handleless design maximizes storage efficiency in small spaces while maintaining a clean, modern aesthetic.",
+    details: [
+      'Storage capacity: Three spacious pull-out drawers for bedside or office organization.',
+      'Built-in power: Top surface features an embedded power strip with traditional plug outlets and dual USB ports.',
+      "Materials: Built from sturdy MDF wood panels with an easy-to-clean, water-resistant surface finish.",
+      'Dimensions: Measures approximately 40 cm wide by 60 cm high, making it ideal for narrow gaps next to beds or desks.',
+      'Would you like help with step-by-step assembly tips for this type of furniture, or do you want to see if it comes in other color options like black or oak?',
+    ],
+      specs:[
+      ["Lot", "106"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+
+    {
+    id: "SONGMICS-bar-stool",
+    name: 'SONGMICS Bar Stool',
+    code: "LJB15G",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€60",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/SONGMICS-bar-stool.jpg",
+    accent: "#dc2626",
+    description:
+      "The SONGMICS Adjustable Swivel Bar Stool features a modern, armless silhouette upholstered in a smoke-grey, linen-imitation fabric with elegant horizontal channel tufting. It is supported by a heavy-duty chrome-plated pedestal base that offers smooth 360-degree rotation and customizable height adjustment.",
+    details: [
+      'Upholstery: Durable, breathable smoke-grey linen fabric',
+      'Base: Polished chrome steel with an integrated triangular footrest',
+      "Mechanism: Gas-lift cylinder for seamless height adjustments",
+      'Movement: Full 360-degree swivel capabilities',
+      'Design: High, ergonomic backrest with supportive channel stitching',
+    ],
+      specs:[
+      ["Lot", "107"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€60"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "camping-table",
+    name: 'Kesser Folding Camping Cabinet',
+    code: "NP11742",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "$45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/camping-table.jpg",
+    accent: "#dc2626",
+    description:
+      "This Kesser Portable Camping Table serves as a lightweight outdoor cook station and pantry for road trips, picnics, and backyard barbecues. It combines a solid aluminum countertop with a zippered 6-shelf fabric organizer underneath to store your food and kitchenware safely away from insects and dust.",
+    details: [
+      'Storage Compartments: 6 removable interior shelves with a dual-zipper front door mesh roll-up',
+      "Portability: Collapsible folding frame design that packs completely flat",
+      'Included Accessory: Heavy-duty canvas carrying bag for easy transport',
+      'Side Accents: Built-in side storage pockets for quick access to utensils and small items',
+    ],
+      specs:[
+      ["Lot", "108"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Costway-Cat-Litter-Box",
+    name: 'Costway Cat Litter Box ',
+    code: "73496852",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "$70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/pv10002wh1_1_.jpg",
+    accent: "#dc2626",
+    description:
+      "This sleek, dual-purpose credenza functions as a modern home accent while completely concealing your cat's litter pan out of sight. It features a separate entryway compartment designed to capture tracking granules before your pet steps back out onto your floors.",
+    details: [
+      '3-in-1 Design: Blends seamlessly into your home decor as a stylish side table, TV console, or hidden pet washroom.',
+      'Smart Litter Control: An internal entry divider holds an included scratching pad to clean paws and catch stray litter particles.',
+      "Sturdy Construction: Crafted from durable, glossy white engineered wood and supported by solid elevated legs for stability.",
+      'User-Friendly Access: Equipped with double front doors and classic round knobs for quick cleaning and scooping.',
+      'Ventilated Back Panel: Built with integrated rear air vents to maintain fresh airflow and control unpleasant odors.',
+    ],
+      specs:[
+      ["Lot", "109"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Mobile-Storage-Unit",
+    name: 'Costway Mobile Storage Unit',
+    code: "20547318",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "$150",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Mobile-Storage-Unit.jpg",
+    accent: "#dc2626",
+    description:
+      "The Costway Mobile Storage Unit (Model 20547318) is a versatile, space-saving wooden storage cabinet designed to optimize home offices, craft rooms, or workspaces. It seamlessly combines a spacious side cupboard with a five-drawer chest on smooth-rolling wheels to keep your daily equipment and documents perfectly organized.",
+    details: [
+      'Flexible Storage: Features 5 compact sliding drawers and a large cabinet compartment equipped with a 3-position adjustable internal shelf.',
+      'Effortless Mobility: Outfitted with 5 universal 360° swivel casters (including 2 front wheels with built-in brakes) to smoothly roll or lock into place.',
+      "Heavy-Duty Build: Formed from durable, scratch-resistant engineered wood capable of supporting up to 220 lbs of total weight.",
+      'Multi-Functional Top: Serves as an excellent printer stand or extended desk countertop with a spacious 31" x 16" flat surface.',
+    ],
+      specs:[
+      ["Lot", "110"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$150"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "Velvet-chair",
+    name: 'Wahson Velvet Chair',
+    code: "B08FH517CW",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$100",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Velvet-chair.jpg",
+    accent: "#dc2626",
+    description:
+      "This elegant Art Deco accent chair features a plush, shell-inspired scalloped backrest upholstered in luxurious dusty rose velvet. Supported by sleek gold-plated metal legs, it serves as a chic and comfortable statement piece perfect for vanities, bedrooms, or modern living spaces.",
+    details: [
+      'Design Silhouette: Seashell-style petal backrest with rounded armrests.',
+      'Upholstery Fabric: High-quality, skin-friendly velvet fabric.',
+      "Base & Support: Sturdy metal legs finished with a brushed gold plating.",
+      'Interior Cushioning: High-density, resilient sponge padding for comfort.',
+      'Best Use Cases: Dressing rooms, bedroom accent corners, home offices, and makeup vanities.'
+    ],
+      specs:[
+      ["Lot", "111"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$100"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  {
+    id: "COSTWAY-12V",
+    name: 'COSTWAY 12V Kids Electric Ride',
+    code: "B0D8VNYN6P",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$150",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/COSTWAY-12V-Kids-Electric-Ride.webp",
+    accent: "#dc2626",
+    description:
+      "The Costway Licensed Lamborghini Sián 12V Ride-On Car is a premium electric toy vehicle featuring realistic engine sounds, bright LED headlights, and authentic upward-opening hydraulic scissor doors. It provides children with an exciting driving experience through manual controls, while ensuring parental peace of mind with an included 2.4G wireless remote control override.",
+    details: [
+      'Power & Performance: Driven by a 12V 4.5Ah rechargeable battery and dual motors, offering speeds ranging from 2 to 3.1 mph.',
+      'Safety Features: Equipped with an adjustable safety belt, slow-start acceleration technology to prevent sudden jolts, and extra-wide wear-resistant wheels.',
+      "Parental Override: Features a wireless 2.4G remote control that allows parents to safely take over steering, speed adjustments, and emergency braking.",
+      'Onboard Entertainment: Outfitted with an integrated media player featuring a horn, built-in music, and USB/TF slots to plug in custom audio.',
+      'Age & Weight Capacity: Designed for toddlers and children aged 3 to 8 years old, with a maximum weight limit of 55 lbs (25 kg).'
+    ],
+      specs:[
+      ["Lot", "112"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$150"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Coffee-Table-High-Gloss",
+    name: 'Coffee Table High Gloss',
+    code: "B0H1L365FZ",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$80",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Coffee-Table-High-Gloss.jpg",
+    accent: "#dc2626",
+    description:
+      "This modern high-gloss white coffee table features a sleek, handleless dual-drawer design paired with an open bottom shelf for optimized living room organization. Crafted from durable engineered wood, its minimalist aesthetic effortlessly complements contemporary, Scandinavian, or industrial home decor styles.",
+    details: [
+      'Dimensions: Measures exactly 102.5 cm wide, 55 cm deep, and 44 cm high, making it a compact yet highly functional center piece.',
+      'Premium Finish: Boasts a glossy white exterior that provides a clean, light-reflective look and is exceptionally easy to wipe clean.',
+      "Ample Storage: Features two smooth-gliding drawers for hidden items alongside a large lower shelf for media consoles, books, or baskets.",
+      'Sturdy Construction: Built from robust engineered wood designed to resist daily wear and tear while providing reliable structural stability.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "laundry-basket",
+    name: 'VASAGLE Double Laundry Basket',
+    code: "B0H1L365FZ",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Laundry-Basket.jpg",
+    accent: "#dc2626",
+    description:
+      "This multi-functional laundry station combines a robust steel garment rack with a dual-compartment hamper system to streamline your clothing organization. Its sleek space-saving profile provides a practical solution for drying, hanging, and sorting laundry within a single compact footprint.",
+    details: [
+      'Dual-Sorting Capacity: Two independent sliding fabric bags hold up to 92 liters total (46L per side) to easily separate whites and colors.',
+      'Integrated Hanging Rail: A top steel rod supports up to 20 kg (44 lbs) of weight, making it ideal for air-drying clothes or storing outerwear.',
+      "Dual Work Shelves: Engineered greige wood panels offer convenient top and middle tier surfaces for folding clothes or storing detergent.",
+      'Pull-Out Design: The fabric bags slide out smoothly on guided rails and feature hook-and-loop fasteners for quick detachment and easy carrying.',
+      'Sturdy & Stable Frame: Built with a rigid steel frame and adjustable leveling feet to keep the unit stable even on uneven floors.',
+    ],
+      specs:[
+      ["Lot", "114"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "bookcase",
+    name: 'Modern Design Wooden Bookcase',
+    code: "ML10293",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$90",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/bookcase.jpg",
+    accent: "#dc2626",
+    description:
+      "This 4-tier asymmetric geometric bookcase features a modern staggered layout with alternating open shelves and contrasting black accent panels. Its dual-sided open design allows it to easily serve as a sleek wall display shelf or a freestanding room divider.",
+    details: [
+      'Dimensions: 120 cm (Length) x 19.5 cm (Width) x 109 cm (Height)',
+      'Storage Space: 4 tiered storage levels featuring 6 distinct open-and-closed cubby sections',
+      "Structural Safety: Equipped with rear wall-anchoring anti-toppling hardware for reliable stability",
+      'Material & Care: Built from heavy-duty engineered wood with a smooth, scratch-resistant, and waterproof finish',
+    ],
+      specs:[
+      ["Lot", "115"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$90"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Bookcase-with-Cabinet",
+    name: 'Costway Bookcase with Cabinet',
+    code: "48275610",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$80",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Bookcase-with-Cabinet.jpg",
+    accent: "#dc2626",
+    description:
+      "This modern 5-tier wall-mounted ladder bookcase features an industrial black metal frame holding four spacious open display shelves. Its space-saving design is anchored by a practical 2-door lower storage cabinet that keeps your clutter hidden away.",
+    details: [
+      'Overall Dimensions: Measures 60 cm L x 35 cm W x 184 cm H (23.6" x 13.7" x 72.4").',
+      'Storage Space: Offers 4 open tiers for books or plants and 1 enclosed base cabinet with dual handles.',
+      "Safety First: Includes essential anti-tipping wall anchors to secure the top frame firmly to your wall.",
+      'Build Material: Made from durable engineered wood panels and a sturdy powder-coated metal frame.',
+      'Versatile Style: Blends easily into modern, minimalist, or industrial spaces like living rooms and home offices.',
+    ],
+      specs:[
+      ["Lot", "109"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "Laundry-Basket-with-Shelf",
+    name: 'VASAGLE Laundry Basket with Shelf',
+    code: "BLH201W11",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Laundry-Basket-with-Shelf.jpg",
+    accent: "#dc2626",
+    description:
+      "VASAGLE 2-Compartment Laundry Hamper with Slatted Top Shelf — A space-saving, dual-bag sorting station featuring a durable white steel frame and pull-out fabric liners designed for effortless laundry organization and storage.",
+    details: [
+      'Dual-Section Sorter: Separate your whites and darks easily with two independent 46-liter compartments totaling a 92-liter capacity',
+      'Pull-Out & Detachable Liners: Fitted with rigid slide rails and hook-and-loop fasteners so you can slide bags out smoothly or remove them completely to carry directly to the washer.',
+      "Functional Top Shelf: Features a clean, slatted steel surface that prevents water buildup and offers handy overhead storage for laundry detergent, fabric softeners, or toiletries.",
+      'Heavy-Duty Construction: Built with rigid 20 mm steel tubes and supported by four adjustable leveling feet to ensure stable, wobble-free placement on uneven floors.',
+      'Compact Footprint: Measuring 73 x 33 x 72 cm, its slim profile makes it perfect for tight spaces like small laundry rooms, bathrooms, or bedroom closets.',
+    ],
+      specs:[
+      ["Lot", "110"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "COSTWAY-Height-Adjustable-Kid-Study-Desk",
+    name: 'COSTWAY Height Adjustable Kids Study Desk',
+    code: "HY10284BL",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$75",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/COSTWAY-Height-Adjustable-Kid-Study-Desk.jpg",
+    accent: "#dc2626",
+    description:
+      "This ergonomic children's workspace grows alongside your child, featuring manual adjustment knobs on the legs to dynamically change the overall height. Designed to keep learning environments neat and organized, it pairs a multi-level storage hutch with an integrated, tiltable desktop perfect for drawing, reading, or writing.",
+    details: [
+      'Age Range: Designed for growing children aged 3 to 12 years old.',
+      'Ergonomic Desktop: Main surface tilts from 0 to 50 degrees to reduce neck and eye strain.',
+      "Smart Storage: Includes a multi-tier hutch, built-in pen holder, and a large pull-out partition drawer.",
+      'Premium Materials: Built with a scratch-resistant, anti-reflection tabletop and sturdy steel support frame legs.',
+      'Safety Features: Features anti-pinch protective cutouts and rounded corner edges to keep hands safe.',
+    ],
+      specs:[
+      ["Lot", "111"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$75"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "BK-Barbara-Klein-Treadmill",
+    name: 'BK Barbara Klein Treadmill',
+    code: "473587",
+    category: "Sports",
+    condition: "New",
+    estimate: "€299",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/BK-treadmill.png",
+    accent: "#dc2626",
+    description:
+      "This BK Barbara Klein 2-in-1 Smart Treadmill features a space-saving, fold-flat design that easily transitions from a high-speed running machine into a low-profile under-desk walking pad. Created by a leading German fitness expert, it delivers a quiet, high-efficiency workout optimized for small apartments and home offices.",
+    details: [
+      'Dual Functionality: The support handlebar folds down completely for under-desk walking or locks upright for jogging up to 12 km/h',
+      'Compact Storage: Built with a slim profile and transport wheels to easily roll under beds or store vertically in tight closets.',
+      "Integrated Console: Features a built-in LED base screen to monitor your speed, distance, time, and calories in real time.",
+      'User Capacity: Engineered with a sturdy frame that supports a maximum user weight limit of up to 120 kg (~265 lbs).',
+    ],
+      specs:[
+      ["Lot", "112"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€299"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "BK-Barbara-Klein-Trampoline",
+    name: 'BK Barbara Klein Trampoline',
+    code: "472949",
+    category: "Sports",
+    condition: "New",
+    estimate: "€160",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/BK-trampoline.jpg",
+    accent: "#dc2626",
+    description:
+      "The BK by Barbara Klein Hexagon Fitness Trampoline is a premium cardio rebounding tool designed for joint-friendly, high-intensity home workouts. It features a spacious hexagonal jumping surface paired with an adjustable T-bar stability handle to support a wide range of fitness levels.",
+    details: [
+      'Low-Impact Rebounding: Utilizes a high-quality elastic bungee ring system instead of traditional steel springs to deliver a deep, quiet bounce that protects your joints.',
+      'Adjustable T-Bar Handle: Features a central, height-adjustable stability bar that can be modified to match your height or removed entirely for open workouts.',
+      "Compact Space-Saving Design: Equipped with foldable legs that allow the unit to be stowed away flat under a bed or inside a closet when not in use.",
+      'Sturdy Hexagonal Frame: Designed with a 112 cm diameter hexagonal steel frame that provides superior stability and prevents the trampoline from tipping during side-to-side movements.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€160"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+       {
+    id: "Lightweight-Framed-Child-Carrier",
+    name: 'Lightweight Framed Child Carrier',
+    code: "Child Carrier",
+    category: "Sports",
+    condition: "New",
+    estimate: "$60",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/child-carrier.jpg",
+    accent: "#dc2626",
+    description:
+      "The entry-level kid carrier features a suspension that carries a squirming load well, while offering the wearer 25% less perspiration via the Aircomfort ventilated back system. VariQuick system allows for easy adjustment to any back length. Separate bottom compartment. Side pockets. Waistbelt for securing and stabilizing the load. Material: Deuter Microrip Nylon, Deuter Super Polytex",
+    details: [
+      'Aircomfort Ventilation System',
+      'Vari Quick System: For easy adjustment to any back length',
+      "Bottom Compartment: With removable separator for ideal gear access and load placement",
+      'Side Pockets: stretch side pockets provide additional storage space',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$60"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "radiator-cover",
+    name: 'Radiator cover',
+    code: "B0C414641C",
+    category: "Sports",
+    condition: "New",
+    estimate: "$45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/radiator-cover.jpg",
+    accent: "#dc2626",
+    description:
+      "This modern MDF radiator cover is designed to elegantly conceal your home heating unit while providing a functional display shelf for decor. Its slatted structure ensures excellent heat distribution throughout the room while keeping children and pets safe from hot surfaces.",
+    details: [
+      'Material Composition: Crafted from high-density, sturdy MDF (Medium-Density Fibreboard).',
+      'Surface Coating: Finished with a protective, water-based lacquer that is easy to wipe clean.',
+      "Airflow Pattern: Features a slatted design optimized for unrestricted, natural heat circulation.",
+      'Safety Feature: Creates a reliable physical barrier to protect against direct contact burns.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "dowinx-ls-6650",
+    name: 'Dowinx Ergonomic Gaming Chair',
+    code: "LS-6650",
+    category: "Sports",
+    condition: "New",
+    estimate: "$140",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/downix.jpg",
+    accent: "#dc2626",
+    description:
+      "This ergonomic Dowinx LS-6650 Gaming Chair combines sleek PU leather styling with an integrated retractable footrest for maximum comfort. It provides tailored orthopedic support during extended gaming or working sessions through its signature pocket spring cushion and dual-zone pillows.",
+    details: [
+      'Dynamic Reclining: Bends backward up to 135°–140° with an extendable footrest for quick power naps.',
+      'Linkage Armrests: Moves automatically as you tilt to keep your elbows supported at any angle.',
+      "Massaging Lumbar: Features a USB-powered vibrating mechanism inside the lower back cushion.",
+      'Heavy-Duty Base: Supported by a robust steel frame and smooth-rolling nylon casters.',
+      'Pocket Spring Seat: Uses coil springs similar to a premium mattress to prevent the seat from flattening over time.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$140"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+       {
+    id: "tectake-gaming-chair",
+    name: 'tectake Ergonomic Gamer Chair',
+    code: "B085NW1SHH",
+    category: "Sports",
+    condition: "New",
+    estimate: "€140",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/tectake-gaming-chair.jpg",
+    accent: "#dc2626",
+    description:
+      "This racing-style ergonomic office chair features a sleek black and red faux leather and mesh fabric exterior designed for comfort. It is equipped with a high backrest, integrated padded armrests, and a sturdy 360-degree swivel base perfect for long gaming or working sessions.",
+    details: [
+      'Material: Upholstered in durable polyurethane (PU) synthetic leather paired with breathable mesh panels.',
+      'Ergonomics: Thickly padded seat cushion and backrest with integrated, contoured armrests for maximum comfort.',
+      "Adjustability: Features a smooth pneumatic gas lift for seamless seat height modification.",
+      'Mobility: Built on a stable five-star base with double-wheel casters suitable for multiple flooring types.',
+      'Ventilation: Designed with dual open cut-outs in the headrest area to promote air circulation.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€140"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Modern-Dining-Chairs",
+    name: 'Modern Dining Chairs',
+    code: "B0FVFBNXZX",
+    category: "Sports",
+    condition: "New",
+    estimate: "€150",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/modern-dining-chairs.jpg",
+    accent: "#dc2626",
+    description:
+      "This mid-century modern cantilever dining chair beautifully blends retro aesthetics with contemporary comfort, pairing a breathable woven rattan backrest with a plush velvet upholstered seat cushion. Built on an architectural chrome-plated steel frame, it delivers a gentle, flexible spring motion that adds distinct vintage charm to any dining room.",
+    details: [
+      'Iconic Silhouette: Inspired by classic 1920s Cesca design, featuring a legless cantilever base made from polished tubular steel.',
+      'Mixed-Texture Materials: Features a natural woven cane back framed in warm light wood and a high-density sponge seat wrapped in soft velvet fabric.',
+      "Heavy-Duty Build: Reinforced with a double-steel internal pipe system to ensure a sturdy weight capacity of up to 360 lbs.",
+      'Floor Protection: Outfitted with clear, anti-scratch rubber glides on the bottom of the metal frame to shield hard surfaces.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€150"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "Tent-Roskilde",
+    name: 'Tectake Tent Roskilde',
+    code: "404825",
+    category: "Sports",
+    condition: "New",
+    estimate: "€130",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Tent-Roskilde.webp",
+    accent: "#dc2626",
+    description:
+      "The tectake 404825 Roskilde is a spacious 6-person tunnel tent featuring a large sleeping cabin and a functional front vestibule. It provides excellent weather protection and a comfortable standing height, making it ideal for family camping trips and festival groups.",
+    details: [
+      'High Waterproof Rating: Offers a 10,000 mm hydro-static head with PU-coated polyester and taped seams for superior rain protection.',
+      'Spacious Interior: Generous dimensions of 480 x 350 x 195 cm offer plenty of headroom and space to move comfortably.',
+      "Bug-Free Ventilation: Equipped with four mesh windows and two zipped entrances to ensure optimal airflow while keeping insects out.",
+      'Sun Protection: Fabric features a UV 50+ coating to shield occupants from harsh solar radiation.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€130"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  {
+    id: "Lumbar-Support-Mesh-Chair",
+    name: 'Lumbar Support Mesh Chair',
+    code: "B0FQC8GKPL",
+    category: "Sports",
+    condition: "New",
+    estimate: "$80",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Lumbar-Support-Mesh-Chair.jpg",
+    accent: "#dc2626",
+    description:
+      "This Nakabayashi CNN-008BK is an ergonomic mesh office chair designed with an adjustable lumbar support system to minimize lower back fatigue. It features spacesaving, flip-up padded armrests and a high-density urethane foam cushion for reliable daily working comfort.",
+    details: [
+      'Lumbar Support: Adjusts up and down by 2.4 inches (6 cm) to match the natural curvature of your spine.',
+      'Flip-Up Armrests: Rotate upward smoothly so you can tuck the chair completely under your desk when not in use.',
+      "Seat Cushion: Features a thick 2.8-inch (70 mm) molded urethane foam pad that prevents bottoming out.",
+      'Materials: Constructed with a high-tension, breathable polyester mesh backrest and a durable nylon base.',
+      'Dimensions: Measures 72.5 cm x 67 cm x 100–108 cm with an adjustable seat height range of 44.5–52.5 cm.',
+      'Weight Capacity: Supports a maximum user weight of up to 220.5 lbs (100 kg).',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
 ];
 export const featuredProduct = products[0]; 
-
