@@ -21,6 +21,40 @@ export type Product = {
 };
 
 export const products: Product[] = [
+    {
+    id: "bookshelf",
+    name: 'WOLTU Children’s Bookcase',
+    code: "KR013-MA",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€30",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/bookshelf.jpg",
+    accent: "#dc2626",
+    description:
+      "The WOLTU Children’s Bookcase is a wall-mounted, 3-tier storage unit made from premium E1 MDF and solid pine wood bars with a clean white finish. Its front-facing, space-saving design is built at a child-friendly height to encourage toddlers to independently pick out and organize their favorite books.",
+    details: [
+      'Materials: Constructed from durable E1 grade MDF with a water-based, odorless lacquer finish and solid pine support bars.',
+      "Dimensions: Measures approximately 42.5 cm x 14 cm x 80 cm (Width x Depth x Height).",
+      "Weight Capacity: Supports up to 2 kg per shelf, with a total unit capacity of 6 kg.",
+      'Child Safety: Features smooth, rounded corners to prevent bumps and front guardrails to stop books from slipping off.',
+      'Installation: Wall-mounted configuration that saves valuable floor space and includes all necessary assembly hardware.',
+    ],
+      specs:[
+      ["Lot", "93"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€30"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
   {
     id: "sevrin-KA9307",
     name: "Severin Filter Coffee Maker",
@@ -52,6 +86,276 @@ export const products: Product[] = [
       amount: "$9",
       since: "Leading for 6 minutes",
       badge: "Verified collector",
+    },
+  },
+    {
+    id: "Energy-saving-pot",
+    name: "Energy-saving pot",
+    code: "12196",
+    category: "Electronics",
+    condition: "New",
+    estimate: "€49.99",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/pot.webp",
+    accent: "#dc2626",
+    description:
+      "The GOURMETmaxx 5.8L Energy-Saving Pot uses a tightly sealed thermal system to cook your meals faster while cutting down on energy use. Unlike traditional pressure cookers, it operates without high pressure, allowing you to safely open the lid at any time to stir or season your food.",
+    details: [
+      "Generous Capacity: Holds up to 5.8 liters, making it ideal for family-sized meals, stews, and soups.",
+      "Premium Build: Made of durable die-cast aluminum with a sleek black exterior and vibrant red accents.",
+      "Safe & Convenient: Equipped with a built-in pressure relief valve and heat-insulated handles for safe handling.",
+      "Easy Maintenance: Includes a high-quality non-stick coating for effortless food release and quick cleanup.",
+    ],
+      specs:[
+      ["Lot", "15"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€49.99"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+       {
+    id: "handheld-garment-steamer",
+    name: 'Handheld Garment Steamer',
+    code: "CY-801",
+    category: "Electronics",
+    condition: "New",
+    estimate: "30$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Steamer.jpeg",
+    accent: "#dc2626",
+    description:
+      "This high-power handheld garment steamer features a fast-heating design that smooths out tough wrinkles quickly and effortlessly. It is an ideal portable solution for refreshing a wide variety of everyday clothing fabrics both at home and on the go.",
+    details: [
+      "Water Reservoir: Offers a generous 320 ml capacity for extended steaming time without constant refilling.",
+      "Speedy Heat-Up: Ready to use in just 20 seconds to accommodate quick, last-minute wardrobe touch-ups.",
+      "Steam Settings: Equipped with 3 adjustable power gears to safely tailor the heat to delicate silks or heavy jackets.",
+      "Operating Range: Equipped with a 5-meter power cable for comfortable room-to-room cleaning without constant outlet switching.",
+      "Ergonomic Build: Designed with a comfortable handheld grip and a wide, smooth-glide metal steaming plate.",
+    ],
+      specs:[
+      ["Lot", "40"],
+      ["Included", "Full set"],
+      ["Price in origin country", "30$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  }, 
+   {
+    id: "weskate-Skateboard",
+    name: 'Weskate Skateboard',
+    code: "3108-1",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$30",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/skateboard.jpg",
+    accent: "#dc2626",
+    description:
+      "The WeSkate 3108-1 is a complete, pre-assembled 31-inch standard skateboard built from durable 7-ply Canadian maple. Featuring a double kick concave design and soft shock-absorbing wheels, it is an ideal, budget-friendly choice for beginners and teenagers learning basic stunts or cruising.",
+    details: [
+      "Deck Construction: 7-ply high-density Canadian maple wood offers great flexibility and durability.",
+      "Dimensions: 31 inches long by 8 inches wide (78.5 x 19.5 cm) provides a stable riding platform.",
+      "Weight Capacity: Supports a maximum load of up to 220 lbs (100 kg).",
+      "Wheels: 85A polyurethane shock-absorbing wheels ensure a smooth ride on rough street surfaces.",
+      "Bearings: ABEC-7 high-speed precision bearings allow for easy, long-lasting coasting.",
+      "Trucks: 5-inch heavy-duty aluminum alloy trucks provide sturdy control and steering.",
+      "Grip Tape: Pre-applied waterproof diamond emery sandpaper delivers high friction for excellent shoe grip.",
+    ],
+      specs:[
+      ["Lot", "61"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$30"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "radiator-cover",
+    name: 'Radiator cover',
+    code: "B0C414641C",
+    category: "Sports",
+    condition: "New",
+    estimate: "$45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/radiator-cover.jpg",
+    accent: "#dc2626",
+    description:
+      "This modern MDF radiator cover is designed to elegantly conceal your home heating unit while providing a functional display shelf for decor. Its slatted structure ensures excellent heat distribution throughout the room while keeping children and pets safe from hot surfaces.",
+    details: [
+      'Material Composition: Crafted from high-density, sturdy MDF (Medium-Density Fibreboard).',
+      'Surface Coating: Finished with a protective, water-based lacquer that is easy to wipe clean.',
+      "Airflow Pattern: Features a slatted design optimized for unrestricted, natural heat circulation.",
+      'Safety Feature: Creates a reliable physical barrier to protect against direct contact burns.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "Cotsoco-Massage-Gun",
+    name: 'Cotsoco Deep Tissue Massage Gun',
+    code: "M679",
+    category: "Furniture",
+    condition: "New",
+    estimate: "30$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/massageGun.webp",
+    accent: "#dc2626",
+    description:
+      "The Cotsoco Deep Tissue Massage Gun is an affordable, high-performance percussion therapy device engineered to relieve muscle soreness and accelerate athletic recovery. It features a customizable, multi-speed design and an array of interchangeable attachments to deliver a targeted, professional-grade deep tissue massage right at home.",
+    details: [
+      "Powerful Brushless Motor: Delivers up to 3,200 RPM of percussion while keeping noise levels exceptionally quiet at under 45dB.",
+      "Variable Speed Control: Offers 20 to 30 distinct intensity levels managed easily through an intuitive LCD touchscreen display.",
+      "Interchangeable Massage Heads: Includes 6 to 12 specialized attachments tailored to target unique muscle groups, joints, and trigger points.",
+      "Long Battery Life: Features a rechargeable lithium-ion battery providing 4 to 6 hours of continuous wireless operation per charge.",
+      "Ergonomic & Portable: Built with an anti-slip silicone grip and comes packed in a dedicated travel carrying case for on-the-go relief.",
+    ],
+      specs:[
+      ["Lot", "52"],
+      ["Included", "Full set"],
+      ["Price in origin country", "30$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "EUGAD-Swivel-Office-Chair",
+    name: 'EUGAD Swivel Office Chair',
+    code: "Z-OFC104dgr",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$120",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Z-OFC104dgr.jpg",
+    accent: "#dc2626",
+    description:
+      "The Z-OFC104DGR is a compact, dark grey ergonomic office chair designed with a breathable mesh backrest for dependable lumbar support. Its small footprint and smooth mobility make it an ideal seating choice for smaller home offices, reception desks, or commercial salons.",
+    details: [
+      "Color: Dark grey mesh backrest and padded seat upholstery with a matching black or charcoal frame.",
+      "Ergonomics: Features a contoured mid-back design providing targeted lower back support to minimize strain.",
+      'Adjustability: Equipped with a smooth pneumatic gas lift for height customization and a standard tilt mechanism.',
+      'Mobility: Built on a heavy-duty, 360-degree swivel 5-star base with dual-wheel rolling casters.',
+      'Ideal Use: Perfectly suited for compact workstations, retail counters, and study spaces.',
+    ],
+      specs:[
+      ["Lot", "74"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$120"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "VASAGLE-Under-Sink-Bathroom-Cabinet",
+    name: 'VASAGLE Under Sink Bathroom Cabinet',
+    code: "BBK513GU01",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€50",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Under-Sink-Bathroom-Storage.jpg",
+    accent: "#dc2626",
+    description:
+      "This VASAGLE Under-Sink Storage Cabinet is a contemporary, space-saving freestanding bathroom vanity finished in a striking cloud white and cement grey tone. It features a top siphon slot precisely engineered to wrap seamlessly around pedestal or column-less basin plumbing to neatly hide unsightly pipes.",
+    details: [
+      "Smart Layout: Offers 3 deep pull-out side drawers and a single-door cupboard section featuring 2 adjustable height internal compartments.",
+      "Built to Last: Constructed from moisture-resistant, robust MDF engineered wood paired with clean, sleek silver metal linear pull handles.",
+      'Product Dimensions: Measures approximately 30 x 60 x 64 cm (11.8"D x 23.6"W x 25.2"H) to fit comfortably in small-to-medium bathroom layouts.',
+      "Elevated Base: Raised on short protective feet to prevent water damage from damp bathroom floors and make cleaning underneath easy.",
+    ],
+      specs:[
+      ["Lot", "66"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€50"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },  
+    {
+    id: "Sejoy-Cordless-Oral-Irrigator",
+    name: ' Sejoy Cordless Oral Irrigator',
+    code: "CYQ-FC5091",
+    category: "Electonics",
+    condition: "New",
+    estimate: "50$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/oral-irrigator.jpg",
+    accent: "#dc2626",
+    description:
+      'The Sejoy Cordless Oral Irrigator is a portable water flosser designed with a 1400mAh rechargeable lithium-ion battery for deep dental cleaning. It includes a dedicated inductive charging dock that doubles as a built-in tip organizer to keep accessories clean and accessible.',
+    details: [
+      "Long Battery Life: Features a built-in 1400mAh Li-ion battery providing an active continuous runtime of ≥ 30 minutes per full charge.",
+      "Inductive Charging Base: Includes a convenient wireless charging dock that keeps the main handle powered up and neatly organizes your flossing tips.",
+      "Independent Controls: Built with standalone, separate Power ON/OFF and Mode Selection buttons for intuitive, mess-free operation.",
+      "Versatile Cleaning: Offers multiple operation pressure modes (Normal, Soft, Pulse) to adapt to sensitive gums, braces, and implants.",
+    ],
+      specs:[
+      ["Lot", "27"],
+      ["Included", "Full set"],
+      ["Price in origin country", "50$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
     },
   },
   {
@@ -159,6 +463,345 @@ export const products: Product[] = [
     },
   },
   {
+    id: "zit-blender",
+    name: "Z.I.T Countertop Blender",
+    code: "ZIT1009",
+    category: "Blender",
+    condition: "New",
+    estimate: "30$ - 40$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/zit2.jpeg",
+    accent: "#dc2626",
+    description:
+      "The ZIT 1009 is a powerful 1000W multi-function 2-in-1 countertop blender engineered for effortless food preparation. Its sleek stainless steel design and high-capacity glass jug make it a durable and elegant addition to any modern kitchen.",
+    details: [
+      "High-Powered Motor: 1000 Watts for efficient blending.",
+      "Dual Functionality: 2-in-1 system includes a blending jug and a grinding attachment.",
+      "Large Capacity: 1.5 Liter heavy-duty glass jar.",
+      "Speed Control: 3 variable speed settings plus a pulse function.",
+      "Ice Crushing Blades: Premium stainless steel blade system.",
+      "Sturdy Build: Premium stainless steel base with non-slip feet.",
+    ],
+      specs:[
+      ["Lot", "6"],
+      ["Included", "Full set"],
+      ["Price in origin country", "40$ - 50$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "projector",
+    name: "Magcubic Projector HY320",
+    code: "HY320",
+    category: "Projector",
+    condition: "New",
+    estimate: "100$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/projector.jpg",
+    accent: "#dc2626",
+    description:
+      "The Magcubic HY320 is an ultra-affordable, full HD portable smart projector featuring a 180-degree rotating stand that easily projects onto walls or ceilings. Running on a built-in Android operating system, it provides instant access to your favorite streaming apps without needing extra hardware.",
+    details: [
+      "Resolution: Native 1080p Full HD resolution with support for 4K video decoding.",
+      "Brightness: 390 to 500 ANSI lumens, offering great clarity in dark or dim rooms.",
+      "Throw Ratio: Short 0.9:1 throw ratio that projects a massive 100-inch screen from just 2 meters away.",
+      "Wireless Tech: Dual-band Wi-Fi 6 for lag-free streaming and Bluetooth 5.0 for wireless audio.",
+      "Smart Adjustments: Auto vertical keystone correction and four-corner manual calibration for a perfectly square image.",
+    ],
+      specs:[
+      ["Lot", "13"],
+      ["Included", "Full set"],
+      ["Price in origin country", "100$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "WOLTU-Bar-Stool",
+    name: 'WOLTU Bar Stool',
+    code: "BH296sz-2",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€80",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Bar-Stool.jpg",
+    accent: "#dc2626",
+    description:
+      "A stylish and comfortable set of 2 modern bar stools featuring luxurious black velvet upholstery, ergonomic low backrests, and robust matte black metal legs designed to elevate any kitchen island, home bar, or dining area.",
+    details: [
+      "Premium Comfort: Upholstered in skin-friendly velvet and padded with high-density foam that retains its shape over time.",
+      "Ergonomic Design: Equipped with a gently curved low backrest and a built-in metal footrest to reduce muscle fatigue and provide lumbar support.",
+      "Sturdy Construction: Built with cross-shaped, matte powder-coated metal legs that are rust-proof, scratch-resistant, and highly stable.",
+      "Floor Protection: Features non-slip foot pads under each leg to prevent slipping, dampening noise, and shielding your floors from scratches.",
+      "High Weight Capacity: Engineered to easily support up to 150 kg (approx. 330 lbs) per chair.",
+    ],
+      specs:[
+      ["Lot", "53"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+        {
+    id: "e-bike-1",
+    name: 'SWFT Volt Electric Bike',
+    code: "SWFT-VOLT-BLK",
+    category: "Sports",
+    condition: "New",
+    estimate: "700$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
+    accent: "#dc2626",
+    description:
+      "The SWFT Volt Electric Bike is an affordable, single-speed commuter e-bike designed for efficient city riding. It combines a clean, classic road-bike aesthetic with a quiet 350W motor to easily power your daily trips.",
+    details: [
+      "Top Speed: 20 mph using either pedal assist or the thumb throttle.",
+      "Battery Range: Up to 32 miles on a single charge with a clean, integrated frame battery.",
+      "Lightweight Build: Weighs just 44.1 lbs, making it much easier to carry and maneuver than standard e-bikes.",
+      "Rider Fit: Large 58 cm steel frame with a 32.5-inch standover height, best suited for taller riders.",
+      "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
+    ],
+      specs:[
+      ["Lot", "37"],
+      ["Included", "Full set"],
+      ["Price in origin country", "700$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  }, 
+        {
+    id: "Barber-Chair",
+    name: 'Costway Barber Chair',
+    code: "49816520",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$280",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Barber-Chair.jpg",
+    accent: "#dc2626",
+    description:
+      "The COSTWAY Heavy Duty Hydraulic Barber Salon Chair is a professional-grade styling chair featuring an ergonomic black faux-leather seat with tufted buttons and integrated armrests. Supported by a heavy-duty chrome hydraulic base, it provides full 360° rotation and customizable height configurations for professional beauty environments.",
+    details: [
+      "Adjustable Component: Fitted with an extendable and removable headrest to fit clients of different heights.",
+      "Mobility System: Features a robust 360-degree swivel mechanism that locks in place seamlessly during styling.",
+      "Hydraulic Pump: Built with a premium, heavy-duty foot-pedal pump for smooth height modifications.",
+      "Structural Support: Anchored by a square chrome base and an integrated T-shaped footrest for maximum stability and user comfort.",
+    ],
+      specs:[
+      ["Lot", "46"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$280"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+        {
+    id: "Storage-Shelving-Unit",
+    name: 'WOLTU Storage Shelving Unit ',
+    code: "RGB9289whe",
+    category: "Electronics",
+    condition: "New",
+    estimate: "€45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/WOLTU-shelf.jpg",
+    accent: "#dc2626",
+    description:
+      "A stylish and practical 5-tier storage shelving unit featuring walnut MDF shelves and a sturdy black metal frame. Perfect for organizing and displaying books, plants, kitchen essentials, bathroom products, and more.",
+    details: [
+      "5 spacious open shelves for versatile storage",
+      "Modern industrial design with walnut MDF and black metal",
+      "Strong and durable construction",
+      "Anti-tip device for added stability and safety",
+      'Back panels help prevent items from falling',
+    ],
+      specs:[
+      ["Lot", "45"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "meat-grinder",
+    name: "Electric meat grinder",
+    code: "100393890",
+    category: "Electronics",
+    condition: "New",
+    estimate: "€45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/meatgrinder.webp",
+    accent: "#dc2626",
+    description:
+      "The Silvercrest Electric Meat Grinder is a versatile and budget-friendly kitchen appliance designed for easily preparing fresh minced meat, sausages, and baked goods at home. It features a reliable motor with a practical reverse function to quickly clear any food blockages without disassembly.",
+    details: [
+      "Power Output: Operates at 300W to 400W (depending on the model) for efficient home processing.",
+      "Processing Speed: Grinds approximately 1 kg to 1.2 kg of meat per minute.",
+      "Reverse Function: Features a safety reverse button to easily clear trapped meat or sinew.",
+      "Included Attachments: Comes with multiple grinding discs, a sausage stuffer, a kebbe attachment, and a spritz biscuit shaper.",
+      "Cleaning Note: Aluminum parts are not dishwasher safe and must be washed by hand to prevent discoloration.",
+    ],
+      specs:[
+      ["Lot", "18"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Cyclone-vacuum-cleaner-800W",
+    name: "Cyclone vacuum cleaner 800W",
+    code: "100401497",
+    category: "Electronics",
+    condition: "New",
+    estimate: "€45.99",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/vaccum.webp",
+    accent: "#dc2626",
+    description:
+      "The CLEANmaxx Multi-Zyklonstaubsauger is a compact, bagless cylinder vacuum cleaner designed for highly efficient household cleaning. It utilizes multi-cyclone technology to separate dirt from the airflow, maintaining constant, powerful suction without the need for bags.",
+    details: [
+      "Suction Power: Delivers a strong 17 kPa maximum suction force.",
+      "Motor Performance: Equipped with an energy-efficient 800-watt motor.",
+      "Dust Capacity: Features a easy-to-empty 2-liter dirt container.",
+      "Filtration System: Includes an EPA filter for cleaner exhaust air, ideal for allergy sufferers.",
+      "Operating Range: Provides a 6.5-meter action radius with an automatic cable rewind mechanism.",
+    ],
+      specs:[
+      ["Lot", "16"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€45.99"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "tornado-tv",
+    name: 'TORNADO Smart LED TV 32 Inch HD"',
+    code: "32EA6500E",
+    category: "Electonics",
+    condition: "New",
+    estimate: "170$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/tornadotv32.webp",
+    accent: "#dc2626",
+    description:
+      'The Tornado 32" TV is a highly affordable, compact television that delivers vibrant high-definition visuals alongside an integrated digital receiver to seamlessly save space. Manufactured by the Elaraby Group, it features options running Google TV or WebOS platforms to easily stream modern entertainment services.',
+    details: [
+      "Display Quality: Features standard HD resolution (1366 x 768) with clean 60Hz refresh rates for smooth local viewing.",
+      "Audio Engineering: Equipped with standard dual 8W speakers paired with Dolby Digital Plus audio enhancement software.",
+      "Smart Ecosystems: Available with full Wi-Fi connectivity, built-in Chromecast, and immediate access to Netflix, YouTube, and Shahid.",
+      "Wired Connectivity: Includes multi-port setups featuring 2x HDMI inputs and 2x USB slots for media playback.",
+      "Hardware Protection: Outfitted with specialized internal voltage regulators to protect sensitive components from electrical surges.",
+    ],
+      specs:[
+      ["Lot", "22"],
+      ["Included", "Full set"],
+      ["Price in origin country", "170$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "SONGMICS-Ergonomic-Gaming-and-Office-Chair",
+    name: 'SONGMICS Ergonomic Gaming and Office Chair ',
+    code: "OBG066P01",
+    category: "Furniture",
+    condition: "New",
+    estimate: "90$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/SONGMICS-gaming-chair.jpg",
+    accent: "#dc2626",
+    description:
+      "The SONGMICS OBG066P01 is an ergonomic racing-style gaming and office chair finished in a sleek pastel pink color. It features a unique, height-adjustable telescopic headrest and breathable hybrid fabric upholstery designed for long-term comfort and support.",
+    details: [
+      "Smart Headrest: Features an adjustable telescopic design tailored to support individuals between 170 cm and 190 cm tall",
+      "Breathable Fabric: Combines perforated PU faux leather with a cotton-linen blend to prevent sweating and improve airflow",
+      'Strong Capacity: Built on a robust frame and base that safely supports a maximum static load of up to 150 kg.',
+      "Relaxing Tilt: Offers a seat height range of 46.5–56.5 cm alongside a comfortable 95° to 110° rocking/tilt mechanism.",
+    ],
+      specs:[
+      ["Lot", "67"],
+      ["Included", "Full set"],
+      ["Price in origin country", "90$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  {
     id: "hand-blender",
     name: "Z.I.T Hand Blender",
     code: "ZIT1008",
@@ -191,33 +834,808 @@ export const products: Product[] = [
       badge: "Design dealer",
     },
   },
-  {
-    id: "zit-blender",
-    name: "Z.I.T Countertop Blender",
-    code: "ZIT1009",
-    category: "Blender",
+     {
+    id: "Feandrea-Collapsible-Soft-Dog-Crate",
+    name: 'Feandrea Collapsible Soft Dog Crate',
+    code: "Feandrea Collapsible Soft Dog Crate",
+    category: "Furniture",
     condition: "New",
-    estimate: "30$ - 40$",
+    estimate: "$45",
     ////////////////////////////////////////////////////
     currentBid: "$0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/zit2.jpeg",
+    image: "/products/feandrea.jpg",
     accent: "#dc2626",
     description:
-      "The ZIT 1009 is a powerful 1000W multi-function 2-in-1 countertop blender engineered for effortless food preparation. Its sleek stainless steel design and high-capacity glass jug make it a durable and elegant addition to any modern kitchen.",
+      "The Feandrea Collapsible Soft Dog Crate is a lightweight, portable pet carrier featuring a sturdy steel frame wrapped in durable, water-resistant Oxford fabric. It is designed with scratch-resistant mesh windows on multiple sides to ensure excellent ventilation and visibility for your pet during travel or indoor use.",
     details: [
-      "High-Powered Motor: 1000 Watts for efficient blending.",
-      "Dual Functionality: 2-in-1 system includes a blending jug and a grinding attachment.",
-      "Large Capacity: 1.5 Liter heavy-duty glass jar.",
-      "Speed Control: 3 variable speed settings plus a pulse function.",
-      "Ice Crushing Blades: Premium stainless steel blade system.",
-      "Sturdy Build: Premium stainless steel base with non-slip feet.",
+      "Material Composition: Crafted from heavy-duty 600D Oxford fabric with tight-weave mesh netting.",
+      "Easy Portability: Features a tool-free, collapsible design that folds completely flat in seconds for quick vehicle storage.",
+      'Convenient Accessibility: Equipped with multiple zippered doors (top and sides) to easily let your pet in or out.',
+      'Built-in Storage: Includes integrated fabric pockets on the exterior to securely hold treats, toys, or leashes.',
+      'Stable Support: Constructed around a lightweight, powder-coated internal steel frame for structured rigidity.',
     ],
       specs:[
-      ["Lot", "6"],
+      ["Lot", "81"],
       ["Included", "Full set"],
-      ["Price in origin country", "40$ - 50$"],
+      ["Price in origin country", "$45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "bar-Stool-Avane-Set-of-2",
+    name: 'Bar Stool Avane Set of 2',
+    code: "405861",
+    category: "Furniture",
+    condition: "New",
+    estimate: "£125",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/bar-Stool-Avane-Set-of-2.webp",
+    accent: "#dc2626",
+    description:
+      "The tectake Avane Bar Stool (Model 405861) features an elegant cream velvet-look seat paired with slim, gold-finished steel legs. Its chic, contemporary design blends comfort and style, making it a perfect addition to modern kitchen islands or home bars.",
+    details: [
+      "Seating Comfort: Ergonomically designed, plush seat shell with supportive backrest and integrated armrests.",
+      "Premium Materials: Upholstered in a soft-touch, hard-wearing fabric surface with steady, floor-protecting legs.",
+      'Built to Last: Sturdy steel construction capable of supporting a maximum load capacity of 120 kg.',
+      'Dimensions: Measures approximately 48.5 x 57 x 108 cm with a classic counter-to-bar profile.',
+      'Stable Design: Equipped with a built-in metal footrest ring for enhanced seating posture and overall stability.',
+    ],
+      specs:[
+      ["Lot", "80"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£125"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  {
+    id: "Parkside-12V",
+    name: 'Parkside 12V 2-in-1 Drill & Driver Set',
+    code: "IAN-100388837",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€90",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/cordless-drill.png",
+    accent: "#dc2626",
+    description:
+      "The Parkside 12V Cordless Drill Driver Set is a compact, highly versatile power tool renowned for its unique 2-in-1 design featuring a removable keyless chuck. It belongs to the interchangeable Parkside X 12V Team battery system, making it a budget-friendly staple for both quick household repairs and routine DIY projects.",
+    details: [
+      "Dual Functionality: Removable 10mm metal chuck reveals an integrated magnetic bit holder underneath for rapid swapping between drilling and driving.",
+      "Speed Control: Two-speed gearbox providing 0–350 RPM for heavy screwdriving and 0–1,300 RPM for smooth drilling.",
+      "Adjustable Torque: 19 selectable torque settings plus an additional dedicated drill setting to prevent over-tightening.",
+      'Ecosystem Compatibility: Powered by 12V lithium-ion batteries that seamlessly fit all other tools in the Parkside 12V family.',
+    ],
+      specs:[
+      ["Lot", "88"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€90"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Coffee-Table",
+    name: 'WOLTU Coffee Table',
+    code: "TSG17hei",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€25",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Coffee-Table.jpg",
+    accent: "#dc2626",
+    description:
+      "The WOLTU TSG17hei is a compact, C-shaped side table designed to slide seamlessly under your sofa or bed to save space. Featuring a light oak finish and a black metal frame, it brings both modern style and convenient tabletop access directly to your seat.",
+    details: [
+      'Space-Saving Design: The C-shaped structure allows the base to slide underneath furniture, maximizing usable space in tight rooms.',
+      "Premium Materials: Built with a waterproof, scratch-resistant E1-class MDF tabletop and a durable, rust-resistant black steel frame.",
+      "Compact Dimensions: Measures 45 x 25 x 63.5 cm (L x W x H), making it highly suitable for holding a laptop, coffee cup, or book.",
+      'Lightweight & Portable: Weighs around 3 kg, allowing you to effortlessly move it between your living room, bedroom, or office.',
+      'Floor Protection: Equipped with non-slip feet protectors that prevent floor scratches and improve overall stability.',
+    ],
+      specs:[
+      ["Lot", "96"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€25"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+        {
+    id: "Tectake-child-car-seat",
+    name: 'Tectake Child Car Seat',
+    code: "400212",
+    category: "Furniture",
+    condition: "New",
+    estimate: "£70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/babychair.jpg",
+    accent: "#dc2626",
+    description:
+      "This tectake child car seat features thick padding and an adjustable headrest to grow comfortably with your toddler. It safely adapts from a forward-facing harness seat to a high-back booster using your car's standard 3-point seat belt.",
+    details: [
+      "Long-Lasting Use: Suitable for children from 15 months up to approximately 12 years old (or a body weight of 9 to 36 kg).",
+      "Safety First: Equipped with an integrated 5-point safety harness and sturdy side-impact wings to keep children secure.",
+      "Grow-With-Me Design: Features a multi-position height-adjustable headrest to comfortably accommodate a growing child.",
+      "Removable Reducer Pad: Includes an extra-thick, washable insert padding that can be removed as the child gets older.",
+    ],
+      specs:[
+      ["Lot", "55"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "drying-Rack",
+    name: 'Drying Rack',
+    code: "dryingRack",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$35",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/dryingRack.png",
+    accent: "#dc2626",
+    description:
+      "This extendable clothes drying rack from Home Creation offers a highly flexible drying surface that easily expands to accommodate larger laundry loads. It features a robust design capable of holding up to 20 kg and includes integrated wheels for effortless mobility even when fully loaded.",
+    details: [
+      "Extendable Frame: The central section smoothly pulls out to increase drying space, making it perfect for wide items like bedsheets.",
+      "High Weight Capacity: Engineered to securely support a maximum load of up to 20 kg.",
+      'Easy Mobility: Equipped with smooth-rolling wheels on the base for scratch-free, effortless transport around the room.',
+      'Space-Saving Storage: Folds completely flat in seconds, allowing you to easily slip it into tight closets or narrow gaps.',
+    ],
+      specs:[
+      ["Lot", "78"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$35"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Playtive-Fairy-Bouncy-Castle",
+    name: 'Playtive Fairy Bouncy Castle',
+    code: "879000115208",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€35",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Playtive-Fairy-Bouncy-Castle.webp",
+    accent: "#dc2626",
+    description:
+      "The Playtive Fairy Bouncy Castle is an adorable, pink inflatable jumper designed to bring fairy-tale magic and active play to your backyard [1.4]. It features a built-in basketball hoop and a side ring-toss game to keep young children entertained for hours [1.6, 1.20].",
+    details: [
+      "Included Components: A 14-piece set featuring the bounce house, 1 inflatable basketball, 4 inflatable rings, and 8 ground pegs for stability [1.6].",
+      "Safety & Build: Equipped with sturdy protective side walls and 8 separate air chambers with safety valves for quick deflation [1.22].",
+      'Size & Capacity: Measures 160 x 180 x 160 cm (W x H x D) and supports a maximum total weight capacity of 50 kg.',
+      'Age Grading: Specifically designed for kids aged 3 years and older.',
+    ],
+      specs:[
+      ["Lot", "83"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€35"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "Cat-Tree-house",
+    name: 'Cat Tree House',
+    code: "Cat Tree",
+    category: "Sports",
+    condition: "New",
+    estimate: "£60",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Cat-Tree-house.webp",
+    accent: "#dc2626",
+    description:
+      "This compact multi-level cat tree is designed to provide your pet with a comfortable space for scratching, climbing, and resting. It features a space-saving layout finished in a soft, beige plush fabric that easily blends into small indoor spaces.",
+    details: [
+      'Structure: Multi-tier design with two elevated platforms and a ground-level hiding tunnel.',
+      "Materials: Sturdy wooden base plates wrapped in soft plush fabric and durable sisal rope posts.",
+      "Entertainment: Built-in hanging toy ball to encourage active play and hunting instincts.",
+      'Functionality: Multiple dedicated scratching surfaces to help keep your cat’s claws healthy and protect home furniture.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£60"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Parkside-9-piece-tile-tool-case",
+    name: 'Parkside 9-piece Tile Tool Case',
+    code: "IAN 488319",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€90",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Parkside-9-piece-tile-tool-case.jpg",
+    accent: "#dc2626",
+    description:
+      "This 9-piece Parkside Tile Tool Set (IAN 488319 / Article 100395730) is a versatile diamond accessory kit designed for heavy-duty drilling, cutting, and grinding masonry. Engineered for standard 125mm angle grinders with an M14 thread, it provides everything needed to work cleanly with tough materials like porcelain, granite, marble, and ceramic tiles.",
+    details: [
+      "9-Piece Comprehensive Kit: Includes 1 diamond grinding cup, 2 diamond cutting discs, 5 diamond drill bits, and 1 adapter guide.",
+      "High-Grade Diamond Coating: Offers exceptional durability, speed, and precision when cutting or drilling through dense stone.",
+      "125mm Universal Fit: Tailored for standard grinders operating up to a maximum speed of 12,250 RPM.",
+      'Versatile Core Drills: Contains five varying drill bit sizes optimized for making clean holes for pipes and electrical outlets.',
+    ],
+      specs:[
+      ["Lot", "89"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€90"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "SILVERCREST-20V-Cordless-Handheld",
+    name: 'SILVERCREST® 20V Cordless Handheld',
+    code: "Silvercrest SHSA 20-Li A1",
+    category: "Electonics",
+    condition: "New",
+    estimate: "€25",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/silvercrest-20-v-akku.webp",
+    accent: "#dc2626",
+    description:
+      'The Silvercrest SHSA 20-Li A1 is a compact, cordless handheld vacuum designed for rapid cleanup of both dry debris and liquids around the home, workshop, or car. It operates on the highly versatile Parkside 20V battery platform, making it a cost-effective choice if you already own compatible Lidl tools.',
+    details: [
+      "Dual Functionality: Vacuums up dry dust or up to 150 ml of liquid messes.",
+      "Universal Power System: Fully compatible with all batteries in the Parkside X 20 V Team series.",
+      "Sustained Runtime: Delivers up to 35 minutes of continuous use on a standard 2 Ah battery (ECO mode).",
+      "Easy Maintenance: Features a bagless, washable HEPA filter system with a 400 ml dust container",
+      "Complete Attachments: Comes equipped with a crevice nozzle, wet-suction nozzle, and a small brush head.",
+    ],
+      specs:[
+      ["Lot", "24"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€25"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "costway-Walker",
+    name: 'Costway Walker',
+    code: "46102539",
+    category: "Furniture",
+    condition: "New",
+    estimate: "$120",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/costwaywalker.jpg",
+    accent: "#dc2626",
+    description:
+      "The Costway 3-Wheel Folding Rollator is a lightweight aluminum mobility walker featuring a stable, highly maneuverable triangular design. It comes equipped with a central zippered storage bag, adjustable ergonomic handles, and a dual-loop brake system for optimal control.",
+    details: [
+      "Triangular Aluminum Frame: Crafted from sturdy, corrosion-resistant aluminum that remains light and easy to maneuver.",
+      "Height-Adjustable Handles: Features 6 distinct height positions to comfortably fit users of varying heights.",
+      "All-Terrain Wheels: Equipped with three large, wear-resistant wheels designed for stable indoor and outdoor navigation.",
+      "Dual Loop-Lock Brakes: Offers precise speed control during movement and a secure locking mechanism for parking.",
+      "Zippered Storage Bag: Includes a spacious, removable front pouch to store and protect personal belongings.",
+      "Space-Saving Folding Design: Collapses quickly into a compact profile for easy transport and storage in tight spaces.",
+    ],
+      specs:[
+      ["Lot", "60"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$120"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Step-Kitchen-Trash-Can",
+    name: 'SONGMICS Step Kitchen Trash Can',
+    code: "LTB001A01",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€60",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/LTB001A01.jpg",
+    accent: "#dc2626",
+    description:
+      "This SONGMICS Step Kitchen Trash Can features a sleek, space-saving design in a stylish sand beige finish that fits flat against walls or cabinets. Its premium steel construction is paired with a hands-free step pedal and a quiet, soft-close lid mechanism for maximum convenience.",
+    details: [
+      "Quiet Closure: Equipped with a soft-close lid mechanism for silent, slam-free operation.",
+      "Easy Maintenance: Includes a removable plastic inner bucket with an integrated handle for quick emptying and effortless cleaning.",
+      "Stay-Open Feature: The lid can be set to remain open manually when performing longer cleaning tasks.",
+      "Odor Protection: Designed with an airtight lid seal that effectively traps unpleasant kitchen odors inside.",
+      "Sturdy Base: Features a non-slip bottom structure that protects your floors from scratches and keeps the bin firmly in place during use.",
+    ],
+      specs:[
+      ["Lot", "64"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€60"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Cordless-Upholstery",
+    name: "Cordless Upholstery and Carpet Cleaner",
+    code: "100399003",
+    category: "Cleaner",
+    condition: "New",
+    estimate: "€99.99",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/champonese.webp",
+    accent: "#dc2626",
+    description:
+      "Tackle tough spots and spills anywhere with the ultimate portable cleaning companion. Powered by a high-performance 20V lithium-ion battery, this lightweight, cordless carpet cleaner delivers powerful suction to lift deep stains from carpets, rugs, car interiors, and home upholstery without tethering you to an electrical outlet.",
+    details: [
+      "Cordless Convenience: Powered by a removable 20V battery platform for unlimited portability around the home or in your vehicle.",
+      "Dual Tank System: Keeps clean solution and dirty water completely separate for a pristine, streak-free clean every time.",
+      "Powerful Lift Suction: Engineered to pull heavy liquids, embedded dirt, and stubborn pet stains directly out of dense fibers.",
+      "Multi-Surface Versatility: Safely lifts messes from sofas, area rugs, stairs, car seats, and pet beds.",
+      "Targeted Cleaning Tools: Includes specialized scrubbing brush attachments designed to clean both wide paths and tight, hard-to-reach crevices.",
+      "Compact & Lightweight: Easy to carry with an integrated handle, making storage simple and stair cleaning effortless.",
+    ],
+      specs:[
+      ["Lot", "10"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€99.99"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  
+      {
+    id: "food-slicer",
+    name: "Princess Food Slicer",
+    code: "01.492989.01.460",
+    category: "Electronics",
+    condition: "New",
+    estimate: "€40",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/foodslicer.jpg",
+    accent: "#dc2626",
+    description:
+      "The Princess Allesschneider is a versatile, high-performance kitchen appliance designed to effortlessly slice everything from paper-thin meats to thick loaves of bread. Combining a robust motor with a precision stainless steel blade, it delivers commercial-grade slicing efficiency right to your home countertop.",
+    details: [
+      "Power Performance: Robust motor options up to 200W for smooth, consistent cutting.",
+      "Adjustable Precision: Infinite thickness control dials slicing from 0mm up to 23mm.",
+      "Safety Engineering: Non-slip suction feet paired with an instant safety lock switch.",
+      "Effortless Cleaning: Fully detachable, dishwasher-safe components and removable stainless steel blades.",
+      "Sturdy Build: Premium housing options ranging from space-saving composite to heavy-duty metal.",
+    ],
+      specs:[
+      ["Lot", "17"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€40"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "ice-maker",
+    name: 'Northclan Ice Maker',
+    code: "northclan1226red",
+    category: "Electronics",
+    condition: "New",
+    estimate: "128$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/northclan-icemaker.jpg",
+    accent: "#dc2626",
+    description:
+      "This Northclan Countertop Ice Maker is a compact, retro-red portable appliance designed to produce fast, bullet-shaped ice cubes for home or office use.",
+    details: [
+      "Production Speed: Yields 9 fresh ice cubes in just 5 to 8 minutes.",
+      "Daily Capacity: Capable of producing up to 28 to 30 lbs of ice per 24 hours.",
+      "Smart Indicator Panel: Features alerts that tell you exactly when the ice basket is full or when you need to add water.",
+      "Removable Storage: Includes an internal, lift-out ice basket and a scoop for quick and hygienic serving.",
+    ],
+      specs:[
+      ["Lot", "41"],
+      ["Included", "Full set"],
+      ["Price in origin country", "128$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  }, 
+     {
+    id: "Coffee-Table-vower",
+    name: 'Coffee Table',
+    code: "B0CF3XP4DC",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€80",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Coffee-Table-vower.jpg",
+    accent: "#dc2626",
+    description:
+      "This mid-century modern coffee table balances Japandi simplicity with functional storage, making it an ideal anchor piece for smaller living spaces. Its split two-tier layout pairs an open display compartment with a sleek, vertically slatted storage drawer.",
+    details: [
+      'Slatted Front Panel: Features a textured, vertical fluted aesthetic on the sliding drawer face.',
+      'Warm Wood Effect: Wrapped in a light natural oak wood-grain paper finish for an organic feel.',
+      "Sturdy Solid Legs: Supported by four outward-tapered solid pine wood legs for stability.",
+      'Dual Storage Options: Includes one hidden drawer and one open side-cubby shelf.',
+      'Compact Footprint: Measures exactly 100 cm L x 50 cm D x 43 cm H and weighs 22 kg',
+    ],
+      specs:[
+      ["Lot", "105"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Costway-Cat-Litter-Box",
+    name: 'Costway Cat Litter Box ',
+    code: "73496852",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "$70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/pv10002wh1_1_.jpg",
+    accent: "#dc2626",
+    description:
+      "This sleek, dual-purpose credenza functions as a modern home accent while completely concealing your cat's litter pan out of sight. It features a separate entryway compartment designed to capture tracking granules before your pet steps back out onto your floors.",
+    details: [
+      '3-in-1 Design: Blends seamlessly into your home decor as a stylish side table, TV console, or hidden pet washroom.',
+      'Smart Litter Control: An internal entry divider holds an included scratching pad to clean paws and catch stray litter particles.',
+      "Sturdy Construction: Crafted from durable, glossy white engineered wood and supported by solid elevated legs for stability.",
+      'User-Friendly Access: Equipped with double front doors and classic round knobs for quick cleaning and scooping.',
+      'Ventilated Back Panel: Built with integrated rear air vents to maintain fresh airflow and control unpleasant odors.',
+    ],
+      specs:[
+      ["Lot", "109"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Feandrea-Scratching-tree",
+    name: 'Feandrea Cat Tree ',
+    code: "Cat Tree ",
+    category: "Sports",
+    condition: "New",
+    estimate: "$60",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Feandrea-Scratching-tree.webp",
+    accent: "#dc2626",
+    description:
+      "The Feandrea Cat Tree is a sturdy, multi-level activity center designed to give indoor cats a dedicated space to climb, play, and rest. Combining cozy plush lounging surfaces with natural sisal scratching posts, it provides vertical enrichment while protecting household furniture.",
+    details: [
+      'Comfortable Lounging: Features a spacious, heavily cushioned top perch with raised edges and two enclosed dark condos for secure napping.',
+      "Furniture Protection: Equipped with durable, fully-wrapped natural sisal scratching posts to satisfy your cat's natural scratching instincts",
+      "Stable Design: Constructed with a thick, heavy baseboard and includes an anti-tip wall-anchor safety strap to prevent shaking or tipping",
+      'Space-Saving Build: Optimizes vertical space to offer multiple tiers of activity without taking up excessive floor real estate ',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$60"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "tornado-tv-1",
+    name: 'TORNADO Smart LED TV 32 Inch HD"',
+    code: "32EA6500E",
+    category: "Electonics",
+    condition: "New",
+    estimate: "170$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/tornadotv32.webp",
+    accent: "#dc2626",
+    description:
+      'The Tornado 32" TV is a highly affordable, compact television that delivers vibrant high-definition visuals alongside an integrated digital receiver to seamlessly save space. Manufactured by the Elaraby Group, it features options running Google TV or WebOS platforms to easily stream modern entertainment services.',
+    details: [
+      "Display Quality: Features standard HD resolution (1366 x 768) with clean 60Hz refresh rates for smooth local viewing.",
+      "Audio Engineering: Equipped with standard dual 8W speakers paired with Dolby Digital Plus audio enhancement software.",
+      "Smart Ecosystems: Available with full Wi-Fi connectivity, built-in Chromecast, and immediate access to Netflix, YouTube, and Shahid.",
+      "Wired Connectivity: Includes multi-port setups featuring 2x HDMI inputs and 2x USB slots for media playback.",
+      "Hardware Protection: Outfitted with specialized internal voltage regulators to protect sensitive components from electrical surges.",
+    ],
+      specs:[
+      ["Lot", "22"],
+      ["Included", "Full set"],
+      ["Price in origin country", "170$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "3-in-1-air-cooler",
+    name: 'Comfee 3-in-1 air cooler',
+    code: "100390766",
+    category: "Electonics",
+    condition: "New",
+    estimate: "€150",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/3-in-1-aircooler.webp",
+    accent: "#dc2626",
+    description:
+      'The Comfee AC120-19ARB is a sleek, energy-efficient 3-in-1 evaporative air cooler, fan, and humidifier that cools indoor spaces using water evaporation rather than a compressor. Standing at 105 cm tall, its slim tower design distributes a refreshing, adjustable breeze across any room without requiring an external exhaust hose.',
+    details: [
+      "Multifunctional Design: Combines a cooling fan, humidifier, and air purifier into one compact tower unit.",
+      "Large Water Capacity: Features a 7-liter water tank that accepts ice cubes or frozen cooling packs for an enhanced chilling effect.",
+      "Low Energy Consumption: Operates on just 65W of power, making it a highly cost-effective alternative to traditional air conditioning.",
+      "Customizable Settings: Offers 4 different speed levels and 3 wind modes (Normal, Natural, and Night/Silent mode).",
+      "Smart Controls: Includes a built-in 10-hour timer, a crisp LED display with touch sensors, and a convenient remote control.",
+      "Wide Air Distribution: Equipped with a 60-degree automatic oscillation feature to distribute airflow evenly.",
+    ],
+      specs:[
+      ["Lot", "26"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€150"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "popcorn-machine",
+    name: "Popcorn Machine 300W",
+    code: "00063873",
+    category: "Electronics",
+    condition: "New",
+    estimate: "75€",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/pcm300.webp",
+    accent: "#dc2626",
+    description:
+      "The Stagecaptain PCM-300 is a compact 300-watt tabletop popcorn maker that brings an authentic 1950s retro cinema aesthetic straight to your countertop. Utilizing a traditional stainless steel rotating kettle, it quickly whips up theater-style popcorn with oil and seasoning for the ultimate movie night experience.",
+    details: [
+      "Classic Kettle Design: Suspended stainless steel pot heats and rotates automatically to prevent burning.",
+      "Warm Interior Light: Built-in internal lamp illuminates the popping process and keeps snacks under a warm spotlight.",
+      "Easy to Clean: Features a removable kettle and catch tray that unhook completely for quick hand-washing.",
+      "Complete Starter Kit: Comes equipped with a removable serving tray and two dedicated measuring spoons for oil and kernels.",
+    ],
+      specs:[
+      ["Lot", "14"],
+      ["Included", "Full set"],
+      ["Price in origin country", "75€"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+        {
+    id: "tectake-gaming-chair",
+    name: 'tectake Ergonomic Gamer Chair',
+    code: "B085NW1SHH",
+    category: "Sports",
+    condition: "New",
+    estimate: "€140",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/tectake-gaming-chair.jpg",
+    accent: "#dc2626",
+    description:
+      "This racing-style ergonomic office chair features a sleek black and red faux leather and mesh fabric exterior designed for comfort. It is equipped with a high backrest, integrated padded armrests, and a sturdy 360-degree swivel base perfect for long gaming or working sessions.",
+    details: [
+      'Material: Upholstered in durable polyurethane (PU) synthetic leather paired with breathable mesh panels.',
+      'Ergonomics: Thickly padded seat cushion and backrest with integrated, contoured armrests for maximum comfort.',
+      "Adjustability: Features a smooth pneumatic gas lift for seamless seat height modification.",
+      'Mobility: Built on a stable five-star base with double-wheel casters suitable for multiple flooring types.',
+      'Ventilation: Designed with dual open cut-outs in the headrest area to promote air circulation.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€140"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  {
+    id: "Nightstand",
+    name: 'WOLTU 2x Bedside Table, Narrow Nightstand',
+    code: "W0ETT0232-2",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€55",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Nightstand.jpg",
+    accent: "#dc2626",
+    description:
+      "The WOLTU W0ETT0232-2 (Black) is a sleek, modern set of two ultra-narrow nightstands. Finished in a matte black lacquer, it is specifically crafted for minimal floor footprints next to beds or sofas. It provides an even balance of easily accessible display space and concealed storage.",
+    details: [
+      'Compact Footprint: Takes up a minimal 30 x 30 cm of floor space, making it highly optimized for tight corners, narrow gaps, and smaller rooms.',
+      "Dual Storage Zones: Configured with 1 open upper cube for frequently handled items (like phones or books) and 1 lower cabinet with a integrated door to keep personal clutter hidden away.",
+      "Overall Dimensions: Each individual unit measures precisely 30 x 60 x 30 cm (Width x Height x Depth).",
+      'High-Grade Material: Constructed from robust P2 MDF (engineered wood) certified for structural stability and shape retention.',
+      'Sleek Finish: Coated in an eco-friendly black lacquer that creates a smooth, water-resistant surface that is easy to wipe clean.',
+    ],
+      specs:[
+      ["Lot", "94"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€55"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+      {
+    id: "VITALmaxx-Fitmaxx-5",
+    name: 'VITALmaxx Fitmaxx 5 / Abmaxx 6 abdominal and core trainer',
+    code: "02678200101",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "110$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/vitalmaxx.jpg",
+    accent: "#dc2626",
+    description:
+      "The VITALmaxx Fitmaxx 5 is a compact, foldable home fitness trainer that uses an upward gliding reverse-crunch motion to intensely target your entire core. By combining strength and endurance training, it simultaneously engages your abdomen, legs, glutes, arms, and back for an efficient full-body workout.",
+    details: [
+      'Resistance Levels: Features 5 adjustable difficulty levels that allow you to change the angle of the incline to match your fitness level.',
+      'Digital Computer: Includes a battery-operated display that tracks time, repetition count, and estimated calories burned',
+      "Space-Saving Design: Folds completely flat in seconds, making it incredibly easy to store under a bed or inside a closet",
+      'Weight Capacity: Accommodates users with a maximum body weight of up to 100 kg (220 lbs).',
+    ],
+      specs:[
+      ["Lot", "101"],
+      ["Included", "Full set"],
+      ["Price in origin country", "110$"],
     ],
     bidder: {
       name: "Rami B.",
@@ -260,6 +1678,175 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+   {
+    id: "SONGMICS-mirror",
+    name: 'SONGMICS Full Length Mirror',
+    code: "LFM031B01",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/SONGMICS-mirror.jpg",
+    accent: "#dc2626",
+    description:
+      "The SONGMICS LFM031B01 is an elegant, arched full-length floor mirror designed to bring modern style and a head-to-toe view to any room. Crafted with a sleek ink-black aluminum frame, it offers flexible placement options as a freestanding, leaning, or wall-mounted accent piece.",
+    details: [
+      'Dimensions: Measures 160 x 50 cm (approx. 63" x 20") for a complete full-body view.',
+      "Materials: Features a rust-resistant aluminum alloy frame and high-strength tempered glass.",
+      "Safety Design: Equipped with an explosion-proof film that prevents glass shards from scattering if broken.",
+      'No Assembly: Arrives fully assembled and ready to use straight out of the box.',
+      'Versatile Use: Ideal for bedrooms, walk-in closets, entryways, and living spaces.',
+    ],
+      specs:[
+      ["Lot", "97"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "white-comod",
+    name: 'Bedroom Comod',
+    code: "B0FVDX25JG",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "€70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/white-comod.jpg",
+    accent: "#dc2626",
+    description:
+      "This white wooden 3-drawer chest serves as a compact bedside table or office storage unit featuring an integrated top-panel power outlet for easy device charging. Its minimal, handleless design maximizes storage efficiency in small spaces while maintaining a clean, modern aesthetic.",
+    details: [
+      'Storage capacity: Three spacious pull-out drawers for bedside or office organization.',
+      'Built-in power: Top surface features an embedded power strip with traditional plug outlets and dual USB ports.',
+      "Materials: Built from sturdy MDF wood panels with an easy-to-clean, water-resistant surface finish.",
+      'Dimensions: Measures approximately 40 cm wide by 60 cm high, making it ideal for narrow gaps next to beds or desks.',
+      'Would you like help with step-by-step assembly tips for this type of furniture, or do you want to see if it comes in other color options like black or oak?',
+    ],
+      specs:[
+      ["Lot", "106"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€70"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "camping-table",
+    name: 'Kesser Folding Camping Cabinet',
+    code: "NP11742",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "$45",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/camping-table.jpg",
+    accent: "#dc2626",
+    description:
+      "This Kesser Portable Camping Table serves as a lightweight outdoor cook station and pantry for road trips, picnics, and backyard barbecues. It combines a solid aluminum countertop with a zippered 6-shelf fabric organizer underneath to store your food and kitchenware safely away from insects and dust.",
+    details: [
+      'Storage Compartments: 6 removable interior shelves with a dual-zipper front door mesh roll-up',
+      "Portability: Collapsible folding frame design that packs completely flat",
+      'Included Accessory: Heavy-duty canvas carrying bag for easy transport',
+      'Side Accents: Built-in side storage pockets for quick access to utensils and small items',
+    ],
+      specs:[
+      ["Lot", "108"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "Mobile-Storage-Unit",
+    name: 'Costway Mobile Storage Unit',
+    code: "20547318",
+    category: "Furnniture",
+    condition: "New",
+    estimate: "$150",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Mobile-Storage-Unit.jpg",
+    accent: "#dc2626",
+    description:
+      "The Costway Mobile Storage Unit (Model 20547318) is a versatile, space-saving wooden storage cabinet designed to optimize home offices, craft rooms, or workspaces. It seamlessly combines a spacious side cupboard with a five-drawer chest on smooth-rolling wheels to keep your daily equipment and documents perfectly organized.",
+    details: [
+      'Flexible Storage: Features 5 compact sliding drawers and a large cabinet compartment equipped with a 3-position adjustable internal shelf.',
+      'Effortless Mobility: Outfitted with 5 universal 360° swivel casters (including 2 front wheels with built-in brakes) to smoothly roll or lock into place.',
+      "Heavy-Duty Build: Formed from durable, scratch-resistant engineered wood capable of supporting up to 220 lbs of total weight.",
+      'Multi-Functional Top: Serves as an excellent printer stand or extended desk countertop with a spacious 31" x 16" flat surface.',
+    ],
+      specs:[
+      ["Lot", "110"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$150"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+         {
+    id: "e-bike-2",
+    name: 'SWFT Volt Electric Bike',
+    code: "SWFT-VOLT-BLK",
+    category: "Sports",
+    condition: "New",
+    estimate: "700$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
+    accent: "#dc2626",
+    description:
+      "The SWFT Volt Electric Bike is an affordable, single-speed commuter e-bike designed for efficient city riding. It combines a clean, classic road-bike aesthetic with a quiet 350W motor to easily power your daily trips.",
+    details: [
+      "Top Speed: 20 mph using either pedal assist or the thumb throttle.",
+      "Battery Range: Up to 32 miles on a single charge with a clean, integrated frame battery.",
+      "Lightweight Build: Weighs just 44.1 lbs, making it much easier to carry and maneuver than standard e-bikes.",
+      "Rider Fit: Large 58 cm steel frame with a 32.5-inch standover height, best suited for taller riders.",
+      "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
+    ],
+      specs:[
+      ["Lot", "37"],
+      ["Included", "Full set"],
+      ["Price in origin country", "700$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+
    {
     id: "planetary-stand-mixer",
     name: "Z.I.T Planetary Stand Mixer",
@@ -328,42 +1915,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    
-    id: "Cordless-Upholstery",
-    name: "Cordless Upholstery and Carpet Cleaner",
-    code: "100399003",
-    category: "Cleaner",
-    condition: "New",
-    estimate: "€99.99",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/champonese.webp",
-    accent: "#dc2626",
-    description:
-      "Tackle tough spots and spills anywhere with the ultimate portable cleaning companion. Powered by a high-performance 20V lithium-ion battery, this lightweight, cordless carpet cleaner delivers powerful suction to lift deep stains from carpets, rugs, car interiors, and home upholstery without tethering you to an electrical outlet.",
-    details: [
-      "Cordless Convenience: Powered by a removable 20V battery platform for unlimited portability around the home or in your vehicle.",
-      "Dual Tank System: Keeps clean solution and dirty water completely separate for a pristine, streak-free clean every time.",
-      "Powerful Lift Suction: Engineered to pull heavy liquids, embedded dirt, and stubborn pet stains directly out of dense fibers.",
-      "Multi-Surface Versatility: Safely lifts messes from sofas, area rugs, stairs, car seats, and pet beds.",
-      "Targeted Cleaning Tools: Includes specialized scrubbing brush attachments designed to clean both wide paths and tight, hard-to-reach crevices.",
-      "Compact & Lightweight: Easy to carry with an integrated handle, making storage simple and stair cleaning effortless.",
-    ],
-      specs:[
-      ["Lot", "10"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€99.99"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
    {
     
     id: "hopvision-cordless-vacuum-cleaner",
@@ -435,208 +1987,9 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "projector",
-    name: "Magcubic Projector HY320",
-    code: "HY320",
-    category: "Projector",
-    condition: "New",
-    estimate: "100$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/projector.jpg",
-    accent: "#dc2626",
-    description:
-      "The Magcubic HY320 is an ultra-affordable, full HD portable smart projector featuring a 180-degree rotating stand that easily projects onto walls or ceilings. Running on a built-in Android operating system, it provides instant access to your favorite streaming apps without needing extra hardware.",
-    details: [
-      "Resolution: Native 1080p Full HD resolution with support for 4K video decoding.",
-      "Brightness: 390 to 500 ANSI lumens, offering great clarity in dark or dim rooms.",
-      "Throw Ratio: Short 0.9:1 throw ratio that projects a massive 100-inch screen from just 2 meters away.",
-      "Wireless Tech: Dual-band Wi-Fi 6 for lag-free streaming and Bluetooth 5.0 for wireless audio.",
-      "Smart Adjustments: Auto vertical keystone correction and four-corner manual calibration for a perfectly square image.",
-    ],
-      specs:[
-      ["Lot", "13"],
-      ["Included", "Full set"],
-      ["Price in origin country", "100$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "popcorn-machine",
-    name: "Popcorn Machine 300W",
-    code: "00063873",
-    category: "Electronics",
-    condition: "New",
-    estimate: "75€",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/pcm300.webp",
-    accent: "#dc2626",
-    description:
-      "The Stagecaptain PCM-300 is a compact 300-watt tabletop popcorn maker that brings an authentic 1950s retro cinema aesthetic straight to your countertop. Utilizing a traditional stainless steel rotating kettle, it quickly whips up theater-style popcorn with oil and seasoning for the ultimate movie night experience.",
-    details: [
-      "Classic Kettle Design: Suspended stainless steel pot heats and rotates automatically to prevent burning.",
-      "Warm Interior Light: Built-in internal lamp illuminates the popping process and keeps snacks under a warm spotlight.",
-      "Easy to Clean: Features a removable kettle and catch tray that unhook completely for quick hand-washing.",
-      "Complete Starter Kit: Comes equipped with a removable serving tray and two dedicated measuring spoons for oil and kernels.",
-    ],
-      specs:[
-      ["Lot", "14"],
-      ["Included", "Full set"],
-      ["Price in origin country", "75€"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-     {
-    id: "Energy-saving-pot",
-    name: "Energy-saving pot",
-    code: "12196",
-    category: "Electronics",
-    condition: "New",
-    estimate: "€49.99",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/pot.webp",
-    accent: "#dc2626",
-    description:
-      "The GOURMETmaxx 5.8L Energy-Saving Pot uses a tightly sealed thermal system to cook your meals faster while cutting down on energy use. Unlike traditional pressure cookers, it operates without high pressure, allowing you to safely open the lid at any time to stir or season your food.",
-    details: [
-      "Generous Capacity: Holds up to 5.8 liters, making it ideal for family-sized meals, stews, and soups.",
-      "Premium Build: Made of durable die-cast aluminum with a sleek black exterior and vibrant red accents.",
-      "Safe & Convenient: Equipped with a built-in pressure relief valve and heat-insulated handles for safe handling.",
-      "Easy Maintenance: Includes a high-quality non-stick coating for effortless food release and quick cleanup.",
-    ],
-      specs:[
-      ["Lot", "15"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€49.99"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-     {
-    id: "Cyclone-vacuum-cleaner-800W",
-    name: "Cyclone vacuum cleaner 800W",
-    code: "100401497",
-    category: "Electronics",
-    condition: "New",
-    estimate: "€45.99",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/vaccum.webp",
-    accent: "#dc2626",
-    description:
-      "The CLEANmaxx Multi-Zyklonstaubsauger is a compact, bagless cylinder vacuum cleaner designed for highly efficient household cleaning. It utilizes multi-cyclone technology to separate dirt from the airflow, maintaining constant, powerful suction without the need for bags.",
-    details: [
-      "Suction Power: Delivers a strong 17 kPa maximum suction force.",
-      "Motor Performance: Equipped with an energy-efficient 800-watt motor.",
-      "Dust Capacity: Features a easy-to-empty 2-liter dirt container.",
-      "Filtration System: Includes an EPA filter for cleaner exhaust air, ideal for allergy sufferers.",
-      "Operating Range: Provides a 6.5-meter action radius with an automatic cable rewind mechanism.",
-    ],
-      specs:[
-      ["Lot", "16"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€45.99"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-     {
-    id: "food-slicer",
-    name: "Princess Food Slicer",
-    code: "01.492989.01.460",
-    category: "Electronics",
-    condition: "New",
-    estimate: "€40",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/foodslicer.jpg",
-    accent: "#dc2626",
-    description:
-      "The Princess Allesschneider is a versatile, high-performance kitchen appliance designed to effortlessly slice everything from paper-thin meats to thick loaves of bread. Combining a robust motor with a precision stainless steel blade, it delivers commercial-grade slicing efficiency right to your home countertop.",
-    details: [
-      "Power Performance: Robust motor options up to 200W for smooth, consistent cutting.",
-      "Adjustable Precision: Infinite thickness control dials slicing from 0mm up to 23mm.",
-      "Safety Engineering: Non-slip suction feet paired with an instant safety lock switch.",
-      "Effortless Cleaning: Fully detachable, dishwasher-safe components and removable stainless steel blades.",
-      "Sturdy Build: Premium housing options ranging from space-saving composite to heavy-duty metal.",
-    ],
-      specs:[
-      ["Lot", "17"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€40"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-     {
-    id: "meat-grinder",
-    name: "Electric meat grinder",
-    code: "100393890",
-    category: "Electronics",
-    condition: "New",
-    estimate: "€45",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/meatgrinder.webp",
-    accent: "#dc2626",
-    description:
-      "The Silvercrest Electric Meat Grinder is a versatile and budget-friendly kitchen appliance designed for easily preparing fresh minced meat, sausages, and baked goods at home. It features a reliable motor with a practical reverse function to quickly clear any food blockages without disassembly.",
-    details: [
-      "Power Output: Operates at 300W to 400W (depending on the model) for efficient home processing.",
-      "Processing Speed: Grinds approximately 1 kg to 1.2 kg of meat per minute.",
-      "Reverse Function: Features a safety reverse button to easily clear trapped meat or sinew.",
-      "Included Attachments: Comes with multiple grinding discs, a sausage stuffer, a kebbe attachment, and a spritz biscuit shaper.",
-      "Cleaning Note: Aluminum parts are not dishwasher safe and must be washed by hand to prevent discoloration.",
-    ],
-      specs:[
-      ["Lot", "18"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€45"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
+  
+ 
     {
     id: "cotsoco-shiatsu-3d-rotating-massager",
     name: "Cotsoco Shiatsu 3D Rotating Massager",
@@ -739,75 +2092,9 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-     {
-    id: "tornado-tv",
-    name: 'TORNADO Smart LED TV 32 Inch HD"',
-    code: "32EA6500E",
-    category: "Electonics",
-    condition: "New",
-    estimate: "170$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/tornadotv32.webp",
-    accent: "#dc2626",
-    description:
-      'The Tornado 32" TV is a highly affordable, compact television that delivers vibrant high-definition visuals alongside an integrated digital receiver to seamlessly save space. Manufactured by the Elaraby Group, it features options running Google TV or WebOS platforms to easily stream modern entertainment services.',
-    details: [
-      "Display Quality: Features standard HD resolution (1366 x 768) with clean 60Hz refresh rates for smooth local viewing.",
-      "Audio Engineering: Equipped with standard dual 8W speakers paired with Dolby Digital Plus audio enhancement software.",
-      "Smart Ecosystems: Available with full Wi-Fi connectivity, built-in Chromecast, and immediate access to Netflix, YouTube, and Shahid.",
-      "Wired Connectivity: Includes multi-port setups featuring 2x HDMI inputs and 2x USB slots for media playback.",
-      "Hardware Protection: Outfitted with specialized internal voltage regulators to protect sensitive components from electrical surges.",
-    ],
-      specs:[
-      ["Lot", "22"],
-      ["Included", "Full set"],
-      ["Price in origin country", "170$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
   
-   {
-    id: "SILVERCREST-20V-Cordless-Handheld",
-    name: 'SILVERCREST® 20V Cordless Handheld',
-    code: "Silvercrest SHSA 20-Li A1",
-    category: "Electonics",
-    condition: "New",
-    estimate: "€25",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/silvercrest-20-v-akku.webp",
-    accent: "#dc2626",
-    description:
-      'The Silvercrest SHSA 20-Li A1 is a compact, cordless handheld vacuum designed for rapid cleanup of both dry debris and liquids around the home, workshop, or car. It operates on the highly versatile Parkside 20V battery platform, making it a cost-effective choice if you already own compatible Lidl tools.',
-    details: [
-      "Dual Functionality: Vacuums up dry dust or up to 150 ml of liquid messes.",
-      "Universal Power System: Fully compatible with all batteries in the Parkside X 20 V Team series.",
-      "Sustained Runtime: Delivers up to 35 minutes of continuous use on a standard 2 Ah battery (ECO mode).",
-      "Easy Maintenance: Features a bagless, washable HEPA filter system with a 400 ml dust container",
-      "Complete Attachments: Comes equipped with a crevice nozzle, wet-suction nozzle, and a small brush head.",
-    ],
-      specs:[
-      ["Lot", "24"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€25"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
    {
     id: "WET-&-DRY-VACUUM-CLEANER-Parkside",
     name: 'WET & DRY VACUUM CLEANER Parkside',
@@ -842,74 +2129,8 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "3-in-1-air-cooler",
-    name: 'Comfee 3-in-1 air cooler',
-    code: "100390766",
-    category: "Electonics",
-    condition: "New",
-    estimate: "€150",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/3-in-1-aircooler.webp",
-    accent: "#dc2626",
-    description:
-      'The Comfee AC120-19ARB is a sleek, energy-efficient 3-in-1 evaporative air cooler, fan, and humidifier that cools indoor spaces using water evaporation rather than a compressor. Standing at 105 cm tall, its slim tower design distributes a refreshing, adjustable breeze across any room without requiring an external exhaust hose.',
-    details: [
-      "Multifunctional Design: Combines a cooling fan, humidifier, and air purifier into one compact tower unit.",
-      "Large Water Capacity: Features a 7-liter water tank that accepts ice cubes or frozen cooling packs for an enhanced chilling effect.",
-      "Low Energy Consumption: Operates on just 65W of power, making it a highly cost-effective alternative to traditional air conditioning.",
-      "Customizable Settings: Offers 4 different speed levels and 3 wind modes (Normal, Natural, and Night/Silent mode).",
-      "Smart Controls: Includes a built-in 10-hour timer, a crisp LED display with touch sensors, and a convenient remote control.",
-      "Wide Air Distribution: Equipped with a 60-degree automatic oscillation feature to distribute airflow evenly.",
-    ],
-      specs:[
-      ["Lot", "26"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€150"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-    {
-    id: "Sejoy-Cordless-Oral-Irrigator",
-    name: ' Sejoy Cordless Oral Irrigator',
-    code: "CYQ-FC5091",
-    category: "Electonics",
-    condition: "New",
-    estimate: "50$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/oral-irrigator.jpg",
-    accent: "#dc2626",
-    description:
-      'The Sejoy Cordless Oral Irrigator is a portable water flosser designed with a 1400mAh rechargeable lithium-ion battery for deep dental cleaning. It includes a dedicated inductive charging dock that doubles as a built-in tip organizer to keep accessories clean and accessible.',
-    details: [
-      "Long Battery Life: Features a built-in 1400mAh Li-ion battery providing an active continuous runtime of ≥ 30 minutes per full charge.",
-      "Inductive Charging Base: Includes a convenient wireless charging dock that keeps the main handle powered up and neatly organizes your flossing tips.",
-      "Independent Controls: Built with standalone, separate Power ON/OFF and Mode Selection buttons for intuitive, mess-free operation.",
-      "Versatile Cleaning: Offers multiple operation pressure modes (Normal, Soft, Pulse) to adapt to sensitive gums, braces, and implants.",
-    ],
-      specs:[
-      ["Lot", "27"],
-      ["Included", "Full set"],
-      ["Price in origin country", "50$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
+  
     {
     id: "comfee-7000-btu",
     name: 'Comfee 7000 BTU',
@@ -1183,40 +2404,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-        {
-    id: "e-bike",
-    name: 'SWFT Volt Electric Bike',
-    code: "SWFT-VOLT-BLK",
-    category: "Sports",
-    condition: "New",
-    estimate: "700$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
-    accent: "#dc2626",
-    description:
-      "The SWFT Volt Electric Bike is an affordable, single-speed commuter e-bike designed for efficient city riding. It combines a clean, classic road-bike aesthetic with a quiet 350W motor to easily power your daily trips.",
-    details: [
-      "Top Speed: 20 mph using either pedal assist or the thumb throttle.",
-      "Battery Range: Up to 32 miles on a single charge with a clean, integrated frame battery.",
-      "Lightweight Build: Weighs just 44.1 lbs, making it much easier to carry and maneuver than standard e-bikes.",
-      "Rider Fit: Large 58 cm steel frame with a 32.5-inch standover height, best suited for taller riders.",
-      "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
-    ],
-      specs:[
-      ["Lot", "37"],
-      ["Included", "Full set"],
-      ["Price in origin country", "700$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
+  
         {
     id: "silvercrest-icemaker",
     name: 'Silvercrest Icemaker',
@@ -1279,73 +2467,6 @@ export const products: Product[] = [
       ["Lot", "39"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
-       {
-    id: "handheld-garment-steamer",
-    name: 'Handheld Garment Steamer',
-    code: "CY-801",
-    category: "Electronics",
-    condition: "New",
-    estimate: "30$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Steamer.jpeg",
-    accent: "#dc2626",
-    description:
-      "This high-power handheld garment steamer features a fast-heating design that smooths out tough wrinkles quickly and effortlessly. It is an ideal portable solution for refreshing a wide variety of everyday clothing fabrics both at home and on the go.",
-    details: [
-      "Water Reservoir: Offers a generous 320 ml capacity for extended steaming time without constant refilling.",
-      "Speedy Heat-Up: Ready to use in just 20 seconds to accommodate quick, last-minute wardrobe touch-ups.",
-      "Steam Settings: Equipped with 3 adjustable power gears to safely tailor the heat to delicate silks or heavy jackets.",
-      "Operating Range: Equipped with a 5-meter power cable for comfortable room-to-room cleaning without constant outlet switching.",
-      "Ergonomic Build: Designed with a comfortable handheld grip and a wide, smooth-glide metal steaming plate.",
-    ],
-      specs:[
-      ["Lot", "40"],
-      ["Included", "Full set"],
-      ["Price in origin country", "30$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
-       {
-    id: "ice-maker",
-    name: 'Northclan Ice Maker',
-    code: "northclan1226red",
-    category: "Electronics",
-    condition: "New",
-    estimate: "128$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/northclan-icemaker.jpg",
-    accent: "#dc2626",
-    description:
-      "This Northclan Countertop Ice Maker is a compact, retro-red portable appliance designed to produce fast, bullet-shaped ice cubes for home or office use.",
-    details: [
-      "Production Speed: Yields 9 fresh ice cubes in just 5 to 8 minutes.",
-      "Daily Capacity: Capable of producing up to 28 to 30 lbs of ice per 24 hours.",
-      "Smart Indicator Panel: Features alerts that tell you exactly when the ice basket is full or when you need to add water.",
-      "Removable Storage: Includes an internal, lift-out ice basket and a scoop for quick and hygienic serving.",
-    ],
-      specs:[
-      ["Lot", "41"],
-      ["Included", "Full set"],
-      ["Price in origin country", "128$"],
     ],
     bidder: {
       name: "Rami B.",
@@ -1426,6 +2547,41 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
+    {
+    id: "Barbara-Klein-seated-compact-mini-stepper",
+    name: 'Barbara Klein seated compact mini stepper',
+    code: "481600",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€65",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/B&K2.png",
+    accent: "#dc2626",
+    description:
+      "The BK Workout Cube by Barbara Klein is a compact, multifunctional home exercise machine that combines a step machine with a swivel stool. It is designed to provide low-impact cardio, core conditioning, and lower-body toning entirely from a comfortable, seated position.",
+    details: [
+      "360° Swivel Seat: Features a thick, cushioned rotating top designed to engage your abdominal and core muscles during movement.",
+      "Dual Foot Pedals: Equipped with textured, non-slip vertical stepping plates for a smooth hydraulic resistance workout.",
+      "LCD Fitness Monitor: Displays essential real-time workout tracking data including steps, time elapsed, and estimated calories burned.",
+      "Heavy-Duty Frame: Constructed with a supportive, black tubular steel outer handle system for safety and stability.",
+      "Space-Saving Design: Designed with a small footprint that easily fits under tables or in small living areas when not in use.",
+    ],
+      specs:[
+      ["Lot", "64"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€65"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  
         {
     id: "foot-massager",
     name: 'Nah-Vital Shiatsu Foot Massager',
@@ -1460,73 +2616,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-        {
-    id: "Storage-Shelving-Unit",
-    name: 'WOLTU Storage Shelving Unit ',
-    code: "RGB9289whe",
-    category: "Electronics",
-    condition: "New",
-    estimate: "€45",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/WOLTU-shelf.jpg",
-    accent: "#dc2626",
-    description:
-      "A stylish and practical 5-tier storage shelving unit featuring walnut MDF shelves and a sturdy black metal frame. Perfect for organizing and displaying books, plants, kitchen essentials, bathroom products, and more.",
-    details: [
-      "5 spacious open shelves for versatile storage",
-      "Modern industrial design with walnut MDF and black metal",
-      "Strong and durable construction",
-      "Anti-tip device for added stability and safety",
-      'Back panels help prevent items from falling',
-    ],
-      specs:[
-      ["Lot", "45"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€45"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
-         {
-    id: "Barber-Chair",
-    name: 'Costway Barber Chair',
-    code: "49816520",
-    category: "Furniture",
-    condition: "New",
-    estimate: "$280",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Barber-Chair.jpg",
-    accent: "#dc2626",
-    description:
-      "The COSTWAY Heavy Duty Hydraulic Barber Salon Chair is a professional-grade styling chair featuring an ergonomic black faux-leather seat with tufted buttons and integrated armrests. Supported by a heavy-duty chrome hydraulic base, it provides full 360° rotation and customizable height configurations for professional beauty environments.",
-    details: [
-      "Adjustable Component: Fitted with an extendable and removable headrest to fit clients of different heights.",
-      "Mobility System: Features a robust 360-degree swivel mechanism that locks in place seamlessly during styling.",
-      "Hydraulic Pump: Built with a premium, heavy-duty foot-pedal pump for smooth height modifications.",
-      "Structural Support: Anchored by a square chrome base and an integrated T-shaped footrest for maximum stability and user comfort.",
-    ],
-      specs:[
-      ["Lot", "46"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$280"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
          {
     id: "Laundry-Sorter",
     name: 'Tectake Laundry Sorter',
@@ -1596,107 +2686,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-       {
-    id: "Cotsoco-Massage-Gun",
-    name: 'Cotsoco Deep Tissue Massage Gun',
-    code: "M679",
-    category: "Furniture",
-    condition: "New",
-    estimate: "30$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/massageGun.webp",
-    accent: "#dc2626",
-    description:
-      "The Cotsoco Deep Tissue Massage Gun is an affordable, high-performance percussion therapy device engineered to relieve muscle soreness and accelerate athletic recovery. It features a customizable, multi-speed design and an array of interchangeable attachments to deliver a targeted, professional-grade deep tissue massage right at home.",
-    details: [
-      "Powerful Brushless Motor: Delivers up to 3,200 RPM of percussion while keeping noise levels exceptionally quiet at under 45dB.",
-      "Variable Speed Control: Offers 20 to 30 distinct intensity levels managed easily through an intuitive LCD touchscreen display.",
-      "Interchangeable Massage Heads: Includes 6 to 12 specialized attachments tailored to target unique muscle groups, joints, and trigger points.",
-      "Long Battery Life: Features a rechargeable lithium-ion battery providing 4 to 6 hours of continuous wireless operation per charge.",
-      "Ergonomic & Portable: Built with an anti-slip silicone grip and comes packed in a dedicated travel carrying case for on-the-go relief.",
-    ],
-      specs:[
-      ["Lot", "52"],
-      ["Included", "Full set"],
-      ["Price in origin country", "30$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-         {
-    id: "WOLTU-Bar-Stool",
-    name: 'WOLTU Bar Stool',
-    code: "BH296sz-2",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€80",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Bar-Stool.jpg",
-    accent: "#dc2626",
-    description:
-      "A stylish and comfortable set of 2 modern bar stools featuring luxurious black velvet upholstery, ergonomic low backrests, and robust matte black metal legs designed to elevate any kitchen island, home bar, or dining area.",
-    details: [
-      "Premium Comfort: Upholstered in skin-friendly velvet and padded with high-density foam that retains its shape over time.",
-      "Ergonomic Design: Equipped with a gently curved low backrest and a built-in metal footrest to reduce muscle fatigue and provide lumbar support.",
-      "Sturdy Construction: Built with cross-shaped, matte powder-coated metal legs that are rust-proof, scratch-resistant, and highly stable.",
-      "Floor Protection: Features non-slip foot pads under each leg to prevent slipping, dampening noise, and shielding your floors from scratches.",
-      "High Weight Capacity: Engineered to easily support up to 150 kg (approx. 330 lbs) per chair.",
-    ],
-      specs:[
-      ["Lot", "53"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€80"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-         {
-    id: "Tectake-child-car-seat",
-    name: 'Tectake Child Car Seat',
-    code: "400212",
-    category: "Furniture",
-    condition: "New",
-    estimate: "£70",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/babychair.jpg",
-    accent: "#dc2626",
-    description:
-      "This tectake child car seat features thick padding and an adjustable headrest to grow comfortably with your toddler. It safely adapts from a forward-facing harness seat to a high-back booster using your car's standard 3-point seat belt.",
-    details: [
-      "Long-Lasting Use: Suitable for children from 15 months up to approximately 12 years old (or a body weight of 9 to 36 kg).",
-      "Safety First: Equipped with an integrated 5-point safety harness and sturdy side-impact wings to keep children secure.",
-      "Grow-With-Me Design: Features a multi-position height-adjustable headrest to comfortably accommodate a growing child.",
-      "Removable Reducer Pad: Includes an extra-thick, washable insert padding that can be removed as the child gets older.",
-    ],
-      specs:[
-      ["Lot", "55"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£70"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
        {
     id: "SONGMICS-Makeup-Trolley",
     name: 'SONGMICS Makeup Trolley',
@@ -1757,6 +2747,75 @@ export const products: Product[] = [
       ["Lot", "56"],
       ["Included", "Full set"],
       ["Price in origin country", "55$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "Tectake-Armchair-Lucia-cream-Set-of-2",
+    name: 'Tectake Armchair Lucia cream Set of 2',
+    code: "405338",
+    category: "Furniture",
+    condition: "New",
+    estimate: "£160",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Armchair-Lucia-cream.webp",
+    accent: "#dc2626",
+    description:
+      "The tectake Lucia Swivel Velvet Armchair (Set of 2) blends elegant aesthetics with high-end functionality. This practical two-piece set features a luxurious cream velvet finish that serves as a striking focal point for any modern home.",
+    details: [
+      "Comfort & Padding: Outfitted with an extra-thick high-density foam padding and a continuous wraparound backrest that supports both the back and arms.",
+      "Luxury Finish: Covered in ultra-soft, fine polyester fabric with a sophisticated diamond-quilted pattern.",
+      '180° Swivel Function: Built with a smooth 180-degree swivel mechanism and an automatic return spring that aligns the chair back to its starting position.',
+      'Base & Stability: Grounded by slim, flared powder-coated steel legs that easily support up to 120 kg (264 lbs) per chair.',
+      'Floor Protection: Equipped with non-slip plastic caps on the feet to prevent scratches on your floors.',
+    ],
+      specs:[
+      ["Lot", "73"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£160"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "HLDIRECT-High-Back-Gaming-Chair",
+    name: 'HLDIRECT High Back Gaming Chair',
+    code: "04-DY",
+    category: "Furniture",
+    condition: "New",
+    estimate: "90$",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/HLDIRECT-High-Back-Gaming-Chair.jpg",
+    accent: "#dc2626",
+    description:
+      "This ergonomic racing-style gaming chair features a supportive bucket seat design wrapped in premium dark green and matte black faux leather. It is engineered with a mattress-style pocket spring seat cushion to deliver balanced weight distribution and long-lasting structural comfort.",
+    details: [
+      "Custom Ergonomics: Equipped with a 29.5-inch high backrest, an adjustable memory latex headrest, and a lumbar support cushion.",
+      "Built-in Massage: Integrates dual-vibration massage nodes inside the lower lumbar cushion that power easily via a standard USB connection.",
+      'Flexible Recline: Supports smooth backrest tilt adjustments ranging from 90° to 135° with a secure position lock mechanism.',
+      "Synchronized Armrests: Features soft-padded linkage armrests that move automatically in sync with the backrest to keep forearms supported at all angles.",
+      "Heavy-Duty Build: Crafted using an SGS-certified explosion-proof gas lift and a durable star base supporting a maximum weight of 300 lbs (136 kg).",
+      "Extendable Footrest: Includes a padded, retractable slide-out footrest that tucks neatly beneath the seat cushion when not in use.",
+    ],
+      specs:[
+      ["Lot", "68"],
+      ["Included", "Full set"],
+      ["Price in origin country", "90$"],
     ],
     bidder: {
       name: "Rami B.",
@@ -1866,77 +2925,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-    {
-    id: "costway-Walker",
-    name: 'Costway Walker',
-    code: "46102539",
-    category: "Furniture",
-    condition: "New",
-    estimate: "$120",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/costwaywalker.jpg",
-    accent: "#dc2626",
-    description:
-      "The Costway 3-Wheel Folding Rollator is a lightweight aluminum mobility walker featuring a stable, highly maneuverable triangular design. It comes equipped with a central zippered storage bag, adjustable ergonomic handles, and a dual-loop brake system for optimal control.",
-    details: [
-      "Triangular Aluminum Frame: Crafted from sturdy, corrosion-resistant aluminum that remains light and easy to maneuver.",
-      "Height-Adjustable Handles: Features 6 distinct height positions to comfortably fit users of varying heights.",
-      "All-Terrain Wheels: Equipped with three large, wear-resistant wheels designed for stable indoor and outdoor navigation.",
-      "Dual Loop-Lock Brakes: Offers precise speed control during movement and a secure locking mechanism for parking.",
-      "Zippered Storage Bag: Includes a spacious, removable front pouch to store and protect personal belongings.",
-      "Space-Saving Folding Design: Collapses quickly into a compact profile for easy transport and storage in tight spaces.",
-    ],
-      specs:[
-      ["Lot", "60"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$120"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "weskate-Skateboard",
-    name: 'Weskate Skateboard',
-    code: "3108-1",
-    category: "Furniture",
-    condition: "New",
-    estimate: "$30",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/skateboard.jpg",
-    accent: "#dc2626",
-    description:
-      "The WeSkate 3108-1 is a complete, pre-assembled 31-inch standard skateboard built from durable 7-ply Canadian maple. Featuring a double kick concave design and soft shock-absorbing wheels, it is an ideal, budget-friendly choice for beginners and teenagers learning basic stunts or cruising.",
-    details: [
-      "Deck Construction: 7-ply high-density Canadian maple wood offers great flexibility and durability.",
-      "Dimensions: 31 inches long by 8 inches wide (78.5 x 19.5 cm) provides a stable riding platform.",
-      "Weight Capacity: Supports a maximum load of up to 220 lbs (100 kg).",
-      "Wheels: 85A polyurethane shock-absorbing wheels ensure a smooth ride on rough street surfaces.",
-      "Bearings: ABEC-7 high-speed precision bearings allow for easy, long-lasting coasting.",
-      "Trucks: 5-inch heavy-duty aluminum alloy trucks provide sturdy control and steering.",
-      "Grip Tape: Pre-applied waterproof diamond emery sandpaper delivers high friction for excellent shoe grip.",
-    ],
-      specs:[
-      ["Lot", "61"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$30"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
    {
     id: "Barbara-Klein-Mini-Electric-Elliptical",
     name: 'Barbara Klein Mini Electric Elliptical',
@@ -1971,74 +2959,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "Barbara-Klein-seated-compact-mini-stepper",
-    name: 'Barbara Klein seated compact mini stepper',
-    code: "481600",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€65",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/B&K2.png",
-    accent: "#dc2626",
-    description:
-      "The BK Workout Cube by Barbara Klein is a compact, multifunctional home exercise machine that combines a step machine with a swivel stool. It is designed to provide low-impact cardio, core conditioning, and lower-body toning entirely from a comfortable, seated position.",
-    details: [
-      "360° Swivel Seat: Features a thick, cushioned rotating top designed to engage your abdominal and core muscles during movement.",
-      "Dual Foot Pedals: Equipped with textured, non-slip vertical stepping plates for a smooth hydraulic resistance workout.",
-      "LCD Fitness Monitor: Displays essential real-time workout tracking data including steps, time elapsed, and estimated calories burned.",
-      "Heavy-Duty Frame: Constructed with a supportive, black tubular steel outer handle system for safety and stability.",
-      "Space-Saving Design: Designed with a small footprint that easily fits under tables or in small living areas when not in use.",
-    ],
-      specs:[
-      ["Lot", "64"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€65"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "Step-Kitchen-Trash-Can",
-    name: 'SONGMICS Step Kitchen Trash Can',
-    code: "LTB001A01",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€60",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/LTB001A01.jpg",
-    accent: "#dc2626",
-    description:
-      "This SONGMICS Step Kitchen Trash Can features a sleek, space-saving design in a stylish sand beige finish that fits flat against walls or cabinets. Its premium steel construction is paired with a hands-free step pedal and a quiet, soft-close lid mechanism for maximum convenience.",
-    details: [
-      "Quiet Closure: Equipped with a soft-close lid mechanism for silent, slam-free operation.",
-      "Easy Maintenance: Includes a removable plastic inner bucket with an integrated handle for quick emptying and effortless cleaning.",
-      "Stay-Open Feature: The lid can be set to remain open manually when performing longer cleaning tasks.",
-      "Odor Protection: Designed with an airtight lid seal that effectively traps unpleasant kitchen odors inside.",
-      "Sturdy Base: Features a non-slip bottom structure that protects your floors from scratches and keeps the bin firmly in place during use.",
-    ],
-      specs:[
-      ["Lot", "64"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€60"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+ 
    {
     id: "SONGMICS-Dual-Step-TrashCan",
     name: 'SONGMICS Dual Step Trash Can',
@@ -2072,107 +2993,9 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "VASAGLE-Under-Sink-Bathroom-Cabinet",
-    name: 'VASAGLE Under Sink Bathroom Cabinet',
-    code: "BBK513GU01",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€50",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Under-Sink-Bathroom-Storage.jpg",
-    accent: "#dc2626",
-    description:
-      "This VASAGLE Under-Sink Storage Cabinet is a contemporary, space-saving freestanding bathroom vanity finished in a striking cloud white and cement grey tone. It features a top siphon slot precisely engineered to wrap seamlessly around pedestal or column-less basin plumbing to neatly hide unsightly pipes.",
-    details: [
-      "Smart Layout: Offers 3 deep pull-out side drawers and a single-door cupboard section featuring 2 adjustable height internal compartments.",
-      "Built to Last: Constructed from moisture-resistant, robust MDF engineered wood paired with clean, sleek silver metal linear pull handles.",
-      'Product Dimensions: Measures approximately 30 x 60 x 64 cm (11.8"D x 23.6"W x 25.2"H) to fit comfortably in small-to-medium bathroom layouts.',
-      "Elevated Base: Raised on short protective feet to prevent water damage from damp bathroom floors and make cleaning underneath easy.",
-    ],
-      specs:[
-      ["Lot", "66"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€50"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-    {
-    id: "SONGMICS-Ergonomic-Gaming-and-Office-Chair",
-    name: 'SONGMICS Ergonomic Gaming and Office Chair ',
-    code: "OBG066P01",
-    category: "Furniture",
-    condition: "New",
-    estimate: "90$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/SONGMICS-gaming-chair.jpg",
-    accent: "#dc2626",
-    description:
-      "The SONGMICS OBG066P01 is an ergonomic racing-style gaming and office chair finished in a sleek pastel pink color. It features a unique, height-adjustable telescopic headrest and breathable hybrid fabric upholstery designed for long-term comfort and support.",
-    details: [
-      "Smart Headrest: Features an adjustable telescopic design tailored to support individuals between 170 cm and 190 cm tall",
-      "Breathable Fabric: Combines perforated PU faux leather with a cotton-linen blend to prevent sweating and improve airflow",
-      'Strong Capacity: Built on a robust frame and base that safely supports a maximum static load of up to 150 kg.',
-      "Relaxing Tilt: Offers a seat height range of 46.5–56.5 cm alongside a comfortable 95° to 110° rocking/tilt mechanism.",
-    ],
-      specs:[
-      ["Lot", "67"],
-      ["Included", "Full set"],
-      ["Price in origin country", "90$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "HLDIRECT-High-Back-Gaming-Chair",
-    name: 'HLDIRECT High Back Gaming Chair',
-    code: "04-DY",
-    category: "Furniture",
-    condition: "New",
-    estimate: "90$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/HLDIRECT-High-Back-Gaming-Chair.jpg",
-    accent: "#dc2626",
-    description:
-      "This ergonomic racing-style gaming chair features a supportive bucket seat design wrapped in premium dark green and matte black faux leather. It is engineered with a mattress-style pocket spring seat cushion to deliver balanced weight distribution and long-lasting structural comfort.",
-    details: [
-      "Custom Ergonomics: Equipped with a 29.5-inch high backrest, an adjustable memory latex headrest, and a lumbar support cushion.",
-      "Built-in Massage: Integrates dual-vibration massage nodes inside the lower lumbar cushion that power easily via a standard USB connection.",
-      'Flexible Recline: Supports smooth backrest tilt adjustments ranging from 90° to 135° with a secure position lock mechanism.',
-      "Synchronized Armrests: Features soft-padded linkage armrests that move automatically in sync with the backrest to keep forearms supported at all angles.",
-      "Heavy-Duty Build: Crafted using an SGS-certified explosion-proof gas lift and a durable star base supporting a maximum weight of 300 lbs (136 kg).",
-      "Extendable Footrest: Includes a padded, retractable slide-out footrest that tucks neatly beneath the seat cushion when not in use.",
-    ],
-      specs:[
-      ["Lot", "68"],
-      ["Included", "Full set"],
-      ["Price in origin country", "90$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
+   
+  
    {
     id: "HLDIRECT-High-Back-Gaming-Chair-green",
     name: 'HLDIRECT High Back Gaming Chair',
@@ -2273,74 +3096,8 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "Tectake-Armchair-Lucia-cream-Set-of-2",
-    name: 'Tectake Armchair Lucia cream Set of 2',
-    code: "405338",
-    category: "Furniture",
-    condition: "New",
-    estimate: "£160",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Armchair-Lucia-cream.webp",
-    accent: "#dc2626",
-    description:
-      "The tectake Lucia Swivel Velvet Armchair (Set of 2) blends elegant aesthetics with high-end functionality. This practical two-piece set features a luxurious cream velvet finish that serves as a striking focal point for any modern home.",
-    details: [
-      "Comfort & Padding: Outfitted with an extra-thick high-density foam padding and a continuous wraparound backrest that supports both the back and arms.",
-      "Luxury Finish: Covered in ultra-soft, fine polyester fabric with a sophisticated diamond-quilted pattern.",
-      '180° Swivel Function: Built with a smooth 180-degree swivel mechanism and an automatic return spring that aligns the chair back to its starting position.',
-      'Base & Stability: Grounded by slim, flared powder-coated steel legs that easily support up to 120 kg (264 lbs) per chair.',
-      'Floor Protection: Equipped with non-slip plastic caps on the feet to prevent scratches on your floors.',
-    ],
-      specs:[
-      ["Lot", "73"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£160"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "EUGAD-Swivel-Office-Chair",
-    name: 'EUGAD Swivel Office Chair',
-    code: "Z-OFC104dgr",
-    category: "Furniture",
-    condition: "New",
-    estimate: "$120",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Z-OFC104dgr.jpg",
-    accent: "#dc2626",
-    description:
-      "The Z-OFC104DGR is a compact, dark grey ergonomic office chair designed with a breathable mesh backrest for dependable lumbar support. Its small footprint and smooth mobility make it an ideal seating choice for smaller home offices, reception desks, or commercial salons.",
-    details: [
-      "Color: Dark grey mesh backrest and padded seat upholstery with a matching black or charcoal frame.",
-      "Ergonomics: Features a contoured mid-back design providing targeted lower back support to minimize strain.",
-      'Adjustability: Equipped with a smooth pneumatic gas lift for height customization and a standard tilt mechanism.',
-      'Mobility: Built on a heavy-duty, 360-degree swivel 5-star base with dual-wheel rolling casters.',
-      'Ideal Use: Perfectly suited for compact workstations, retail counters, and study spaces.',
-    ],
-      specs:[
-      ["Lot", "74"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$120"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+ 
+  
   {
     id: "SONGMICS-Jewelry-Organizers",
     name: 'SONGMICS Jewelry Organizers Cabinet with Mirror',
@@ -2376,6 +3133,42 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+   {
+    id: "Coocaa-43-inch-Roku-TV",
+    name: 'Coocaa 43-inch Roku TV ',
+    code: "43CRUG50 ",
+    category: "Sports",
+    condition: "New",
+    estimate: "£165",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Coocaa-43-inch-Roku-TV.webp",
+    accent: "#dc2626",
+    description:
+      "This Nakabayashi CNN-008BK is an ergonomic mesh office chair designed with an adjustable lumbar support system to minimize lower back fatigue. It features spacesaving, flip-up padded armrests and a high-density urethane foam cushion for reliable daily working comfort.",
+    details: [
+      'Lumbar Support: Adjusts up and down by 2.4 inches (6 cm) to match the natural curvature of your spine.',
+      'Flip-Up Armrests: Rotate upward smoothly so you can tuck the chair completely under your desk when not in use.',
+      "Seat Cushion: Features a thick 2.8-inch (70 mm) molded urethane foam pad that prevents bottoming out.",
+      'Materials: Constructed with a high-tension, breathable polyester mesh backrest and a durable nylon base.',
+      'Dimensions: Measures 72.5 cm x 67 cm x 100–108 cm with an adjustable seat height range of 44.5–52.5 cm.',
+      'Weight Capacity: Supports a maximum user weight of up to 220.5 lbs (100 kg).',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£165"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+
     {
     id: "Advwin-Armless-Cross-Legged-Desk-Chair",
     name: 'Advwin Armless Cross-Legged Desk Chair',
@@ -2443,31 +3236,31 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-     {
-    id: "drying-Rack",
-    name: 'Drying Rack',
-    code: "dryingRack",
-    category: "Furniture",
+   {
+    id: "Parkside-Performance-12V-Cordless-Rotary-Tool",
+    name: 'Parkside Performance 12V Cordless Rotary Tool',
+    code: "PPFBSA 12 A1",
+    category: "Tools",
     condition: "New",
-    estimate: "$35",
+    estimate: "€70",
     ////////////////////////////////////////////////////
     currentBid: "$0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/dryingRack.png",
+    image: "/products/PPFBSA12A1.jpg",
     accent: "#dc2626",
     description:
-      "This extendable clothes drying rack from Home Creation offers a highly flexible drying surface that easily expands to accommodate larger laundry loads. It features a robust design capable of holding up to 20 kg and includes integrated wheels for effortless mobility even when fully loaded.",
+      "This Parkside Performance 12V Cordless Rotary Tool Set is a versatile, high-precision multi-tool powered by an efficient brushless motor for hobby, crafting, and DIY projects. It comes packaged as a comprehensive starter kit complete with various specialized cutting guides, a battery, a charger, and a rugged aluminum carrying case.",
     details: [
-      "Extendable Frame: The central section smoothly pulls out to increase drying space, making it perfect for wide items like bedsheets.",
-      "High Weight Capacity: Engineered to securely support a maximum load of up to 20 kg.",
-      'Easy Mobility: Equipped with smooth-rolling wheels on the base for scratch-free, effortless transport around the room.',
-      'Space-Saving Storage: Folds completely flat in seconds, allowing you to easily slip it into tight closets or narrow gaps.',
+      "Brushless Motor Technology: Delivers higher efficiency, a longer service life, and less wear compared to standard brushed motors.",
+      "Digital Speed Control: Features an onboard display screen and control buttons to easily adjust and monitor operational speeds from 5,000 to 32,000 RPM.",
+      "12V Lithium-Ion Battery System: Uses a removable 12V battery compatible with other tools in the Parkside 12V Team family.",
+      'Premium Guide Attachments: Includes a parallel rip fence, a router/plunge depth stop, and 45°/90° angle tables for highly accurate cutting, milling, and grinding.',
     ],
       specs:[
-      ["Lot", "78"],
+      ["Lot", "90"],
       ["Included", "Full set"],
-      ["Price in origin country", "$35"],
+      ["Price in origin country", "€70"],
     ],
     bidder: {
       name: "Rami B.",
@@ -2476,6 +3269,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+ 
      {
     id: "sun-Lounger-Chair",
     name: 'Sun Lounger Chair',
@@ -2509,74 +3303,8 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-     {
-    id: "bar-Stool-Avane-Set-of-2",
-    name: 'Bar Stool Avane Set of 2',
-    code: "405861",
-    category: "Furniture",
-    condition: "New",
-    estimate: "£125",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/bar-Stool-Avane-Set-of-2.webp",
-    accent: "#dc2626",
-    description:
-      "The tectake Avane Bar Stool (Model 405861) features an elegant cream velvet-look seat paired with slim, gold-finished steel legs. Its chic, contemporary design blends comfort and style, making it a perfect addition to modern kitchen islands or home bars.",
-    details: [
-      "Seating Comfort: Ergonomically designed, plush seat shell with supportive backrest and integrated armrests.",
-      "Premium Materials: Upholstered in a soft-touch, hard-wearing fabric surface with steady, floor-protecting legs.",
-      'Built to Last: Sturdy steel construction capable of supporting a maximum load capacity of 120 kg.',
-      'Dimensions: Measures approximately 48.5 x 57 x 108 cm with a classic counter-to-bar profile.',
-      'Stable Design: Equipped with a built-in metal footrest ring for enhanced seating posture and overall stability.',
-    ],
-      specs:[
-      ["Lot", "80"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£125"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-      {
-    id: "Feandrea-Collapsible-Soft-Dog-Crate",
-    name: 'Feandrea Collapsible Soft Dog Crate',
-    code: "Feandrea Collapsible Soft Dog Crate",
-    category: "Furniture",
-    condition: "New",
-    estimate: "$45",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/feandrea.jpg",
-    accent: "#dc2626",
-    description:
-      "The Feandrea Collapsible Soft Dog Crate is a lightweight, portable pet carrier featuring a sturdy steel frame wrapped in durable, water-resistant Oxford fabric. It is designed with scratch-resistant mesh windows on multiple sides to ensure excellent ventilation and visibility for your pet during travel or indoor use.",
-    details: [
-      "Material Composition: Crafted from heavy-duty 600D Oxford fabric with tight-weave mesh netting.",
-      "Easy Portability: Features a tool-free, collapsible design that folds completely flat in seconds for quick vehicle storage.",
-      'Convenient Accessibility: Equipped with multiple zippered doors (top and sides) to easily let your pet in or out.',
-      'Built-in Storage: Includes integrated fabric pockets on the exterior to securely hold treats, toys, or leashes.',
-      'Stable Support: Constructed around a lightweight, powder-coated internal steel frame for structured rigidity.',
-    ],
-      specs:[
-      ["Lot", "81"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$45"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
+   
       {
     id: "Ladder-DAVDING",
     name: 'Ladder DAVDING',
@@ -2611,39 +3339,7 @@ export const products: Product[] = [
     },
   },
 
-      {
-    id: "Playtive-Fairy-Bouncy-Castle",
-    name: 'Playtive Fairy Bouncy Castle',
-    code: "879000115208",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€35",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Playtive-Fairy-Bouncy-Castle.webp",
-    accent: "#dc2626",
-    description:
-      "The Playtive Fairy Bouncy Castle is an adorable, pink inflatable jumper designed to bring fairy-tale magic and active play to your backyard [1.4]. It features a built-in basketball hoop and a side ring-toss game to keep young children entertained for hours [1.6, 1.20].",
-    details: [
-      "Included Components: A 14-piece set featuring the bounce house, 1 inflatable basketball, 4 inflatable rings, and 8 ground pegs for stability [1.6].",
-      "Safety & Build: Equipped with sturdy protective side walls and 8 separate air chambers with safety valves for quick deflation [1.22].",
-      'Size & Capacity: Measures 160 x 180 x 160 cm (W x H x D) and supports a maximum total weight capacity of 50 kg.',
-      'Age Grading: Specifically designed for kids aged 3 years and older.',
-    ],
-      specs:[
-      ["Lot", "83"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€35"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
      {
     id: "3-in-1-Exercise-Bike-with-Adjustable=-Resistance",
     name: 'FlexiSpot 3-in-1 Exercise Bike with Adjustable Resistance (V9)',
@@ -2743,105 +3439,9 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "Parkside-12V",
-    name: 'Parkside 12V 2-in-1 Drill & Driver Set',
-    code: "IAN-100388837",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€90",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/cordless-drill.png",
-    accent: "#dc2626",
-    description:
-      "The Parkside 12V Cordless Drill Driver Set is a compact, highly versatile power tool renowned for its unique 2-in-1 design featuring a removable keyless chuck. It belongs to the interchangeable Parkside X 12V Team battery system, making it a budget-friendly staple for both quick household repairs and routine DIY projects.",
-    details: [
-      "Dual Functionality: Removable 10mm metal chuck reveals an integrated magnetic bit holder underneath for rapid swapping between drilling and driving.",
-      "Speed Control: Two-speed gearbox providing 0–350 RPM for heavy screwdriving and 0–1,300 RPM for smooth drilling.",
-      "Adjustable Torque: 19 selectable torque settings plus an additional dedicated drill setting to prevent over-tightening.",
-      'Ecosystem Compatibility: Powered by 12V lithium-ion batteries that seamlessly fit all other tools in the Parkside 12V family.',
-    ],
-      specs:[
-      ["Lot", "88"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€90"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-    {
-    id: "Parkside-9-piece-tile-tool-case",
-    name: 'Parkside 9-piece Tile Tool Case',
-    code: "IAN 488319",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€90",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Parkside-9-piece-tile-tool-case.jpg",
-    accent: "#dc2626",
-    description:
-      "This 9-piece Parkside Tile Tool Set (IAN 488319 / Article 100395730) is a versatile diamond accessory kit designed for heavy-duty drilling, cutting, and grinding masonry. Engineered for standard 125mm angle grinders with an M14 thread, it provides everything needed to work cleanly with tough materials like porcelain, granite, marble, and ceramic tiles.",
-    details: [
-      "9-Piece Comprehensive Kit: Includes 1 diamond grinding cup, 2 diamond cutting discs, 5 diamond drill bits, and 1 adapter guide.",
-      "High-Grade Diamond Coating: Offers exceptional durability, speed, and precision when cutting or drilling through dense stone.",
-      "125mm Universal Fit: Tailored for standard grinders operating up to a maximum speed of 12,250 RPM.",
-      'Versatile Core Drills: Contains five varying drill bit sizes optimized for making clean holes for pipes and electrical outlets.',
-    ],
-      specs:[
-      ["Lot", "89"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€90"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-    {
-    id: "Parkside-Performance-12V-Cordless-Rotary-Tool",
-    name: 'Parkside Performance 12V Cordless Rotary Tool',
-    code: "PPFBSA 12 A1",
-    category: "Tools",
-    condition: "New",
-    estimate: "€70",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/PPFBSA12A1.jpg",
-    accent: "#dc2626",
-    description:
-      "This Parkside Performance 12V Cordless Rotary Tool Set is a versatile, high-precision multi-tool powered by an efficient brushless motor for hobby, crafting, and DIY projects. It comes packaged as a comprehensive starter kit complete with various specialized cutting guides, a battery, a charger, and a rugged aluminum carrying case.",
-    details: [
-      "Brushless Motor Technology: Delivers higher efficiency, a longer service life, and less wear compared to standard brushed motors.",
-      "Digital Speed Control: Features an onboard display screen and control buttons to easily adjust and monitor operational speeds from 5,000 to 32,000 RPM.",
-      "12V Lithium-Ion Battery System: Uses a removable 12V battery compatible with other tools in the Parkside 12V Team family.",
-      'Premium Guide Attachments: Includes a parallel rip fence, a router/plunge depth stop, and 45°/90° angle tables for highly accurate cutting, milling, and grinding.',
-    ],
-      specs:[
-      ["Lot", "90"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€70"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
+   
+   
     {
     id: "Closet-Organizer",
     name: 'SONGMICS Freestanding Portable Closet with Shelves, Hanging Rods',
@@ -2909,142 +3509,10 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "bookshelf",
-    name: 'WOLTU 6-tier bookshelf for living room & bedroom',
-    code: "KR013-MA",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€30",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/bookshelf.jpg",
-    accent: "#dc2626",
-    description:
-      "The WOLTU Children’s Bookcase is a wall-mounted, 3-tier storage unit made from premium E1 MDF and solid pine wood bars with a clean white finish. Its front-facing, space-saving design is built at a child-friendly height to encourage toddlers to independently pick out and organize their favorite books.",
-    details: [
-      'Materials: Constructed from durable E1 grade MDF with a water-based, odorless lacquer finish and solid pine support bars.',
-      "Dimensions: Measures approximately 42.5 cm x 14 cm x 80 cm (Width x Depth x Height).",
-      "Weight Capacity: Supports up to 2 kg per shelf, with a total unit capacity of 6 kg.",
-      'Child Safety: Features smooth, rounded corners to prevent bumps and front guardrails to stop books from slipping off.',
-      'Installation: Wall-mounted configuration that saves valuable floor space and includes all necessary assembly hardware.',
-    ],
-      specs:[
-      ["Lot", "93"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€30"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "Nightstand",
-    name: 'WOLTU 2x Bedside Table, Narrow Nightstand',
-    code: "W0ETT0232-2",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€55",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Nightstand.jpg",
-    accent: "#dc2626",
-    description:
-      "The WOLTU W0ETT0232-2 (Black) is a sleek, modern set of two ultra-narrow nightstands. Finished in a matte black lacquer, it is specifically crafted for minimal floor footprints next to beds or sofas. It provides an even balance of easily accessible display space and concealed storage.",
-    details: [
-      'Compact Footprint: Takes up a minimal 30 x 30 cm of floor space, making it highly optimized for tight corners, narrow gaps, and smaller rooms.',
-      "Dual Storage Zones: Configured with 1 open upper cube for frequently handled items (like phones or books) and 1 lower cabinet with a integrated door to keep personal clutter hidden away.",
-      "Overall Dimensions: Each individual unit measures precisely 30 x 60 x 30 cm (Width x Height x Depth).",
-      'High-Grade Material: Constructed from robust P2 MDF (engineered wood) certified for structural stability and shape retention.',
-      'Sleek Finish: Coated in an eco-friendly black lacquer that creates a smooth, water-resistant surface that is easy to wipe clean.',
-    ],
-      specs:[
-      ["Lot", "94"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€55"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-    {
-    id: "Coffee-Table",
-    name: 'WOLTU Coffee Table',
-    code: "TSG17hei",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€25",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Coffee-Table.jpg",
-    accent: "#dc2626",
-    description:
-      "The WOLTU TSG17hei is a compact, C-shaped side table designed to slide seamlessly under your sofa or bed to save space. Featuring a light oak finish and a black metal frame, it brings both modern style and convenient tabletop access directly to your seat.",
-    details: [
-      'Space-Saving Design: The C-shaped structure allows the base to slide underneath furniture, maximizing usable space in tight rooms.',
-      "Premium Materials: Built with a waterproof, scratch-resistant E1-class MDF tabletop and a durable, rust-resistant black steel frame.",
-      "Compact Dimensions: Measures 45 x 25 x 63.5 cm (L x W x H), making it highly suitable for holding a laptop, coffee cup, or book.",
-      'Lightweight & Portable: Weighs around 3 kg, allowing you to effortlessly move it between your living room, bedroom, or office.',
-      'Floor Protection: Equipped with non-slip feet protectors that prevent floor scratches and improve overall stability.',
-    ],
-      specs:[
-      ["Lot", "96"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€25"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "SONGMICS-mirror",
-    name: 'SONGMICS Full Length Mirror',
-    code: "LFM031B01",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€70",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/SONGMICS-mirror.jpg",
-    accent: "#dc2626",
-    description:
-      "The SONGMICS LFM031B01 is an elegant, arched full-length floor mirror designed to bring modern style and a head-to-toe view to any room. Crafted with a sleek ink-black aluminum frame, it offers flexible placement options as a freestanding, leaning, or wall-mounted accent piece.",
-    details: [
-      'Dimensions: Measures 160 x 50 cm (approx. 63" x 20") for a complete full-body view.',
-      "Materials: Features a rust-resistant aluminum alloy frame and high-strength tempered glass.",
-      "Safety Design: Equipped with an explosion-proof film that prevents glass shards from scattering if broken.",
-      'No Assembly: Arrives fully assembled and ready to use straight out of the box.',
-      'Versatile Use: Ideal for bedrooms, walk-in closets, entryways, and living spaces.',
-    ],
-      specs:[
-      ["Lot", "97"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€70"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+ 
+   
+   
+  
     {
     id: "VASAGLE-kitchen-shelf",
     name: 'VASAGLE Kitchen Shelf',
@@ -3145,39 +3613,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-       {
-    id: "VITALmaxx-Fitmaxx-5",
-    name: 'VITALmaxx Fitmaxx 5 / Abmaxx 6 abdominal and core trainer',
-    code: "02678200101",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "110$",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/vitalmaxx.jpg",
-    accent: "#dc2626",
-    description:
-      "The VITALmaxx Fitmaxx 5 is a compact, foldable home fitness trainer that uses an upward gliding reverse-crunch motion to intensely target your entire core. By combining strength and endurance training, it simultaneously engages your abdomen, legs, glutes, arms, and back for an efficient full-body workout.",
-    details: [
-      'Resistance Levels: Features 5 adjustable difficulty levels that allow you to change the angle of the incline to match your fitness level.',
-      'Digital Computer: Includes a battery-operated display that tracks time, repetition count, and estimated calories burned',
-      "Space-Saving Design: Folds completely flat in seconds, making it incredibly easy to store under a bed or inside a closet",
-      'Weight Capacity: Accommodates users with a maximum body weight of up to 100 kg (220 lbs).',
-    ],
-      specs:[
-      ["Lot", "101"],
-      ["Included", "Full set"],
-      ["Price in origin country", "110$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
      {
     id: "Pull-Up-Station",
     name: 'Pull Up Station',
@@ -3281,209 +3717,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-     {
-    id: "Coffee-Table-vower",
-    name: 'Coffee Table',
-    code: "B0CF3XP4DC",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€80",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Coffee-Table-vower.jpg",
-    accent: "#dc2626",
-    description:
-      "This mid-century modern coffee table balances Japandi simplicity with functional storage, making it an ideal anchor piece for smaller living spaces. Its split two-tier layout pairs an open display compartment with a sleek, vertically slatted storage drawer.",
-    details: [
-      'Slatted Front Panel: Features a textured, vertical fluted aesthetic on the sliding drawer face.',
-      'Warm Wood Effect: Wrapped in a light natural oak wood-grain paper finish for an organic feel.',
-      "Sturdy Solid Legs: Supported by four outward-tapered solid pine wood legs for stability.",
-      'Dual Storage Options: Includes one hidden drawer and one open side-cubby shelf.',
-      'Compact Footprint: Measures exactly 100 cm L x 50 cm D x 43 cm H and weighs 22 kg',
-    ],
-      specs:[
-      ["Lot", "105"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€80"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-     {
-    id: "white-comod",
-    name: 'Bedroom Comod',
-    code: "B0FVDX25JG",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€70",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/white-comod.jpg",
-    accent: "#dc2626",
-    description:
-      "This white wooden 3-drawer chest serves as a compact bedside table or office storage unit featuring an integrated top-panel power outlet for easy device charging. Its minimal, handleless design maximizes storage efficiency in small spaces while maintaining a clean, modern aesthetic.",
-    details: [
-      'Storage capacity: Three spacious pull-out drawers for bedside or office organization.',
-      'Built-in power: Top surface features an embedded power strip with traditional plug outlets and dual USB ports.',
-      "Materials: Built from sturdy MDF wood panels with an easy-to-clean, water-resistant surface finish.",
-      'Dimensions: Measures approximately 40 cm wide by 60 cm high, making it ideal for narrow gaps next to beds or desks.',
-      'Would you like help with step-by-step assembly tips for this type of furniture, or do you want to see if it comes in other color options like black or oak?',
-    ],
-      specs:[
-      ["Lot", "106"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€70"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-
-    {
-    id: "SONGMICS-bar-stool",
-    name: 'SONGMICS Bar Stool',
-    code: "LJB15G",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "€60",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/SONGMICS-bar-stool.jpg",
-    accent: "#dc2626",
-    description:
-      "The SONGMICS Adjustable Swivel Bar Stool features a modern, armless silhouette upholstered in a smoke-grey, linen-imitation fabric with elegant horizontal channel tufting. It is supported by a heavy-duty chrome-plated pedestal base that offers smooth 360-degree rotation and customizable height adjustment.",
-    details: [
-      'Upholstery: Durable, breathable smoke-grey linen fabric',
-      'Base: Polished chrome steel with an integrated triangular footrest',
-      "Mechanism: Gas-lift cylinder for seamless height adjustments",
-      'Movement: Full 360-degree swivel capabilities',
-      'Design: High, ergonomic backrest with supportive channel stitching',
-    ],
-      specs:[
-      ["Lot", "107"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€60"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "camping-table",
-    name: 'Kesser Folding Camping Cabinet',
-    code: "NP11742",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "$45",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/camping-table.jpg",
-    accent: "#dc2626",
-    description:
-      "This Kesser Portable Camping Table serves as a lightweight outdoor cook station and pantry for road trips, picnics, and backyard barbecues. It combines a solid aluminum countertop with a zippered 6-shelf fabric organizer underneath to store your food and kitchenware safely away from insects and dust.",
-    details: [
-      'Storage Compartments: 6 removable interior shelves with a dual-zipper front door mesh roll-up',
-      "Portability: Collapsible folding frame design that packs completely flat",
-      'Included Accessory: Heavy-duty canvas carrying bag for easy transport',
-      'Side Accents: Built-in side storage pockets for quick access to utensils and small items',
-    ],
-      specs:[
-      ["Lot", "108"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$45"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-   {
-    id: "Costway-Cat-Litter-Box",
-    name: 'Costway Cat Litter Box ',
-    code: "73496852",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "$70",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/pv10002wh1_1_.jpg",
-    accent: "#dc2626",
-    description:
-      "This sleek, dual-purpose credenza functions as a modern home accent while completely concealing your cat's litter pan out of sight. It features a separate entryway compartment designed to capture tracking granules before your pet steps back out onto your floors.",
-    details: [
-      '3-in-1 Design: Blends seamlessly into your home decor as a stylish side table, TV console, or hidden pet washroom.',
-      'Smart Litter Control: An internal entry divider holds an included scratching pad to clean paws and catch stray litter particles.',
-      "Sturdy Construction: Crafted from durable, glossy white engineered wood and supported by solid elevated legs for stability.",
-      'User-Friendly Access: Equipped with double front doors and classic round knobs for quick cleaning and scooping.',
-      'Ventilated Back Panel: Built with integrated rear air vents to maintain fresh airflow and control unpleasant odors.',
-    ],
-      specs:[
-      ["Lot", "109"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$70"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-     {
-    id: "Mobile-Storage-Unit",
-    name: 'Costway Mobile Storage Unit',
-    code: "20547318",
-    category: "Furnniture",
-    condition: "New",
-    estimate: "$150",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Mobile-Storage-Unit.jpg",
-    accent: "#dc2626",
-    description:
-      "The Costway Mobile Storage Unit (Model 20547318) is a versatile, space-saving wooden storage cabinet designed to optimize home offices, craft rooms, or workspaces. It seamlessly combines a spacious side cupboard with a five-drawer chest on smooth-rolling wheels to keep your daily equipment and documents perfectly organized.",
-    details: [
-      'Flexible Storage: Features 5 compact sliding drawers and a large cabinet compartment equipped with a 3-position adjustable internal shelf.',
-      'Effortless Mobility: Outfitted with 5 universal 360° swivel casters (including 2 front wheels with built-in brakes) to smoothly roll or lock into place.',
-      "Heavy-Duty Build: Formed from durable, scratch-resistant engineered wood capable of supporting up to 220 lbs of total weight.",
-      'Multi-Functional Top: Serves as an excellent printer stand or extended desk countertop with a spacious 31" x 16" flat surface.',
-    ],
-      specs:[
-      ["Lot", "110"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$150"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
     {
     id: "Velvet-chair",
     name: 'Wahson Velvet Chair',
@@ -3644,6 +3878,40 @@ export const products: Product[] = [
       ["Lot", "115"],
       ["Included", "Full set"],
       ["Price in origin country", "$90"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+    {
+    id: "Scratching-tree",
+    name: 'Scratching tree ',
+    code: "Scratching tree ",
+    category: "Sports",
+    condition: "New",
+    estimate: "£70",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/Scratching-tree.webp",
+    accent: "#dc2626",
+    description:
+      "This multi-level beige plush cat tree serves as an all-in-one activity tower designed to keep indoor cats active, cozy, and entertained. It combines elevated lounging perches with dedicated scratching zones to satisfy your pet's natural instincts while saving your household furniture.",
+    details: [
+      'Top Cushion Bed: Elevated circular perch with thick, padded borders for comfortable sleeping and bird-watching.',
+      'Side-Mounted Hammock: A soft, flexible plush pouch extending from the main post that creates a perfect cradled nesting spot.',
+      "Lower Hiding Condo: Features a barrel-shaped enclosed shelter near the base for private retreats and quiet catnaps.",
+      'Sisal Scratching Posts: Heavy-duty support columns tightly wrapped in durable, natural sisal rope to promote healthy nail maintenance.',
+      'Sturdy Construction: Engineered with a wide baseplate and low center of gravity to prevent tipping during high-energy play..',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£70"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3820,6 +4088,39 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+   {
+    id: "Cat-Tree-Fippi",
+    name: 'Cat Tree Fippi',
+    code: "402185",
+    category: "Sports",
+    condition: "New",
+    estimate: "£75",
+    ////////////////////////////////////////////////////
+    currentBid: "$0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/cat-treehouse.webp",
+    accent: "#dc2626",
+    description:
+      "This multi-level cat tree is a comprehensive pet activity tower designed to satisfy a cat's natural instincts to climb, scratch, and lounge. Standing at an impressive height, it features a striking black-and-white plush fabric finish that blends entertainment with home comfort.",
+    details: [
+      'Multi-Tier Layout: Features staggered jumping platforms and elevated viewing perches.',
+      "Cozy Hideaway: Includes a central enclosed condo cave for private resting.",
+      "Relaxation Zones: Equipped with multiple hanging hammock cradles and plush beds.",
+      'Scratching Surfaces: Built with durable sisal-wrapped posts to encourage healthy claw maintenance.',
+    ],
+      specs:[
+      ["Lot", "113"],
+      ["Included", "Full set"],
+      ["Price in origin country", "£75"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
        {
     id: "Lightweight-Framed-Child-Carrier",
     name: 'Lightweight Framed Child Carrier',
@@ -3845,39 +4146,6 @@ export const products: Product[] = [
       ["Lot", "113"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-      {
-    id: "radiator-cover",
-    name: 'Radiator cover',
-    code: "B0C414641C",
-    category: "Sports",
-    condition: "New",
-    estimate: "$45",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/radiator-cover.jpg",
-    accent: "#dc2626",
-    description:
-      "This modern MDF radiator cover is designed to elegantly conceal your home heating unit while providing a functional display shelf for decor. Its slatted structure ensures excellent heat distribution throughout the room while keeping children and pets safe from hot surfaces.",
-    details: [
-      'Material Composition: Crafted from high-density, sturdy MDF (Medium-Density Fibreboard).',
-      'Surface Coating: Finished with a protective, water-based lacquer that is easy to wipe clean.',
-      "Airflow Pattern: Features a slatted design optimized for unrestricted, natural heat circulation.",
-      'Safety Feature: Creates a reliable physical barrier to protect against direct contact burns.',
-    ],
-      specs:[
-      ["Lot", "113"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$45"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3920,40 +4188,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-       {
-    id: "tectake-gaming-chair",
-    name: 'tectake Ergonomic Gamer Chair',
-    code: "B085NW1SHH",
-    category: "Sports",
-    condition: "New",
-    estimate: "€140",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/tectake-gaming-chair.jpg",
-    accent: "#dc2626",
-    description:
-      "This racing-style ergonomic office chair features a sleek black and red faux leather and mesh fabric exterior designed for comfort. It is equipped with a high backrest, integrated padded armrests, and a sturdy 360-degree swivel base perfect for long gaming or working sessions.",
-    details: [
-      'Material: Upholstered in durable polyurethane (PU) synthetic leather paired with breathable mesh panels.',
-      'Ergonomics: Thickly padded seat cushion and backrest with integrated, contoured armrests for maximum comfort.',
-      "Adjustability: Features a smooth pneumatic gas lift for seamless seat height modification.",
-      'Mobility: Built on a stable five-star base with double-wheel casters suitable for multiple flooring types.',
-      'Ventilation: Designed with dual open cut-outs in the headrest area to promote air circulation.',
-    ],
-      specs:[
-      ["Lot", "113"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€140"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+ 
      {
     id: "Modern-Dining-Chairs",
     name: 'Modern Dining Chairs',
@@ -4055,41 +4290,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "Coocaa-43-inch-Roku-TV",
-    name: 'Coocaa 43-inch Roku TV ',
-    code: "43CRUG50 ",
-    category: "Sports",
-    condition: "New",
-    estimate: "£165",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Coocaa-43-inch-Roku-TV.webp",
-    accent: "#dc2626",
-    description:
-      "This Nakabayashi CNN-008BK is an ergonomic mesh office chair designed with an adjustable lumbar support system to minimize lower back fatigue. It features spacesaving, flip-up padded armrests and a high-density urethane foam cushion for reliable daily working comfort.",
-    details: [
-      'Lumbar Support: Adjusts up and down by 2.4 inches (6 cm) to match the natural curvature of your spine.',
-      'Flip-Up Armrests: Rotate upward smoothly so you can tuck the chair completely under your desk when not in use.',
-      "Seat Cushion: Features a thick 2.8-inch (70 mm) molded urethane foam pad that prevents bottoming out.",
-      'Materials: Constructed with a high-tension, breathable polyester mesh backrest and a durable nylon base.',
-      'Dimensions: Measures 72.5 cm x 67 cm x 100–108 cm with an adjustable seat height range of 44.5–52.5 cm.',
-      'Weight Capacity: Supports a maximum user weight of up to 220.5 lbs (100 kg).',
-    ],
-      specs:[
-      ["Lot", "113"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£165"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  
     {
     id: "Sharp-Aquos-40-inch",
     name: 'Sharp Aquos 40-inch',
@@ -4124,32 +4325,32 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-    {
-    id: "Scratching-tree",
-    name: 'Scratching tree ',
-    code: "Scratching tree ",
+         {
+    id: "e-bike-3",
+    name: 'SWFT Volt Electric Bike',
+    code: "SWFT-VOLT-BLK",
     category: "Sports",
     condition: "New",
-    estimate: "£70",
+    estimate: "700$",
     ////////////////////////////////////////////////////
     currentBid: "$0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/Scratching-tree.webp",
+    image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
     accent: "#dc2626",
     description:
-      "This multi-level beige plush cat tree serves as an all-in-one activity tower designed to keep indoor cats active, cozy, and entertained. It combines elevated lounging perches with dedicated scratching zones to satisfy your pet's natural instincts while saving your household furniture.",
+      "The SWFT Volt Electric Bike is an affordable, single-speed commuter e-bike designed for efficient city riding. It combines a clean, classic road-bike aesthetic with a quiet 350W motor to easily power your daily trips.",
     details: [
-      'Top Cushion Bed: Elevated circular perch with thick, padded borders for comfortable sleeping and bird-watching.',
-      'Side-Mounted Hammock: A soft, flexible plush pouch extending from the main post that creates a perfect cradled nesting spot.',
-      "Lower Hiding Condo: Features a barrel-shaped enclosed shelter near the base for private retreats and quiet catnaps.",
-      'Sisal Scratching Posts: Heavy-duty support columns tightly wrapped in durable, natural sisal rope to promote healthy nail maintenance.',
-      'Sturdy Construction: Engineered with a wide baseplate and low center of gravity to prevent tipping during high-energy play..',
+      "Top Speed: 20 mph using either pedal assist or the thumb throttle.",
+      "Battery Range: Up to 32 miles on a single charge with a clean, integrated frame battery.",
+      "Lightweight Build: Weighs just 44.1 lbs, making it much easier to carry and maneuver than standard e-bikes.",
+      "Rider Fit: Large 58 cm steel frame with a 32.5-inch standover height, best suited for taller riders.",
+      "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "37"],
       ["Included", "Full set"],
-      ["Price in origin country", "£70"],
+      ["Price in origin country", "700$"],
     ],
     bidder: {
       name: "Rami B.",
@@ -4157,105 +4358,9 @@ export const products: Product[] = [
       since: "Leading for 2 minutes",
       badge: "Interior buyer",
     },
-  },
-   {
-    id: "Feandrea-Scratching-tree",
-    name: 'Feandrea Cat Tree ',
-    code: "Cat Tree ",
-    category: "Sports",
-    condition: "New",
-    estimate: "$60",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Feandrea-Scratching-tree.webp",
-    accent: "#dc2626",
-    description:
-      "The Feandrea Cat Tree is a sturdy, multi-level activity center designed to give indoor cats a dedicated space to climb, play, and rest. Combining cozy plush lounging surfaces with natural sisal scratching posts, it provides vertical enrichment while protecting household furniture.",
-    details: [
-      'Comfortable Lounging: Features a spacious, heavily cushioned top perch with raised edges and two enclosed dark condos for secure napping.',
-      "Furniture Protection: Equipped with durable, fully-wrapped natural sisal scratching posts to satisfy your cat's natural scratching instincts",
-      "Stable Design: Constructed with a thick, heavy baseboard and includes an anti-tip wall-anchor safety strap to prevent shaking or tipping",
-      'Space-Saving Build: Optimizes vertical space to offer multiple tiers of activity without taking up excessive floor real estate ',
-    ],
-      specs:[
-      ["Lot", "113"],
-      ["Included", "Full set"],
-      ["Price in origin country", "$60"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-     {
-    id: "Cat-Tree-Fippi",
-    name: 'Cat Tree Fippi',
-    code: "402185",
-    category: "Sports",
-    condition: "New",
-    estimate: "£75",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/cat-treehouse.webp",
-    accent: "#dc2626",
-    description:
-      "This multi-level cat tree is a comprehensive pet activity tower designed to satisfy a cat's natural instincts to climb, scratch, and lounge. Standing at an impressive height, it features a striking black-and-white plush fabric finish that blends entertainment with home comfort.",
-    details: [
-      'Multi-Tier Layout: Features staggered jumping platforms and elevated viewing perches.',
-      "Cozy Hideaway: Includes a central enclosed condo cave for private resting.",
-      "Relaxation Zones: Equipped with multiple hanging hammock cradles and plush beds.",
-      'Scratching Surfaces: Built with durable sisal-wrapped posts to encourage healthy claw maintenance.',
-    ],
-      specs:[
-      ["Lot", "113"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£75"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
-      {
-    id: "Cat-Tree-house",
-    name: 'Cat Tree House',
-    code: "Cat Tree",
-    category: "Sports",
-    condition: "New",
-    estimate: "£60",
-    ////////////////////////////////////////////////////
-    currentBid: "$0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/Cat-Tree-house.webp",
-    accent: "#dc2626",
-    description:
-      "This compact multi-level cat tree is designed to provide your pet with a comfortable space for scratching, climbing, and resting. It features a space-saving layout finished in a soft, beige plush fabric that easily blends into small indoor spaces.",
-    details: [
-      'Structure: Multi-tier design with two elevated platforms and a ground-level hiding tunnel.',
-      "Materials: Sturdy wooden base plates wrapped in soft plush fabric and durable sisal rope posts.",
-      "Entertainment: Built-in hanging toy ball to encourage active play and hunting instincts.",
-      'Functionality: Multiple dedicated scratching surfaces to help keep your cat’s claws healthy and protect home furniture.',
-    ],
-      specs:[
-      ["Lot", "113"],
-      ["Included", "Full set"],
-      ["Price in origin country", "£60"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+  }, 
+  
+    
+  
 ];
 export const featuredProduct = products[0]; 
