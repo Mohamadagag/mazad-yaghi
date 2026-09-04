@@ -89,7 +89,7 @@ export default function MazadPage() {
                 </p>
 
                 <p className="mt-1 text-xl font-semibold text-[#101316]">
-                  {product.currentBid}
+                  ${product.currentBid}
                 </p>
               </div>
 
@@ -135,7 +135,7 @@ export default function MazadPage() {
             </p>
 
             <p className="mt-3 text-lg font-semibold text-[#59636d]">
-              {product.currentBid}
+              ${product.currentBid}
             </p>
 
             {/* <p className="mt-1 text-sm text-[#76818b]">

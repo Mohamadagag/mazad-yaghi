@@ -25,11 +25,11 @@ export const products: Product[] = [
     id: "bookshelf",
     name: 'WOLTU Children’s Bookcase',
     code: "KR013-MA",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€30",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "20",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/bookshelf.jpg",
@@ -44,7 +44,7 @@ export const products: Product[] = [
       'Installation: Wall-mounted configuration that saves valuable floor space and includes all necessary assembly hardware.',
     ],
       specs:[
-      ["Lot", "93"],
+      ["Lot", "1"],
       ["Included", "Full set"],
       ["Price in origin country", "€30"],
     ],
@@ -59,11 +59,11 @@ export const products: Product[] = [
     id: "sevrin-KA9307",
     name: "Severin Filter Coffee Maker",
     code: "KA9307",
-    category: "Coffee Maker",
+    category: "Electronics",
     condition: "New",
     estimate: "€80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Today, 8:30 PM",
     image: "/products/sevrin-KA9307.png",
@@ -77,7 +77,7 @@ export const products: Product[] = [
       "Filter size: 1x4 paper filters",
     ],
     specs: [
-      ["Lot", "1"],
+      ["Lot", "2"],
       ["Included", "Full set"],
       ["Price in origin country", "€90"],
     ],
@@ -96,7 +96,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€49.99",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/pot.webp",
@@ -110,7 +110,7 @@ export const products: Product[] = [
       "Easy Maintenance: Includes a high-quality non-stick coating for effortless food release and quick cleanup.",
     ],
       specs:[
-      ["Lot", "15"],
+      ["Lot", "3"],
       ["Included", "Full set"],
       ["Price in origin country", "€49.99"],
     ],
@@ -129,7 +129,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "30$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Steamer.jpeg",
@@ -144,7 +144,7 @@ export const products: Product[] = [
       "Ergonomic Build: Designed with a comfortable handheld grip and a wide, smooth-glide metal steaming plate.",
     ],
       specs:[
-      ["Lot", "40"],
+      ["Lot", "4"],
       ["Included", "Full set"],
       ["Price in origin country", "30$"],
     ],
@@ -159,11 +159,11 @@ export const products: Product[] = [
     id: "weskate-Skateboard",
     name: 'Weskate Skateboard',
     code: "3108-1",
-    category: "Furniture",
+    category: "Skateboard",
     condition: "New",
     estimate: "$30",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/skateboard.jpg",
@@ -180,7 +180,7 @@ export const products: Product[] = [
       "Grip Tape: Pre-applied waterproof diamond emery sandpaper delivers high friction for excellent shoe grip.",
     ],
       specs:[
-      ["Lot", "61"],
+      ["Lot", "5"],
       ["Included", "Full set"],
       ["Price in origin country", "$30"],
     ],
@@ -195,11 +195,11 @@ export const products: Product[] = [
     id: "radiator-cover",
     name: 'Radiator cover',
     code: "B0C414641C",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "$45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/radiator-cover.jpg",
@@ -213,7 +213,7 @@ export const products: Product[] = [
       'Safety Feature: Creates a reliable physical barrier to protect against direct contact burns.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "6"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -228,11 +228,11 @@ export const products: Product[] = [
     id: "Cotsoco-Massage-Gun",
     name: 'Cotsoco Deep Tissue Massage Gun',
     code: "M679",
-    category: "Furniture",
+    category: "Electronics",
     condition: "New",
     estimate: "30$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/massageGun.webp",
@@ -247,7 +247,7 @@ export const products: Product[] = [
       "Ergonomic & Portable: Built with an anti-slip silicone grip and comes packed in a dedicated travel carrying case for on-the-go relief.",
     ],
       specs:[
-      ["Lot", "52"],
+      ["Lot", "7"],
       ["Included", "Full set"],
       ["Price in origin country", "30$"],
     ],
@@ -266,7 +266,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$120",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Z-OFC104dgr.jpg",
@@ -281,7 +281,7 @@ export const products: Product[] = [
       'Ideal Use: Perfectly suited for compact workstations, retail counters, and study spaces.',
     ],
       specs:[
-      ["Lot", "74"],
+      ["Lot", "8"],
       ["Included", "Full set"],
       ["Price in origin country", "$120"],
     ],
@@ -300,7 +300,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€50",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Under-Sink-Bathroom-Storage.jpg",
@@ -314,7 +314,7 @@ export const products: Product[] = [
       "Elevated Base: Raised on short protective feet to prevent water damage from damp bathroom floors and make cleaning underneath easy.",
     ],
       specs:[
-      ["Lot", "66"],
+      ["Lot", "9"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -333,7 +333,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "50$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/oral-irrigator.jpg",
@@ -347,7 +347,7 @@ export const products: Product[] = [
       "Versatile Cleaning: Offers multiple operation pressure modes (Normal, Soft, Pulse) to adapt to sensitive gums, braces, and implants.",
     ],
       specs:[
-      ["Lot", "27"],
+      ["Lot", "10"],
       ["Included", "Full set"],
       ["Price in origin country", "50$"],
     ],
@@ -362,11 +362,11 @@ export const products: Product[] = [
     id: "Ice-Cream-Maker",
     name: "Ice Cream Maker",
     code: "ICE-2035Y",
-    category: "Ice Cream Maker",
+    category: "Electronics",
     condition: "New",
     estimate: "€130-€150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Today, 9:00 PM",
     image: "/products/Ice-Cream-Maker.png",
@@ -381,7 +381,7 @@ export const products: Product[] = [
       "Full Kit: Ships with a mixing paddle, transparent lid, spatula, and measuring cup.",
     ],
     specs:[
-      ["Lot", "2"],
+      ["Lot", "11"],
       ["Included", "Full set"],
       ["Price in origin country", "€130 - €150"],
     ],
@@ -396,11 +396,11 @@ export const products: Product[] = [
     id: "cofee-machine",
     name: "Filter Coffee Machine Grind",
     code: "B087VTM5PF",
-    category: "Coffee Maker",
+    category: "Electronics",
     condition: "Used",
     estimate: "€90-€150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Tomorrow, 6:15 PM",
     image: "/products/barista.png",
@@ -416,7 +416,7 @@ export const products: Product[] = [
       "Anti-Drip Function: Smart drip-stop feature allows you to pour a cup mid-brew without making a mess.",
     ],
     specs:[
-      ["Lot", "3"],
+      ["Lot", "12"],
       ["Included", "Full set"],
       ["Price in origin country", "€90 - €150"],
     ],
@@ -431,11 +431,11 @@ export const products: Product[] = [
     id: "Dual-chamber-air-fryer",
     name: "Dual-chamber air fryer 7L",
     code: "11339",
-    category: "Air Fryer",
+    category: "Electronics",
     condition: "New",
     estimate: "€94,99",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Tomorrow, 7:20 PM",
     image: "/products/airfryer.png",
@@ -451,7 +451,7 @@ export const products: Product[] = [
       "Safety Elements: Equipped with a cool-touch exterior, automatic shut-off, and non-slip feet.",
     ],
    specs:[
-      ["Lot", "4"],
+      ["Lot", "13"],
       ["Included", "Full set"],
       ["Price in origin country", "€94,99"],
     ],
@@ -466,11 +466,11 @@ export const products: Product[] = [
     id: "zit-blender",
     name: "Z.I.T Countertop Blender",
     code: "ZIT1009",
-    category: "Blender",
+    category: "Electronics",
     condition: "New",
     estimate: "30$ - 40$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/zit2.jpeg",
@@ -486,7 +486,7 @@ export const products: Product[] = [
       "Sturdy Build: Premium stainless steel base with non-slip feet.",
     ],
       specs:[
-      ["Lot", "6"],
+      ["Lot", "14"],
       ["Included", "Full set"],
       ["Price in origin country", "40$ - 50$"],
     ],
@@ -501,11 +501,11 @@ export const products: Product[] = [
     id: "projector",
     name: "Magcubic Projector HY320",
     code: "HY320",
-    category: "Projector",
+    category: "Electronics",
     condition: "New",
     estimate: "100$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/projector.jpg",
@@ -520,7 +520,7 @@ export const products: Product[] = [
       "Smart Adjustments: Auto vertical keystone correction and four-corner manual calibration for a perfectly square image.",
     ],
       specs:[
-      ["Lot", "13"],
+      ["Lot", "15"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -539,7 +539,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Bar-Stool.jpg",
@@ -554,7 +554,7 @@ export const products: Product[] = [
       "High Weight Capacity: Engineered to easily support up to 150 kg (approx. 330 lbs) per chair.",
     ],
       specs:[
-      ["Lot", "53"],
+      ["Lot", "16"],
       ["Included", "Full set"],
       ["Price in origin country", "€80"],
     ],
@@ -573,7 +573,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "700$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
@@ -588,7 +588,7 @@ export const products: Product[] = [
       "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "37"],
+      ["Lot", "17"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
     ],
@@ -607,7 +607,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$280",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Barber-Chair.jpg",
@@ -621,7 +621,7 @@ export const products: Product[] = [
       "Structural Support: Anchored by a square chrome base and an integrated T-shaped footrest for maximum stability and user comfort.",
     ],
       specs:[
-      ["Lot", "46"],
+      ["Lot", "18"],
       ["Included", "Full set"],
       ["Price in origin country", "$280"],
     ],
@@ -636,11 +636,11 @@ export const products: Product[] = [
     id: "Storage-Shelving-Unit",
     name: 'WOLTU Storage Shelving Unit ',
     code: "RGB9289whe",
-    category: "Electronics",
+    category: "Furniture",
     condition: "New",
     estimate: "€45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/WOLTU-shelf.jpg",
@@ -655,7 +655,7 @@ export const products: Product[] = [
       'Back panels help prevent items from falling',
     ],
       specs:[
-      ["Lot", "45"],
+      ["Lot", "19"],
       ["Included", "Full set"],
       ["Price in origin country", "€45"],
     ],
@@ -674,7 +674,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/meatgrinder.webp",
@@ -689,7 +689,7 @@ export const products: Product[] = [
       "Cleaning Note: Aluminum parts are not dishwasher safe and must be washed by hand to prevent discoloration.",
     ],
       specs:[
-      ["Lot", "18"],
+      ["Lot", "20"],
       ["Included", "Full set"],
       ["Price in origin country", "€45"],
     ],
@@ -708,7 +708,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€45.99",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/vaccum.webp",
@@ -723,7 +723,7 @@ export const products: Product[] = [
       "Operating Range: Provides a 6.5-meter action radius with an automatic cable rewind mechanism.",
     ],
       specs:[
-      ["Lot", "16"],
+      ["Lot", "21"],
       ["Included", "Full set"],
       ["Price in origin country", "€45.99"],
     ],
@@ -742,7 +742,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "170$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/tornadotv32.webp",
@@ -776,7 +776,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "90$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-gaming-chair.jpg",
@@ -790,7 +790,7 @@ export const products: Product[] = [
       "Relaxing Tilt: Offers a seat height range of 46.5–56.5 cm alongside a comfortable 95° to 110° rocking/tilt mechanism.",
     ],
       specs:[
-      ["Lot", "67"],
+      ["Lot", "23"],
       ["Included", "Full set"],
       ["Price in origin country", "90$"],
     ],
@@ -805,11 +805,11 @@ export const products: Product[] = [
     id: "hand-blender",
     name: "Z.I.T Hand Blender",
     code: "ZIT1008",
-    category: "Blender",
+    category: "Electronics",
     condition: "New",
     estimate: "35$ - 50$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 5:45 PM",
     image: "/products/zitblender.png",
@@ -823,7 +823,7 @@ export const products: Product[] = [
       "Speed Management: Multi-tier variable speed dial to prevent kitchen splashes.",
     ],
      specs:[
-      ["Lot", "5"],
+      ["Lot", "24"],
       ["Included", "Full set"],
       ["Price in origin country", "35$ - 50$"],
     ],
@@ -842,7 +842,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/feandrea.jpg",
@@ -857,7 +857,7 @@ export const products: Product[] = [
       'Stable Support: Constructed around a lightweight, powder-coated internal steel frame for structured rigidity.',
     ],
       specs:[
-      ["Lot", "81"],
+      ["Lot", "25"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -876,7 +876,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£125",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/bar-Stool-Avane-Set-of-2.webp",
@@ -891,7 +891,7 @@ export const products: Product[] = [
       'Stable Design: Equipped with a built-in metal footrest ring for enhanced seating posture and overall stability.',
     ],
       specs:[
-      ["Lot", "80"],
+      ["Lot", "26"],
       ["Included", "Full set"],
       ["Price in origin country", "£125"],
     ],
@@ -906,11 +906,11 @@ export const products: Product[] = [
     id: "Parkside-12V",
     name: 'Parkside 12V 2-in-1 Drill & Driver Set',
     code: "IAN-100388837",
-    category: "Furniture",
+    category: "Tools",
     condition: "New",
     estimate: "€90",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cordless-drill.png",
@@ -924,7 +924,7 @@ export const products: Product[] = [
       'Ecosystem Compatibility: Powered by 12V lithium-ion batteries that seamlessly fit all other tools in the Parkside 12V family.',
     ],
       specs:[
-      ["Lot", "88"],
+      ["Lot", "27"],
       ["Included", "Full set"],
       ["Price in origin country", "€90"],
     ],
@@ -939,11 +939,11 @@ export const products: Product[] = [
     id: "Coffee-Table",
     name: 'WOLTU Coffee Table',
     code: "TSG17hei",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€25",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Coffee-Table.jpg",
@@ -958,7 +958,7 @@ export const products: Product[] = [
       'Floor Protection: Equipped with non-slip feet protectors that prevent floor scratches and improve overall stability.',
     ],
       specs:[
-      ["Lot", "96"],
+      ["Lot", "28"],
       ["Included", "Full set"],
       ["Price in origin country", "€25"],
     ],
@@ -977,7 +977,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£70",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/babychair.jpg",
@@ -991,7 +991,7 @@ export const products: Product[] = [
       "Removable Reducer Pad: Includes an extra-thick, washable insert padding that can be removed as the child gets older.",
     ],
       specs:[
-      ["Lot", "55"],
+      ["Lot", "29"],
       ["Included", "Full set"],
       ["Price in origin country", "£70"],
     ],
@@ -1010,7 +1010,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$35",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/dryingRack.png",
@@ -1024,7 +1024,7 @@ export const products: Product[] = [
       'Space-Saving Storage: Folds completely flat in seconds, allowing you to easily slip it into tight closets or narrow gaps.',
     ],
       specs:[
-      ["Lot", "78"],
+      ["Lot", "30"],
       ["Included", "Full set"],
       ["Price in origin country", "$35"],
     ],
@@ -1039,11 +1039,11 @@ export const products: Product[] = [
     id: "Playtive-Fairy-Bouncy-Castle",
     name: 'Playtive Fairy Bouncy Castle',
     code: "879000115208",
-    category: "Furniture",
+    category: "Toys",
     condition: "New",
     estimate: "€35",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Playtive-Fairy-Bouncy-Castle.webp",
@@ -1057,7 +1057,7 @@ export const products: Product[] = [
       'Age Grading: Specifically designed for kids aged 3 years and older.',
     ],
       specs:[
-      ["Lot", "83"],
+      ["Lot", "31"],
       ["Included", "Full set"],
       ["Price in origin country", "€35"],
     ],
@@ -1072,11 +1072,11 @@ export const products: Product[] = [
     id: "Cat-Tree-house",
     name: 'Cat Tree House',
     code: "Cat Tree",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "£60",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Cat-Tree-house.webp",
@@ -1090,7 +1090,7 @@ export const products: Product[] = [
       'Functionality: Multiple dedicated scratching surfaces to help keep your cat’s claws healthy and protect home furniture.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "32"],
       ["Included", "Full set"],
       ["Price in origin country", "£60"],
     ],
@@ -1105,11 +1105,11 @@ export const products: Product[] = [
     id: "Parkside-9-piece-tile-tool-case",
     name: 'Parkside 9-piece Tile Tool Case',
     code: "IAN 488319",
-    category: "Furniture",
+    category: "Tools",
     condition: "New",
     estimate: "€90",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Parkside-9-piece-tile-tool-case.jpg",
@@ -1123,7 +1123,7 @@ export const products: Product[] = [
       'Versatile Core Drills: Contains five varying drill bit sizes optimized for making clean holes for pipes and electrical outlets.',
     ],
       specs:[
-      ["Lot", "89"],
+      ["Lot", "33"],
       ["Included", "Full set"],
       ["Price in origin country", "€90"],
     ],
@@ -1142,7 +1142,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€25",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/silvercrest-20-v-akku.webp",
@@ -1157,7 +1157,7 @@ export const products: Product[] = [
       "Complete Attachments: Comes equipped with a crevice nozzle, wet-suction nozzle, and a small brush head.",
     ],
       specs:[
-      ["Lot", "24"],
+      ["Lot", "34"],
       ["Included", "Full set"],
       ["Price in origin country", "€25"],
     ],
@@ -1176,7 +1176,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$120",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/costwaywalker.jpg",
@@ -1192,7 +1192,7 @@ export const products: Product[] = [
       "Space-Saving Folding Design: Collapses quickly into a compact profile for easy transport and storage in tight spaces.",
     ],
       specs:[
-      ["Lot", "60"],
+      ["Lot", "35"],
       ["Included", "Full set"],
       ["Price in origin country", "$120"],
     ],
@@ -1211,7 +1211,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€60",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/LTB001A01.jpg",
@@ -1226,7 +1226,7 @@ export const products: Product[] = [
       "Sturdy Base: Features a non-slip bottom structure that protects your floors from scratches and keeps the bin firmly in place during use.",
     ],
       specs:[
-      ["Lot", "64"],
+      ["Lot", "36"],
       ["Included", "Full set"],
       ["Price in origin country", "€60"],
     ],
@@ -1241,11 +1241,11 @@ export const products: Product[] = [
     id: "Cordless-Upholstery",
     name: "Cordless Upholstery and Carpet Cleaner",
     code: "100399003",
-    category: "Cleaner",
+    category: "Electronics",
     condition: "New",
     estimate: "€99.99",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/champonese.webp",
@@ -1261,7 +1261,7 @@ export const products: Product[] = [
       "Compact & Lightweight: Easy to carry with an integrated handle, making storage simple and stair cleaning effortless.",
     ],
       specs:[
-      ["Lot", "10"],
+      ["Lot", "37"],
       ["Included", "Full set"],
       ["Price in origin country", "€99.99"],
     ],
@@ -1281,7 +1281,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€40",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/foodslicer.jpg",
@@ -1296,7 +1296,7 @@ export const products: Product[] = [
       "Sturdy Build: Premium housing options ranging from space-saving composite to heavy-duty metal.",
     ],
       specs:[
-      ["Lot", "17"],
+      ["Lot", "38"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -1315,7 +1315,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "128$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/northclan-icemaker.jpg",
@@ -1329,7 +1329,7 @@ export const products: Product[] = [
       "Removable Storage: Includes an internal, lift-out ice basket and a scoop for quick and hygienic serving.",
     ],
       specs:[
-      ["Lot", "41"],
+      ["Lot", "39"],
       ["Included", "Full set"],
       ["Price in origin country", "128$"],
     ],
@@ -1344,11 +1344,11 @@ export const products: Product[] = [
     id: "Coffee-Table-vower",
     name: 'Coffee Table',
     code: "B0CF3XP4DC",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Coffee-Table-vower.jpg",
@@ -1363,7 +1363,7 @@ export const products: Product[] = [
       'Compact Footprint: Measures exactly 100 cm L x 50 cm D x 43 cm H and weighs 22 kg',
     ],
       specs:[
-      ["Lot", "105"],
+      ["Lot", "40"],
       ["Included", "Full set"],
       ["Price in origin country", "€80"],
     ],
@@ -1378,11 +1378,11 @@ export const products: Product[] = [
     id: "Costway-Cat-Litter-Box",
     name: 'Costway Cat Litter Box ',
     code: "73496852",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "$70",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/pv10002wh1_1_.jpg",
@@ -1397,7 +1397,7 @@ export const products: Product[] = [
       'Ventilated Back Panel: Built with integrated rear air vents to maintain fresh airflow and control unpleasant odors.',
     ],
       specs:[
-      ["Lot", "109"],
+      ["Lot", "41"],
       ["Included", "Full set"],
       ["Price in origin country", "$70"],
     ],
@@ -1412,11 +1412,11 @@ export const products: Product[] = [
     id: "Feandrea-Scratching-tree",
     name: 'Feandrea Cat Tree ',
     code: "Cat Tree ",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "$60",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Feandrea-Scratching-tree.webp",
@@ -1430,7 +1430,7 @@ export const products: Product[] = [
       'Space-Saving Build: Optimizes vertical space to offer multiple tiers of activity without taking up excessive floor real estate ',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "42"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
     ],
@@ -1449,7 +1449,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "170$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/tornadotv32.webp",
@@ -1464,7 +1464,7 @@ export const products: Product[] = [
       "Hardware Protection: Outfitted with specialized internal voltage regulators to protect sensitive components from electrical surges.",
     ],
       specs:[
-      ["Lot", "22"],
+      ["Lot", "43"],
       ["Included", "Full set"],
       ["Price in origin country", "170$"],
     ],
@@ -1483,7 +1483,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/3-in-1-aircooler.webp",
@@ -1499,7 +1499,7 @@ export const products: Product[] = [
       "Wide Air Distribution: Equipped with a 60-degree automatic oscillation feature to distribute airflow evenly.",
     ],
       specs:[
-      ["Lot", "26"],
+      ["Lot", "44"],
       ["Included", "Full set"],
       ["Price in origin country", "€150"],
     ],
@@ -1518,7 +1518,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "75€",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/pcm300.webp",
@@ -1532,7 +1532,7 @@ export const products: Product[] = [
       "Complete Starter Kit: Comes equipped with a removable serving tray and two dedicated measuring spoons for oil and kernels.",
     ],
       specs:[
-      ["Lot", "14"],
+      ["Lot", "45"],
       ["Included", "Full set"],
       ["Price in origin country", "75€"],
     ],
@@ -1547,11 +1547,11 @@ export const products: Product[] = [
     id: "tectake-gaming-chair",
     name: 'tectake Ergonomic Gamer Chair',
     code: "B085NW1SHH",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "€140",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/tectake-gaming-chair.jpg",
@@ -1566,7 +1566,7 @@ export const products: Product[] = [
       'Ventilation: Designed with dual open cut-outs in the headrest area to promote air circulation.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "46"],
       ["Included", "Full set"],
       ["Price in origin country", "€140"],
     ],
@@ -1581,11 +1581,11 @@ export const products: Product[] = [
     id: "Nightstand",
     name: 'WOLTU 2x Bedside Table, Narrow Nightstand',
     code: "W0ETT0232-2",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€55",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Nightstand.jpg",
@@ -1600,7 +1600,7 @@ export const products: Product[] = [
       'Sleek Finish: Coated in an eco-friendly black lacquer that creates a smooth, water-resistant surface that is easy to wipe clean.',
     ],
       specs:[
-      ["Lot", "94"],
+      ["Lot", "47"],
       ["Included", "Full set"],
       ["Price in origin country", "€55"],
     ],
@@ -1615,11 +1615,11 @@ export const products: Product[] = [
     id: "VITALmaxx-Fitmaxx-5",
     name: 'VITALmaxx Fitmaxx 5 / Abmaxx 6 abdominal and core trainer',
     code: "02678200101",
-    category: "Furnniture",
+    category: "Electronics",
     condition: "New",
     estimate: "110$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/vitalmaxx.jpg",
@@ -1633,7 +1633,7 @@ export const products: Product[] = [
       'Weight Capacity: Accommodates users with a maximum body weight of up to 100 kg (220 lbs).',
     ],
       specs:[
-      ["Lot", "101"],
+      ["Lot", "48"],
       ["Included", "Full set"],
       ["Price in origin country", "110$"],
     ],
@@ -1648,11 +1648,11 @@ export const products: Product[] = [
     id: "zit-food-processor",
     name: "Z.I.T Food Processor",
     code: "ZIT1002",
-    category: "Blender",
+    category: "Electronics",
     condition: "New",
     estimate: "$90 to $150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/zitfoodprocessor.jpeg",
@@ -1667,7 +1667,7 @@ export const products: Product[] = [
       "Design: Sleek stainless steel base paired with a large capacity processing bowl and a wide-feed chute.",
     ],
       specs:[
-      ["Lot", "7"],
+      ["Lot", "49"],
       ["Included", "Full set"],
       ["Price in origin country", "$90 to $150"],
     ],
@@ -1682,11 +1682,11 @@ export const products: Product[] = [
     id: "SONGMICS-mirror",
     name: 'SONGMICS Full Length Mirror',
     code: "LFM031B01",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€70",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-mirror.jpg",
@@ -1701,7 +1701,7 @@ export const products: Product[] = [
       'Versatile Use: Ideal for bedrooms, walk-in closets, entryways, and living spaces.',
     ],
       specs:[
-      ["Lot", "97"],
+      ["Lot", "50"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
     ],
@@ -1716,11 +1716,11 @@ export const products: Product[] = [
     id: "white-comod",
     name: 'Bedroom Comod',
     code: "B0FVDX25JG",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€70",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/white-comod.jpg",
@@ -1735,7 +1735,7 @@ export const products: Product[] = [
       'Would you like help with step-by-step assembly tips for this type of furniture, or do you want to see if it comes in other color options like black or oak?',
     ],
       specs:[
-      ["Lot", "106"],
+      ["Lot", "51"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
     ],
@@ -1750,11 +1750,11 @@ export const products: Product[] = [
     id: "camping-table",
     name: 'Kesser Folding Camping Cabinet',
     code: "NP11742",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "$45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/camping-table.jpg",
@@ -1768,7 +1768,7 @@ export const products: Product[] = [
       'Side Accents: Built-in side storage pockets for quick access to utensils and small items',
     ],
       specs:[
-      ["Lot", "108"],
+      ["Lot", "52"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -1783,11 +1783,11 @@ export const products: Product[] = [
     id: "Mobile-Storage-Unit",
     name: 'Costway Mobile Storage Unit',
     code: "20547318",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "$150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Mobile-Storage-Unit.jpg",
@@ -1801,7 +1801,7 @@ export const products: Product[] = [
       'Multi-Functional Top: Serves as an excellent printer stand or extended desk countertop with a spacious 31" x 16" flat surface.',
     ],
       specs:[
-      ["Lot", "110"],
+      ["Lot", "53"],
       ["Included", "Full set"],
       ["Price in origin country", "$150"],
     ],
@@ -1820,7 +1820,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "700$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
@@ -1835,7 +1835,7 @@ export const products: Product[] = [
       "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "37"],
+      ["Lot", "54"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
     ],
@@ -1851,11 +1851,11 @@ export const products: Product[] = [
     id: "planetary-stand-mixer",
     name: "Z.I.T Planetary Stand Mixer",
     code: "ZIT1001",
-    category: "Blender",
+    category: "Electronics",
     condition: "New",
     estimate: "$90 to $150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Planetary-Stand-Mixer.jpeg",
@@ -1870,7 +1870,7 @@ export const products: Product[] = [
       "Speed Management: Adjustable control knob",
     ],
       specs:[
-      ["Lot", "8"],
+      ["Lot", "55"],
       ["Included", "Full set"],
       ["Price in origin country", "$110 to $140"],
     ],
@@ -1884,12 +1884,12 @@ export const products: Product[] = [
   {
     id: "ultenic",
     name: "Ultenic D6s ",
-    code: "ZIT1001",
-    category: "Robot",
+    code: "Ultenic D6s",
+    category: "Electronics",
     condition: "New",
     estimate: "$110 to $200",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/ultenic.jpg",
@@ -1904,7 +1904,7 @@ export const products: Product[] = [
       "Smart App & Voice Controls: Connects with the Ultenic app, Amazon Alexa, or Google Assistant to let you customize cleaning schedules and modes hands-free.",
     ],
       specs:[
-      ["Lot", "9"],
+      ["Lot", "56"],
       ["Included", "Full set"],
       ["Price in origin country", "$110 to $200"],
     ],
@@ -1921,11 +1921,11 @@ export const products: Product[] = [
     id: "hopvision-cordless-vacuum-cleaner",
     name: "Hopvision Cordless Vacuum Cleaner",
     code: "JQ02",
-    category: "Cleaner",
+    category: "Electronics",
     condition: "New",
     estimate: "€80 to €130",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/hopvision.jpg",
@@ -1941,7 +1941,7 @@ export const products: Product[] = [
       "Advanced HEPA Filtration: Captures 99.99% of microscopic dust particles and allergens to exhaust clean air.",
     ],
       specs:[
-      ["Lot", "11"],
+      ["Lot", "57"],
       ["Included", "Full set"],
       ["Price in origin country", "€80 to €130"],
     ],
@@ -1956,11 +1956,11 @@ export const products: Product[] = [
     id: "jovs-venus-pro",
     name: "Jovs Venus Pro",
     code: "JV-111",
-    category: "Hair Removal",
+    category: "Electronics",
     condition: "New",
     estimate: "300$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/vernus.jpg",
@@ -1976,7 +1976,7 @@ export const products: Product[] = [
       "Design Feature: 330-degree rotating head designed to seamlessly navigate tricky curves and body contours",
     ],
       specs:[
-      ["Lot", "12"],
+      ["Lot", "58"],
       ["Included", "Full set"],
       ["Price in origin country", "300$"],
     ],
@@ -1987,18 +1987,15 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-  
-  
- 
     {
     id: "cotsoco-shiatsu-3d-rotating-massager",
     name: "Cotsoco Shiatsu 3D Rotating Massager",
     code: "LMS-801",
-    category: "Massage",
+    category: "Electronics",
     condition: "New",
     estimate: "30$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/neck-massager.jpg",
@@ -2013,9 +2010,42 @@ export const products: Product[] = [
       "Dual Power & Portability: Comes with an AC wall adapter and a car charger cigarette lighter adapter, making it fully functional at home, in the office, or during travel. Note: Cordless/rechargeable variants are also available.",
     ],
       specs:[
-      ["Lot", "19"],
+      ["Lot", "59"],
       ["Included", "Full set"],
       ["Price in origin country", "€45"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "BK-Barbara-Klein-Trampoline-2",
+    name: 'BK Barbara Klein Trampoline',
+    code: "472949",
+    category: "Sports",
+    condition: "New",
+    estimate: "€160",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/BK-trampoline.jpg",
+    accent: "#dc2626",
+    description:
+      "The BK by Barbara Klein Hexagon Fitness Trampoline is a premium cardio rebounding tool designed for joint-friendly, high-intensity home workouts. It features a spacious hexagonal jumping surface paired with an adjustable T-bar stability handle to support a wide range of fitness levels.",
+    details: [
+      'Low-Impact Rebounding: Utilizes a high-quality elastic bungee ring system instead of traditional steel springs to deliver a deep, quiet bounce that protects your joints.',
+      'Adjustable T-Bar Handle: Features a central, height-adjustable stability bar that can be modified to match your height or removed entirely for open workouts.',
+      "Compact Space-Saving Design: Equipped with foldable legs that allow the unit to be stowed away flat under a bed or inside a closet when not in use.",
+      'Sturdy Hexagonal Frame: Designed with a 112 cm diameter hexagonal steel frame that provides superior stability and prevents the trampoline from tipping during side-to-side movements.',
+    ],
+      specs:[
+      ["Lot", "60"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€160"],
     ],
     bidder: {
       name: "Rami B.",
@@ -2028,11 +2058,11 @@ export const products: Product[] = [
     id: "VenenWalker-PRO2",
     name: "VenenWalker® PRO2",
     code: "VenenWalker® PRO2",
-    category: "Massage",
+    category: "Electronics",
     condition: "New",
     estimate: "€299",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/VenenWalkerPRO2.webp",
@@ -2047,7 +2077,7 @@ export const products: Product[] = [
       "Medical Certification: Registered as an official medical device for treating chronic venous insufficiency and lymphedema.",
     ],
       specs:[
-      ["Lot", "20"],
+      ["Lot", "61"],
       ["Included", "Full set"],
       ["Price in origin country", "€299"],
     ],
@@ -2066,7 +2096,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£260",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/TV43.webp",
@@ -2081,7 +2111,7 @@ export const products: Product[] = [
       "Smart Platform: Runs on the fast, user-friendly VIDAA OS with major streaming apps pre-installed.",
     ],
       specs:[
-      ["Lot", "21"],
+      ["Lot", "62"],
       ["Included", "Full set"],
       ["Price in origin country", "£260"],
     ],
@@ -2092,9 +2122,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   
-  
-  
    {
     id: "WET-&-DRY-VACUUM-CLEANER-Parkside",
     name: 'WET & DRY VACUUM CLEANER Parkside',
@@ -2103,7 +2130,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€50",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/WETDRYVACUUMCLEANER.webp",
@@ -2118,7 +2145,7 @@ export const products: Product[] = [
       "Onboard Storage: Integrated slots and brackets to keep all nozzles, pipes, and cables organized on the unit.",
     ],
       specs:[
-      ["Lot", "25"],
+      ["Lot", "63"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -2129,8 +2156,6 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-  
-  
     {
     id: "comfee-7000-btu",
     name: 'Comfee 7000 BTU',
@@ -2139,7 +2164,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€170",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/comfee7000btu.webp",
@@ -2154,7 +2179,7 @@ export const products: Product[] = [
       "Mobility & Setup: Equipped with 360° easy-roll casters and includes a standard flexible exhaust hose.",
     ],
       specs:[
-      ["Lot", "28"],
+      ["Lot", "64"],
       ["Included", "Full set"],
       ["Price in origin country", "€170"],
     ],
@@ -2173,7 +2198,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/parkside-tool-set.jpg",
@@ -2188,7 +2213,7 @@ export const products: Product[] = [
       "Total Weight: Approximately 8.95 kg including the metal case and all 92 contents.",
     ],
       specs:[
-      ["Lot", "29"],
+      ["Lot", "65"],
       ["Included", "Full set"],
       ["Price in origin country", "€80"],
     ],
@@ -2203,11 +2228,11 @@ export const products: Product[] = [
     id: "crivit-cooler",
     name: 'Crivit Cooler',
     code: "CEK 29",
-    category: "Tools",
+    category: "Electronics",
     condition: "New",
     estimate: "€60",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/crivit-cooler.webp",
@@ -2221,7 +2246,7 @@ export const products: Product[] = [
       "Portability: Built with a durable outer shell and a locking carry handle that holds the lid securely closed while you are moving.",
     ],
       specs:[
-      ["Lot", "30"],
+      ["Lot", "66"],
       ["Included", "Full set"],
       ["Price in origin country", "€60"],
     ],
@@ -2240,7 +2265,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€130",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/parksidelawnmower.jpg",
@@ -2256,7 +2281,7 @@ export const products: Product[] = [
       "Fuel Type: Regular unleaded gasoline (E10 compatible)",
     ],
       specs:[
-      ["Lot", "31"],
+      ["Lot", "67"],
       ["Included", "Full set"],
       ["Price in origin country", "€130"],
     ],
@@ -2275,7 +2300,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€40",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cwitchonac.jpg",
@@ -2290,7 +2315,7 @@ export const products: Product[] = [
       "Low Power Draw: Consumes significantly less electricity than a standard compressor-based AC unit.",
     ],
       specs:[
-      ["Lot", "32"],
+      ["Lot", "68"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -2309,7 +2334,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€110",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/gourmetmaxx12L.webp",
@@ -2325,7 +2350,7 @@ export const products: Product[] = [
       "Safety: Built with a cool-touch housing, an insulated viewing window, and an automatic shut-off feature.",
     ],
       specs:[
-      ["Lot", "34"],
+      ["Lot", "69"],
       ["Included", "Full set"],
       ["Price in origin country", "€110"],
     ],
@@ -2344,7 +2369,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€40",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/ultiatespeed.jpg",
@@ -2359,7 +2384,7 @@ export const products: Product[] = [
       "Safety Suite: Equipped with automatic protection against reverse polarity, short circuits, and overload.",
     ],
       specs:[
-      ["Lot", "35"],
+      ["Lot", "70"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -2378,7 +2403,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "170$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/upsterman.webp",
@@ -2393,7 +2418,7 @@ export const products: Product[] = [
       "Adaptable Design: Built with a reversible door and adjustable leveling feet to accommodate uneven flooring and different room configurations.",
     ],
       specs:[
-      ["Lot", "36"],
+      ["Lot", "71"],
       ["Included", "Full set"],
       ["Price in origin country", "170$"],
     ],
@@ -2413,7 +2438,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€50",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/icemaker.webp",
@@ -2429,7 +2454,7 @@ export const products: Product[] = [
       "Key Features: Integrated ice/water dispenser, LCD control screen, and a removable drip tray",
     ],
       specs:[
-      ["Lot", "38"],
+      ["Lot", "72"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -2448,7 +2473,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€40",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/hover.jpg",
@@ -2464,7 +2489,7 @@ export const products: Product[] = [
       "Would you like me to find the official instruction manual or look up which nozzle attachments come included in the box?",
     ],
       specs:[
-      ["Lot", "39"],
+      ["Lot", "73"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -2483,7 +2508,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "75$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/ceilingfan.jpg",
@@ -2500,7 +2525,7 @@ export const products: Product[] = [
       "Mounting Type: Low-profile, flush-mount design suitable for standard and covered outdoor ceilings.",
     ],
       specs:[
-      ["Lot", "42"],
+      ["Lot", "74"],
       ["Included", "Full set"],
       ["Price in origin country", "75$"],
     ],
@@ -2515,11 +2540,11 @@ export const products: Product[] = [
     id: "merach-treadmil",
     name: 'Merach Treadmill',
     code: "MR-T25",
-    category: "Electronics",
+    category: "Sports",
     condition: "New",
     estimate: "£280",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/merach.webp",
@@ -2536,7 +2561,7 @@ export const products: Product[] = [
       "Portability: Built-in transport wheels with zero installation required.",
     ],
       specs:[
-      ["Lot", "43"],
+      ["Lot", "75"],
       ["Included", "Full set"],
       ["Price in origin country", "£280"],
     ],
@@ -2551,11 +2576,11 @@ export const products: Product[] = [
     id: "Barbara-Klein-seated-compact-mini-stepper",
     name: 'Barbara Klein seated compact mini stepper',
     code: "481600",
-    category: "Furniture",
+    category: "Sports",
     condition: "New",
     estimate: "€65",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/B&K2.png",
@@ -2570,7 +2595,7 @@ export const products: Product[] = [
       "Space-Saving Design: Designed with a small footprint that easily fits under tables or in small living areas when not in use.",
     ],
       specs:[
-      ["Lot", "64"],
+      ["Lot", "76"],
       ["Included", "Full set"],
       ["Price in origin country", "€65"],
     ],
@@ -2590,7 +2615,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$90",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/footmassager.jpg",
@@ -2605,7 +2630,7 @@ export const products: Product[] = [
       'Universal Sizing: Built with a spacious interior cavity suitable for most standard adult shoe sizes.',
     ],
       specs:[
-      ["Lot", "44"],
+      ["Lot", "77"],
       ["Included", "Full set"],
       ["Price in origin country", "$90"],
     ],
@@ -2625,7 +2650,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/LaundrySorter.webp",
@@ -2641,7 +2666,7 @@ export const products: Product[] = [
       "Adjustable Feet: Includes height-adjustable plastic feet to level the unit on uneven floors and protect against scratches.",
     ],
       specs:[
-      ["Lot", "47"],
+      ["Lot", "78"],
       ["Included", "Full set"],
       ["Price in origin country", "€45"],
     ],
@@ -2661,7 +2686,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£113",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/highChair.webp",
@@ -2675,7 +2700,7 @@ export const products: Product[] = [
       "Floor Protection: Equipped with plastic caps on the feet to prevent scratches or scuffs on your floors.",
     ],
       specs:[
-      ["Lot", "49"],
+      ["Lot", "79"],
       ["Included", "Full set"],
       ["Price in origin country", "£113"],
     ],
@@ -2686,6 +2711,40 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
+   {
+    id: "ultenic-1",
+    name: "Ultenic D6s ",
+    code: "Ultenic D6s",
+    category: "Electronics",
+    condition: "New",
+    estimate: "$110 to $200",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/ultenic.jpg",
+    accent: "#dc2626",
+    description:
+      "The Ultenic D6s is an entry-level, 3-in-1 robot vacuum and mop that sweeps, vacuums, and scrubs your floors simultaneously using high-speed sonic vibration technology. Its slim design, automatic carpet boost, and smart app integration make automated, hands-free home cleaning both highly efficient and budget-friendly.",
+    details: [
+      "SonicTrue Vibration Mopping: Scrubs stubborn floors up to 3,000 times per minute to easily lift dried stains and footprints.",
+      "3000Pa Strong Suction: Delivers plenty of power to pull large crumbs, fine dust, and deeply embedded debris from all floor types.",
+      "Carpet Auto Boost: Automatically detects carpets and instantly maximizes suction power to extract deeply embedded dirt and pet hair.",
+      "Integrated 2-in-1 Tank: Features a unified 490ml dust bin and water tank system that allows for seamless wet and dry cleaning in a single pass.",
+      "Smart App & Voice Controls: Connects with the Ultenic app, Amazon Alexa, or Google Assistant to let you customize cleaning schedules and modes hands-free.",
+    ],
+      specs:[
+      ["Lot", "80"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$110 to $200"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
    
        {
     id: "SONGMICS-Makeup-Trolley",
@@ -2695,7 +2754,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£65",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-Makeup-Trolley.jpg",
@@ -2710,7 +2769,7 @@ export const products: Product[] = [
       "Versatile layout: Features adjustable dividers, fold-out trays, and deep bottom compartments for large items like hair dryers.",
     ],
       specs:[
-      ["Lot", "55"],
+      ["Lot", "81"],
       ["Included", "Full set"],
       ["Price in origin country", "£65"],
     ],
@@ -2729,7 +2788,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "55$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/CoatRack.jpg",
@@ -2744,7 +2803,7 @@ export const products: Product[] = [
       "Enhanced Stability: Equipped with adjustable feet for uneven floors and an anti-tip kit for wall-mounting safety.",
     ],
       specs:[
-      ["Lot", "56"],
+      ["Lot", "82"],
       ["Included", "Full set"],
       ["Price in origin country", "55$"],
     ],
@@ -2763,7 +2822,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£160",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Armchair-Lucia-cream.webp",
@@ -2778,7 +2837,7 @@ export const products: Product[] = [
       'Floor Protection: Equipped with non-slip plastic caps on the feet to prevent scratches on your floors.',
     ],
       specs:[
-      ["Lot", "73"],
+      ["Lot", "83"],
       ["Included", "Full set"],
       ["Price in origin country", "£160"],
     ],
@@ -2797,7 +2856,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "90$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/HLDIRECT-High-Back-Gaming-Chair.jpg",
@@ -2813,7 +2872,7 @@ export const products: Product[] = [
       "Extendable Footrest: Includes a padded, retractable slide-out footrest that tucks neatly beneath the seat cushion when not in use.",
     ],
       specs:[
-      ["Lot", "68"],
+      ["Lot", "84"],
       ["Included", "Full set"],
       ["Price in origin country", "90$"],
     ],
@@ -2832,7 +2891,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£120",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/gardenchairs.webp",
@@ -2845,7 +2904,7 @@ export const products: Product[] = [
       "Floor Protection: Outfitted with protective, floor-friendly plastic caps on the base of the metal legs.",
     ],
       specs:[
-      ["Lot", "57"],
+      ["Lot", "85"],
       ["Included", "Full set"],
       ["Price in origin country", "£120"],
     ],
@@ -2864,7 +2923,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "140$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cofeetable.jpg",
@@ -2878,7 +2937,7 @@ export const products: Product[] = [
       "Floor Protection: Equipped with adjustable leveling feet that balance the table on uneven surfaces and protect your flooring from scuffs.",
     ],
       specs:[
-      ["Lot", "58"],
+      ["Lot", "86"],
       ["Included", "Full set"],
       ["Price in origin country", "140$"],
     ],
@@ -2897,7 +2956,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "130$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/walker.webp",
@@ -2914,7 +2973,7 @@ export const products: Product[] = [
       "Foot-operated pedal for easier obstacle and kerb clearance",
     ],
       specs:[
-      ["Lot", "59"],
+      ["Lot", "87"],
       ["Included", "Full set"],
       ["Price in origin country", "130$"],
     ],
@@ -2929,11 +2988,11 @@ export const products: Product[] = [
     id: "Barbara-Klein-Mini-Electric-Elliptical",
     name: 'Barbara Klein Mini Electric Elliptical',
     code: " JF-J-10",
-    category: "Furniture",
+    category: "Sports",
     condition: "New",
     estimate: "$179",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/B&K.png",
@@ -2948,7 +3007,7 @@ export const products: Product[] = [
       "Digital Display: Built-in LCD monitor tracks training data including time, speed, distance, and calories.",
     ],
       specs:[
-      ["Lot", "62"],
+      ["Lot", "88"],
       ["Included", "Full set"],
       ["Price in origin country", "$179"],
     ],
@@ -2968,7 +3027,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€160",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/B34UKLTB60WT.jpg",
@@ -2982,7 +3041,7 @@ export const products: Product[] = [
       "Durable Build: Built with a rigid steel exterior shell and heavy-duty step pedals engineered for long-term daily use.",
     ],
       specs:[
-      ["Lot", "65"],
+      ["Lot", "89"],
       ["Included", "Full set"],
       ["Price in origin country", "€160"],
     ],
@@ -3004,7 +3063,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "90$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/HLDIRECT-Ergonomic-High-Back-Gaming-Chair.jpg",
@@ -3019,7 +3078,7 @@ export const products: Product[] = [
       "Full Body Support: High-back structural architecture provides continuous ergonomic alignment across your neck, shoulders, and spine.",
     ],
       specs:[
-      ["Lot", "69"],
+      ["Lot", "90"],
       ["Included", "Full set"],
       ["Price in origin country", "90$"],
     ],
@@ -3038,7 +3097,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£120",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-3-Compartment.jpg",
@@ -3052,7 +3111,7 @@ export const products: Product[] = [
       "Maintenance: Finished with an anti-fingerprint coating that easily wipes clean with a damp cloth.",
     ],
       specs:[
-      ["Lot", "70"],
+      ["Lot", "91"],
       ["Included", "Full set"],
       ["Price in origin country", "£120"],
     ],
@@ -3071,7 +3130,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "£80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/AINPECCA.webp",
@@ -3085,9 +3144,42 @@ export const products: Product[] = [
       'Classic Details: Finished with deep, diamond-patterned button tufting along the inner backrest for a sophisticated aesthetic texture.',
     ],
       specs:[
-      ["Lot", "72"],
+      ["Lot", "92"],
       ["Included", "Full set"],
       ["Price in origin country", "£80"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+     {
+    id: "BK-Barbara-Klein-Trampoline-1",
+    name: 'BK Barbara Klein Trampoline',
+    code: "472949",
+    category: "Sports",
+    condition: "New",
+    estimate: "€160",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/BK-trampoline.jpg",
+    accent: "#dc2626",
+    description:
+      "The BK by Barbara Klein Hexagon Fitness Trampoline is a premium cardio rebounding tool designed for joint-friendly, high-intensity home workouts. It features a spacious hexagonal jumping surface paired with an adjustable T-bar stability handle to support a wide range of fitness levels.",
+    details: [
+      'Low-Impact Rebounding: Utilizes a high-quality elastic bungee ring system instead of traditional steel springs to deliver a deep, quiet bounce that protects your joints.',
+      'Adjustable T-Bar Handle: Features a central, height-adjustable stability bar that can be modified to match your height or removed entirely for open workouts.',
+      "Compact Space-Saving Design: Equipped with foldable legs that allow the unit to be stowed away flat under a bed or inside a closet when not in use.",
+      'Sturdy Hexagonal Frame: Designed with a 112 cm diameter hexagonal steel frame that provides superior stability and prevents the trampoline from tipping during side-to-side movements.',
+    ],
+      specs:[
+      ["Lot", "93"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€160"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3106,7 +3198,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$190",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Jewelry-Organizers.jpg",
@@ -3122,7 +3214,7 @@ export const products: Product[] = [
       'Protective Velvet Lining: Covered internally with thick, soft velvet fabric to prevent delicate metals and stones from scratching.',
     ],
       specs:[
-      ["Lot", "75"],
+      ["Lot", "94"],
       ["Included", "Full set"],
       ["Price in origin country", "$190"],
     ],
@@ -3137,11 +3229,11 @@ export const products: Product[] = [
     id: "Coocaa-43-inch-Roku-TV",
     name: 'Coocaa 43-inch Roku TV ',
     code: "43CRUG50 ",
-    category: "Sports",
+    category: "Electronics",
     condition: "New",
     estimate: "£165",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Coocaa-43-inch-Roku-TV.webp",
@@ -3157,7 +3249,7 @@ export const products: Product[] = [
       'Weight Capacity: Supports a maximum user weight of up to 220.5 lbs (100 kg).',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "95"],
       ["Included", "Full set"],
       ["Price in origin country", "£165"],
     ],
@@ -3177,7 +3269,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$110",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Advwin Armless Cross-Legged.jpg",
@@ -3191,7 +3283,7 @@ export const products: Product[] = [
       'Premium Materials: Fabricated from skin-friendly, breathable grey linen upholstery paired with smooth-rolling caster wheels.',
     ],
       specs:[
-      ["Lot", "76"],
+      ["Lot", "96"],
       ["Included", "Full set"],
       ["Price in origin country", "$110"],
     ],
@@ -3210,7 +3302,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$50",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SONGMICS-parasol.jpg",
@@ -3225,7 +3317,7 @@ export const products: Product[] = [
       'Standard Fit: Uses a standard center pole diameter compatible with most patio tables and base weights.',
     ],
       specs:[
-      ["Lot", "77"],
+      ["Lot", "97"],
       ["Included", "Full set"],
       ["Price in origin country", "$50"],
     ],
@@ -3244,7 +3336,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€70",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/PPFBSA12A1.jpg",
@@ -3258,7 +3350,7 @@ export const products: Product[] = [
       'Premium Guide Attachments: Includes a parallel rip fence, a router/plunge depth stop, and 45°/90° angle tables for highly accurate cutting, milling, and grinding.',
     ],
       specs:[
-      ["Lot", "90"],
+      ["Lot", "98"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
     ],
@@ -3278,7 +3370,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$60",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/sunLoungerChair.jpg",
@@ -3292,7 +3384,7 @@ export const products: Product[] = [
       'Portability: Folds down completely flat for compact storage and easy transport.',
     ],
       specs:[
-      ["Lot", "79"],
+      ["Lot", "99"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
     ],
@@ -3313,7 +3405,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$35",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Ladder-DAVDING.webp",
@@ -3327,7 +3419,7 @@ export const products: Product[] = [
       'Material: Durable steel and plastic',
     ],
       specs:[
-      ["Lot", "82"],
+      ["Lot", "100"],
       ["Included", "Full set"],
       ["Price in origin country", "$35"],
     ],
@@ -3344,11 +3436,11 @@ export const products: Product[] = [
     id: "3-in-1-Exercise-Bike-with-Adjustable=-Resistance",
     name: 'FlexiSpot 3-in-1 Exercise Bike with Adjustable Resistance (V9)',
     code: "V9",
-    category: "Furniture",
+    category: "Sports",
     condition: "New",
     estimate: "£399",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/flexispot.jpg",
@@ -3362,7 +3454,7 @@ export const products: Product[] = [
       'Locking Caster Wheels: Moves effortlessly on four durable caster wheels that automatically lock into place when you sit down and apply pressure.',
     ],
       specs:[
-      ["Lot", "84"],
+      ["Lot", "101"],
       ["Included", "Full set"],
       ["Price in origin country", "£399"],
     ],
@@ -3377,11 +3469,11 @@ export const products: Product[] = [
     id: "LEBENLANG-2-in-1-Electric-Stand-Grill",
     name: 'LEBENLANG 2-in-1 Electric Stand Grill',
     code: "LBL9977",
-    category: "Furniture",
+    category: "Electronics",
     condition: "New",
     estimate: "€60",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/LEBENLANG 2-in-1-Electric-Stand-Grill.png",
@@ -3395,7 +3487,7 @@ export const products: Product[] = [
       'Temperature Control: Features a front-facing adjustable thermostat dial for precise heat regulation.',
     ],
       specs:[
-      ["Lot", "85"],
+      ["Lot", "102"],
       ["Included", "Full set"],
       ["Price in origin country", "€60"],
     ],
@@ -3410,11 +3502,11 @@ export const products: Product[] = [
     id: "parkside-set",
     name: 'Parkside Performance 12V Cordless Drill Driver and Impact Screwdriver Starter',
     code: "B0FZFKKF31",
-    category: "Furniture",
+    category: "Tools",
     condition: "New",
     estimate: "€90",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/parkside-set.jpg",
@@ -3428,7 +3520,7 @@ export const products: Product[] = [
       'Full Starter System: Includes two 12V (2.0 Ah) rechargeable batteries compatible with the entire "Parkside X 12V Team" ecosystem, a fast charger, and a canvas carry bag.',
     ],
       specs:[
-      ["Lot", "87"],
+      ["Lot", "103"],
       ["Included", "Full set"],
       ["Price in origin country", "€90"],
     ],
@@ -3446,11 +3538,11 @@ export const products: Product[] = [
     id: "Closet-Organizer",
     name: 'SONGMICS Freestanding Portable Closet with Shelves, Hanging Rods',
     code: "URYG026R02",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "70$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Closet-Organizer.jpg",
@@ -3464,7 +3556,7 @@ export const products: Product[] = [
       'Assembly: Tool-free setup with a simple push-fit pipe connection system.',
     ],
       specs:[
-      ["Lot", "91"],
+      ["Lot", "104"],
       ["Included", "Full set"],
       ["Price in origin country", "70$"],
     ],
@@ -3479,11 +3571,11 @@ export const products: Product[] = [
     id: "WOLTU-6-tier-bookshelf",
     name: 'WOLTU 6-tier bookshelf for living room & bedroom',
     code: "SK003ws6",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€40",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/WOLTU-6-tier-bookshelf.jpg",
@@ -3498,9 +3590,43 @@ export const products: Product[] = [
       'Safety Feature: Equipped with a built-in anti-tipping device to securely anchor the unit to the wall.',
     ],
       specs:[
-      ["Lot", "92"],
+      ["Lot", "105"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "ultenic-2",
+    name: "Ultenic D6s ",
+    code: "Ultenic D6s",
+    category: "Electronics",
+    condition: "New",
+    estimate: "$110 to $200",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/ultenic.jpg",
+    accent: "#dc2626",
+    description:
+      "The Ultenic D6s is an entry-level, 3-in-1 robot vacuum and mop that sweeps, vacuums, and scrubs your floors simultaneously using high-speed sonic vibration technology. Its slim design, automatic carpet boost, and smart app integration make automated, hands-free home cleaning both highly efficient and budget-friendly.",
+    details: [
+      "SonicTrue Vibration Mopping: Scrubs stubborn floors up to 3,000 times per minute to easily lift dried stains and footprints.",
+      "3000Pa Strong Suction: Delivers plenty of power to pull large crumbs, fine dust, and deeply embedded debris from all floor types.",
+      "Carpet Auto Boost: Automatically detects carpets and instantly maximizes suction power to extract deeply embedded dirt and pet hair.",
+      "Integrated 2-in-1 Tank: Features a unified 490ml dust bin and water tank system that allows for seamless wet and dry cleaning in a single pass.",
+      "Smart App & Voice Controls: Connects with the Ultenic app, Amazon Alexa, or Google Assistant to let you customize cleaning schedules and modes hands-free.",
+    ],
+      specs:[
+      ["Lot", "106"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$110 to $200"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3517,11 +3643,11 @@ export const products: Product[] = [
     id: "VASAGLE-kitchen-shelf",
     name: 'VASAGLE Kitchen Shelf',
     code: "KKS025B01EU",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€90",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/KKS025B01EU.jpg",
@@ -3536,7 +3662,7 @@ export const products: Product[] = [
       'Extra Hanging Space: Includes a metal mesh grid panel and 14 S-hooks for mugs and tools.',
     ],
       specs:[
-      ["Lot", "98"],
+      ["Lot", "107"],
       ["Included", "Full set"],
       ["Price in origin country", "€90"],
     ],
@@ -3551,11 +3677,11 @@ export const products: Product[] = [
     id: "Bookshelves-and-Bookcases",
     name: 'Bookshelves and Bookcases',
     code: "1039160",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "100$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/1039160.jpg",
@@ -3569,7 +3695,7 @@ export const products: Product[] = [
       'Material Composition: Built from engineered wood paneling with smooth, dark textured laminate finishes.',
     ],
       specs:[
-      ["Lot", "99"],
+      ["Lot", "108"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -3584,11 +3710,11 @@ export const products: Product[] = [
     id: "4-Burners-Gas-Grill",
     name: '4 Burners Gas Grill',
     code: "791684878114",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "400$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/grill.jpg",
@@ -3602,7 +3728,7 @@ export const products: Product[] = [
       'Ignition System: Utilizes a quick and reliable pulse electronic ignition system for effortless, hassle-free startup.',
     ],
       specs:[
-      ["Lot", "100"],
+      ["Lot", "109"],
       ["Included", "Full set"],
       ["Price in origin country", "400$"],
     ],
@@ -3618,11 +3744,11 @@ export const products: Product[] = [
     id: "Pull-Up-Station",
     name: 'Pull Up Station',
     code: "B07G85F8BB",
-    category: "Furnniture",
+    category: "Sports",
     condition: "New",
     estimate: "€300",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Pull-Up-Station.jpg",
@@ -3636,7 +3762,7 @@ export const products: Product[] = [
       'Ergonomics: Equipped with a 4-way height-adjustable seat and padded thigh rollers to lock you into position during heavy lifts',
     ],
       specs:[
-      ["Lot", "102"],
+      ["Lot", "110"],
       ["Included", "Full set"],
       ["Price in origin country", "€300"],
     ],
@@ -3651,11 +3777,11 @@ export const products: Product[] = [
     id: "VASAGLE-Bedside-Table",
     name: 'VASAGLE Bedside Table',
     code: "LET631B57",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€40",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/VASAGLE-Bedside-Table.jpg",
@@ -3671,7 +3797,7 @@ export const products: Product[] = [
       'Materials: Constructed from durable 15 mm particleboard with a smooth, wipe-clean finish.',
     ],
       specs:[
-      ["Lot", "103"],
+      ["Lot", "111"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -3686,11 +3812,11 @@ export const products: Product[] = [
     id: "VOWNER-Extendable-Coffee-Table",
     name: 'VOWNER Extendable Coffee Table',
     code: "VOWNER-43",
-    category: "Furnniture",
+    category: "Furniture",
     condition: "New",
     estimate: "€70",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/VOWNER.jpg",
@@ -3706,7 +3832,7 @@ export const products: Product[] = [
       'Multifunctional Design: Quickly transitions from a standard low center table into a laptop desk or a casual dining spot.',
     ],
       specs:[
-      ["Lot", "104"],
+      ["Lot", "112"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
     ],
@@ -3726,7 +3852,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$100",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Velvet-chair.jpg",
@@ -3741,7 +3867,7 @@ export const products: Product[] = [
       'Best Use Cases: Dressing rooms, bedroom accent corners, home offices, and makeup vanities.'
     ],
       specs:[
-      ["Lot", "111"],
+      ["Lot", "113"],
       ["Included", "Full set"],
       ["Price in origin country", "$100"],
     ],
@@ -3756,11 +3882,11 @@ export const products: Product[] = [
     id: "COSTWAY-12V",
     name: 'COSTWAY 12V Kids Electric Ride',
     code: "B0D8VNYN6P",
-    category: "Furniture",
+    category: "Toys",
     condition: "New",
     estimate: "$150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/COSTWAY-12V-Kids-Electric-Ride.webp",
@@ -3775,7 +3901,7 @@ export const products: Product[] = [
       'Age & Weight Capacity: Designed for toddlers and children aged 3 to 8 years old, with a maximum weight limit of 55 lbs (25 kg).'
     ],
       specs:[
-      ["Lot", "112"],
+      ["Lot", "114"],
       ["Included", "Full set"],
       ["Price in origin country", "$150"],
     ],
@@ -3794,7 +3920,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Coffee-Table-High-Gloss.jpg",
@@ -3808,7 +3934,7 @@ export const products: Product[] = [
       'Sturdy Construction: Built from robust engineered wood designed to resist daily wear and tear while providing reliable structural stability.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "115"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
     ],
@@ -3827,7 +3953,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Laundry-Basket.jpg",
@@ -3842,7 +3968,7 @@ export const products: Product[] = [
       'Sturdy & Stable Frame: Built with a rigid steel frame and adjustable leveling feet to keep the unit stable even on uneven floors.',
     ],
       specs:[
-      ["Lot", "114"],
+      ["Lot", "116"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -3861,7 +3987,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$90",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/bookcase.jpg",
@@ -3875,7 +4001,7 @@ export const products: Product[] = [
       'Material & Care: Built from heavy-duty engineered wood with a smooth, scratch-resistant, and waterproof finish',
     ],
       specs:[
-      ["Lot", "115"],
+      ["Lot", "117"],
       ["Included", "Full set"],
       ["Price in origin country", "$90"],
     ],
@@ -3890,11 +4016,11 @@ export const products: Product[] = [
     id: "Scratching-tree",
     name: 'Scratching tree ',
     code: "Scratching tree ",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "£70",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Scratching-tree.webp",
@@ -3909,7 +4035,7 @@ export const products: Product[] = [
       'Sturdy Construction: Engineered with a wide baseplate and low center of gravity to prevent tipping during high-energy play..',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "118"],
       ["Included", "Full set"],
       ["Price in origin country", "£70"],
     ],
@@ -3928,7 +4054,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Bookcase-with-Cabinet.jpg",
@@ -3943,7 +4069,7 @@ export const products: Product[] = [
       'Versatile Style: Blends easily into modern, minimalist, or industrial spaces like living rooms and home offices.',
     ],
       specs:[
-      ["Lot", "109"],
+      ["Lot", "119"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
     ],
@@ -3962,7 +4088,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$45",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Laundry-Basket-with-Shelf.jpg",
@@ -3977,7 +4103,7 @@ export const products: Product[] = [
       'Compact Footprint: Measuring 73 x 33 x 72 cm, its slim profile makes it perfect for tight spaces like small laundry rooms, bathrooms, or bedroom closets.',
     ],
       specs:[
-      ["Lot", "110"],
+      ["Lot", "120"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -3996,7 +4122,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$75",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/COSTWAY-Height-Adjustable-Kid-Study-Desk.jpg",
@@ -4011,7 +4137,7 @@ export const products: Product[] = [
       'Safety Features: Features anti-pinch protective cutouts and rounded corner edges to keep hands safe.',
     ],
       specs:[
-      ["Lot", "111"],
+      ["Lot", "121"],
       ["Included", "Full set"],
       ["Price in origin country", "$75"],
     ],
@@ -4030,7 +4156,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€299",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/BK-treadmill.png",
@@ -4044,7 +4170,7 @@ export const products: Product[] = [
       'User Capacity: Engineered with a sturdy frame that supports a maximum user weight limit of up to 120 kg (~265 lbs).',
     ],
       specs:[
-      ["Lot", "112"],
+      ["Lot", "122"],
       ["Included", "Full set"],
       ["Price in origin country", "€299"],
     ],
@@ -4063,7 +4189,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€160",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/BK-trampoline.jpg",
@@ -4077,7 +4203,7 @@ export const products: Product[] = [
       'Sturdy Hexagonal Frame: Designed with a 112 cm diameter hexagonal steel frame that provides superior stability and prevents the trampoline from tipping during side-to-side movements.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "123"],
       ["Included", "Full set"],
       ["Price in origin country", "€160"],
     ],
@@ -4092,11 +4218,11 @@ export const products: Product[] = [
     id: "Cat-Tree-Fippi",
     name: 'Cat Tree Fippi',
     code: "402185",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "£75",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cat-treehouse.webp",
@@ -4110,7 +4236,7 @@ export const products: Product[] = [
       'Scratching Surfaces: Built with durable sisal-wrapped posts to encourage healthy claw maintenance.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "124"],
       ["Included", "Full set"],
       ["Price in origin country", "£75"],
     ],
@@ -4129,7 +4255,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€110",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Parkside-Sliding-Compound-Mitre-Saw.jpg",
@@ -4143,7 +4269,7 @@ export const products: Product[] = [
       'Cutting Adjustments: Continuous mitre bevel tracking from 0° to 45° with a flexible tilting mechanism.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "125"],
       ["Included", "Full set"],
       ["Price in origin country", "€110"],
     ],
@@ -4158,11 +4284,11 @@ export const products: Product[] = [
     id: "Lightweight-Framed-Child-Carrier",
     name: 'Lightweight Framed Child Carrier',
     code: "Child Carrier",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "$60",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/child-carrier.jpg",
@@ -4176,7 +4302,7 @@ export const products: Product[] = [
       'Side Pockets: stretch side pockets provide additional storage space',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "126"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
     ],
@@ -4187,15 +4313,16 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+  
      {
     id: "dowinx-ls-6650",
     name: 'Dowinx Ergonomic Gaming Chair',
     code: "LS-6650",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "$140",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/downix.jpg",
@@ -4210,7 +4337,7 @@ export const products: Product[] = [
       'Pocket Spring Seat: Uses coil springs similar to a premium mattress to prevent the seat from flattening over time.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "127"],
       ["Included", "Full set"],
       ["Price in origin country", "$140"],
     ],
@@ -4226,11 +4353,11 @@ export const products: Product[] = [
     id: "Modern-Dining-Chairs",
     name: 'Modern Dining Chairs',
     code: "B0FVFBNXZX",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "€150",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/modern-dining-chairs.jpg",
@@ -4244,7 +4371,7 @@ export const products: Product[] = [
       'Floor Protection: Outfitted with clear, anti-scratch rubber glides on the bottom of the metal frame to shield hard surfaces.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "128"],
       ["Included", "Full set"],
       ["Price in origin country", "€150"],
     ],
@@ -4260,10 +4387,10 @@ export const products: Product[] = [
     name: 'Tectake Tent Roskilde',
     code: "404825",
     category: "Sports",
-    condition: "New",
+    condition: "Furniture",
     estimate: "€130",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Tent-Roskilde.webp",
@@ -4277,7 +4404,7 @@ export const products: Product[] = [
       'Sun Protection: Fabric features a UV 50+ coating to shield occupants from harsh solar radiation.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "129"],
       ["Included", "Full set"],
       ["Price in origin country", "€130"],
     ],
@@ -4292,11 +4419,11 @@ export const products: Product[] = [
     id: "Lumbar-Support-Mesh-Chair",
     name: 'Lumbar Support Mesh Chair',
     code: "B0FQC8GKPL",
-    category: "Sports",
+    category: "Furniture",
     condition: "New",
     estimate: "$80",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Lumbar-Support-Mesh-Chair.jpg",
@@ -4312,7 +4439,7 @@ export const products: Product[] = [
       'Weight Capacity: Supports a maximum user weight of up to 220.5 lbs (100 kg).',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "130"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
     ],
@@ -4328,11 +4455,11 @@ export const products: Product[] = [
     id: "Sharp-Aquos-40-inch",
     name: 'Sharp Aquos 40-inch',
     code: "40HE2245K ",
-    category: "Sports",
+    category: "Electronics",
     condition: "New",
     estimate: "£190",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/Sharp-Aquos-40-inch.jpg",
@@ -4347,7 +4474,7 @@ export const products: Product[] = [
       'Dimensions: Measures 72.5 cm x 67 cm x 100–108 cm with an adjustable seat height range of 44.5–52.5 cm.',
     ],
       specs:[
-      ["Lot", "113"],
+      ["Lot", "131"],
       ["Included", "Full set"],
       ["Price in origin country", "£190"],
     ],
@@ -4366,7 +4493,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "700$",
     ////////////////////////////////////////////////////
-    currentBid: "$0",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/SWFT-VOLT-01-BLK-FrontAngle-scaled.jpg",
@@ -4381,7 +4508,7 @@ export const products: Product[] = [
       "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "37"],
+      ["Lot", "132"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
     ],
