@@ -1080,7 +1080,7 @@ export const products: Product[] = [
     currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/Cat-Tree-house.webp",
+    image: "/products/Cat-Tree-house.jpg",
     accent: "#dc2626",
     description:
       "This compact multi-level cat tree is designed to provide your pet with a comfortable space for scratching, climbing, and resting. It features a space-saving layout finished in a soft, beige plush fabric that easily blends into small indoor spaces.",
@@ -4364,7 +4364,7 @@ export const products: Product[] = [
     currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/modern-dining-chairs.jpg",
+    image: "/products/Modern-Dining-Chairs.jpg",
     accent: "#dc2626",
     description:
       "This mid-century modern cantilever dining chair beautifully blends retro aesthetics with contemporary comfort, pairing a breathable woven rattan backrest with a plush velvet upholstered seat cushion. Built on an architectural chrome-plated steel frame, it delivers a gentle, flexible spring motion that adds distinct vintage charm to any dining room.",
