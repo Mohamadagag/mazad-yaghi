@@ -3836,6 +3836,7 @@ export const products: Product[] = [
       ["Lot", "112"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
+      ["Issues", "Broken Leg"],
     ],
     bidder: {
       name: "Rami B.",
