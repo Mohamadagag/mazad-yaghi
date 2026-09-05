@@ -22,31 +22,32 @@ export type Product = {
 
 export const products: Product[] = [
     {
-    id: "bookshelf",
-    name: 'WOLTU Children’s Bookcase',
-    code: "KR013-MA",
-    category: "Furniture",
+    id: "Smart-Cool-7000-3-1",
+    name: 'Comfee Smart Cool 7000-3 ',
+    code: "Smart Cool 7000-3",
+    category: "Electronics",
     condition: "New",
-    estimate: "€30",
+    estimate: "$170",
     ////////////////////////////////////////////////////
-    currentBid: "20",
+    currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/bookshelf.jpg",
+    image: "/products/comfee7000-3.jpeg",
     accent: "#dc2626",
     description:
-      "The WOLTU Children’s Bookcase is a wall-mounted, 3-tier storage unit made from premium E1 MDF and solid pine wood bars with a clean white finish. Its front-facing, space-saving design is built at a child-friendly height to encourage toddlers to independently pick out and organize their favorite books.",
+      "The Comfee Smart Cool 7000-3 is a compact, 3-in-1 portable air conditioner that delivers efficient cooling, ventilation, and dehumidification for spaces up to 25 m². It features integrated Wi-Fi control, allowing you to effortlessly manage your indoor climate via a smartphone app or voice assistants like Alexa and Google Home.",
     details: [
-      'Materials: Constructed from durable E1 grade MDF with a water-based, odorless lacquer finish and solid pine support bars.',
-      "Dimensions: Measures approximately 42.5 cm x 14 cm x 80 cm (Width x Depth x Height).",
-      "Weight Capacity: Supports up to 2 kg per shelf, with a total unit capacity of 6 kg.",
-      'Child Safety: Features smooth, rounded corners to prevent bumps and front guardrails to stop books from slipping off.',
-      'Installation: Wall-mounted configuration that saves valuable floor space and includes all necessary assembly hardware.',
+      'Performance capacity: 7,000 BTU/h (2.0 kW) cooling power.',
+      "Smart connectivity: App and voice control capabilities.",
+      "Eco-friendly refrigerant: Uses natural R290 cooling agent.",
+      'Protective coating: Golden Fin tech prevents bacteria/corrosion.',
+      'Energy rating: Efficient Class A power consumption.',
+      'Portability: Built-in wheels for easy room-to-room movement.',
     ],
       specs:[
       ["Lot", "1"],
       ["Included", "Full set"],
-      ["Price in origin country", "€30"],
+      ["Price in origin country", "$170"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3567,32 +3568,33 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "WOLTU-6-tier-bookshelf",
-    name: 'WOLTU 6-tier bookshelf for living room & bedroom',
-    code: "SK003ws6",
-    category: "Furniture",
+    {
+    id: "Smart-Cool-7000-3-2",
+    name: 'Comfee Smart Cool 7000-3 ',
+    code: "Smart Cool 7000-3",
+    category: "Electronics",
     condition: "New",
-    estimate: "€40",
+    estimate: "$170",
     ////////////////////////////////////////////////////
     currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/WOLTU-6-tier-bookshelf.jpg",
+    image: "/products/comfee7000-3.jpeg",
     accent: "#dc2626",
     description:
-      "The WOLTU SK003ws6 is a sleek, 6-level freestanding white bookcase engineered to maximize vertical storage in compact rooms. Its minimal, modern Scandinavian design allows it to function beautifully as either a tall column or a horizontal sideboard.",
+      "The Comfee Smart Cool 7000-3 is a compact, 3-in-1 portable air conditioner that delivers efficient cooling, ventilation, and dehumidification for spaces up to 25 m². It features integrated Wi-Fi control, allowing you to effortlessly manage your indoor climate via a smartphone app or voice assistants like Alexa and Google Home.",
     details: [
-      'Dimensions: Measures 30 x 24 x 158.5 cm (L x W x H) to easily fit narrow spaces.',
-      "Material: Constructed from high-quality E1-grade engineered wood with a smooth melamine finish.",
-      "Durability: Features a water-repellent, scratch-resistant surface that is easy to wipe clean.",
-      'Weight Capacity: Supports up to 15 kg per storage level for books, decor, or toys.',
-      'Safety Feature: Equipped with a built-in anti-tipping device to securely anchor the unit to the wall.',
+      'Performance capacity: 7,000 BTU/h (2.0 kW) cooling power.',
+      "Smart connectivity: App and voice control capabilities.",
+      "Eco-friendly refrigerant: Uses natural R290 cooling agent.",
+      'Protective coating: Golden Fin tech prevents bacteria/corrosion.',
+      'Energy rating: Efficient Class A power consumption.',
+      'Portability: Built-in wheels for easy room-to-room movement.',
     ],
       specs:[
       ["Lot", "105"],
       ["Included", "Full set"],
-      ["Price in origin country", "€40"],
+      ["Price in origin country", "$170"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3980,30 +3982,32 @@ export const products: Product[] = [
     },
   },
    {
-    id: "bookcase",
-    name: 'Modern Design Wooden Bookcase',
-    code: "ML10293",
-    category: "Furniture",
+    id: "Smart-Cool-7000-3-3",
+    name: 'Comfee Smart Cool 7000-3 ',
+    code: "Smart Cool 7000-3",
+    category: "Electronics",
     condition: "New",
-    estimate: "$90",
+    estimate: "$170",
     ////////////////////////////////////////////////////
     currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/bookcase.jpg",
+    image: "/products/comfee7000-3.jpeg",
     accent: "#dc2626",
     description:
-      "This 4-tier asymmetric geometric bookcase features a modern staggered layout with alternating open shelves and contrasting black accent panels. Its dual-sided open design allows it to easily serve as a sleek wall display shelf or a freestanding room divider.",
+      "The Comfee Smart Cool 7000-3 is a compact, 3-in-1 portable air conditioner that delivers efficient cooling, ventilation, and dehumidification for spaces up to 25 m². It features integrated Wi-Fi control, allowing you to effortlessly manage your indoor climate via a smartphone app or voice assistants like Alexa and Google Home.",
     details: [
-      'Dimensions: 120 cm (Length) x 19.5 cm (Width) x 109 cm (Height)',
-      'Storage Space: 4 tiered storage levels featuring 6 distinct open-and-closed cubby sections',
-      "Structural Safety: Equipped with rear wall-anchoring anti-toppling hardware for reliable stability",
-      'Material & Care: Built from heavy-duty engineered wood with a smooth, scratch-resistant, and waterproof finish',
+      'Performance capacity: 7,000 BTU/h (2.0 kW) cooling power.',
+      "Smart connectivity: App and voice control capabilities.",
+      "Eco-friendly refrigerant: Uses natural R290 cooling agent.",
+      'Protective coating: Golden Fin tech prevents bacteria/corrosion.',
+      'Energy rating: Efficient Class A power consumption.',
+      'Portability: Built-in wheels for easy room-to-room movement.',
     ],
       specs:[
       ["Lot", "117"],
       ["Included", "Full set"],
-      ["Price in origin country", "$90"],
+      ["Price in origin country", "$170"],
     ],
     bidder: {
       name: "Rami B.",
@@ -4511,6 +4515,39 @@ export const products: Product[] = [
       ["Lot", "132"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  }, 
+          {
+    id: "Round-Coffee-Table",
+    name: 'Acme Dustan Round Coffee Table',
+    code: "B0DKXP7FMS",
+    category: "Furniture",
+    condition: "New",
+    estimate: "200$",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/cofeetablewhite.jpeg",
+    accent: "#dc2626",
+    description:
+      "This minimalist, drum-style round concrete coffee table features a sleek, low-profile cylindrical shape with slightly tapered base edges. Its clean aesthetic blends seamlessly into modern, industrial, or bohemian spaces both inside and outside the home.",
+    details: [
+      "Material: Eco-friendly cement or microcement construction with a smooth, faux-concrete finish.",
+      "Placement: Fully weather-resistant and versatile for indoor or outdoor use, such as living rooms or backyard patios.",
+      "Maintenance: Features a non-porous, easy-to-clean surface that resists spills and stains.",
+      "Aesthetic: Neutral natural white color palette that complements various decor textures and colors.",
+    ],
+      specs:[
+      ["Lot", "133"],
+      ["Included", "Full set"],
+      ["Price in origin country", "200$"],
     ],
     bidder: {
       name: "Rami B.",
