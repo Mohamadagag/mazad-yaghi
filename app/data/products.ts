@@ -29,7 +29,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "$170",
     ////////////////////////////////////////////////////
-    currentBid: "0",
+    currentBid: "",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/comfee7000-3.jpeg",
@@ -3535,10 +3535,10 @@ export const products: Product[] = [
    
    
    
-    {
-    id: "Closet-Organizer",
-    name: 'SONGMICS Freestanding Portable Closet with Shelves, Hanging Rods',
-    code: "URYG026R02",
+      {
+    id: "Patio-Umbrella",
+    name: 'Costway Patio Umbrella',
+    code: "13291167",
     category: "Furniture",
     condition: "New",
     estimate: "70$",
@@ -3546,15 +3546,15 @@ export const products: Product[] = [
     currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/Closet-Organizer.jpg",
+    image: "/products/13291167.jpg",
     accent: "#dc2626",
     description:
-      "The SONGMICS URYG026R02 is a portable, freestanding closet organizer designed to maximize your garment storage in bedrooms or cloakrooms. It combines heavy-duty hanging rods with multi-tier fabric shelves to neatly hold clothes, shoes, and storage boxes.",
+      "The 9 FT Patio Market Umbrella features an eco-friendly natural bamboo pole and 8 sturdy ribs that offer exceptional wind resistance. Its weather-resistant canopy provides perfect shade for 48-inch to 54-inch outdoor tables, blending classic style with durable performance.",
     details: [
-      'Dimensions: 48.8"L x 16.9"W x 71.7"H (124 x 43 x 182 cm).',
-      "Material: Reinforced steel pipes, plastic connectors, and water-resistant non-woven fabric.",
-      "Weight Capacity: Holds up to 44 lbs (20 kg) on hanging rods and 17.6 lbs (8 kg) per shelf.",
-      'Assembly: Tool-free setup with a simple push-fit pipe connection system.',
+      "Natural Bamboo Frame: Built with a renewable, flexible bamboo pole and 8 heavy-duty ribs for a rustic, coastal aesthetic.",
+      "Optimal Shade Coverage: The 9-foot diameter comfortably shelters 4 to 6 patio chairs or an outdoor lounge set.",
+      "Manual Pulley System: Utilizes a classic cord-and-pulley lift mechanisms with a metal safety pin to lock the canopy securely in place.",
+      "Weatherproof Fabric: Made from fade-resistant, water-repellent polyester featuring a top wind vent for maximum airflow and stability.",
     ],
       specs:[
       ["Lot", "104"],
@@ -3567,7 +3567,7 @@ export const products: Product[] = [
       since: "Leading for 2 minutes",
       badge: "Interior buyer",
     },
-  },
+  },   
     {
     id: "Smart-Cool-7000-3-2",
     name: 'Comfee Smart Cool 7000-3 ',
@@ -4556,8 +4556,40 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
+   {
+    id: "parkside-set-1",
+    name: 'Parkside Performance 12V Cordless Drill Driver and Impact Screwdriver Starter',
+    code: "B0FZFKKF31",
+    category: "Tools",
+    condition: "New",
+    estimate: "€90",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/parkside-set.jpg",
+    accent: "#dc2626",
+    description:
+      "The PARKSIDE PERFORMANCE 12V Cordless Starter Set delivers professional-grade power in a compact layout, bundling a high-efficiency brushless drill driver with a heavy-duty impact screwdriver. Complete with two 12V lithium-ion batteries and a charger, this combo provides up to 25% higher torque and 10 times longer motor life than standard entry-level models.",
+    details: [
+      "Dual Tool Powerhouse: Combines a 2-speed drill driver (PBSPA 12 E4) for precise drilling and a high-torque impact driver (PDSSAP 12 B1) for fastening dense materials.",
+      "Brushless Motor Tech: Features advanced brushless engineering that eliminates internal friction, extending overall runtime by 20% and preventing motor wear.",
+      "Massive Torque Levels: Offers versatile speed controls up to a max torque of 35 Nm on the drill, and a powerful 170 Nm on the impact driver for heavy-duty screws.",
+      'Full Starter System: Includes two 12V (2.0 Ah) rechargeable batteries compatible with the entire "Parkside X 12V Team" ecosystem, a fast charger, and a canvas carry bag.',
+    ],
+      specs:[
+      ["Lot", "134"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€90"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
   
-    
   
 ];
 export const featuredProduct = products[0]; 
