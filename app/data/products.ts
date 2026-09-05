@@ -3950,7 +3950,7 @@ export const products: Product[] = [
     {
     id: "laundry-basket",
     name: 'VASAGLE Double Laundry Basket',
-    code: "B0H1L365FZ",
+    code: "B09XF2B7RX",
     category: "Furniture",
     condition: "New",
     estimate: "$45",
@@ -3958,7 +3958,7 @@ export const products: Product[] = [
     currentBid: "0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/Laundry-Basket.jpg",
+    image: "/products/laundry-basket.jpg",
     accent: "#dc2626",
     description:
       "This multi-functional laundry station combines a robust steel garment rack with a dual-compartment hamper system to streamline your clothing organization. Its sleek space-saving profile provides a practical solution for drying, hanging, and sorting laundry within a single compact footprint.",
