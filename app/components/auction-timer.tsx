@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 
-const initialSeconds = 60;
+const initialSeconds = 30;
 
 type AuctionTimerProps = {
   onSold?: () => void;
@@ -109,7 +109,7 @@ export function AuctionTimer({ onSold }: AuctionTimerProps) {
           disabled={isSold}
           className="min-h-12 rounded-md bg-[#101316] px-4 text-sm font-semibold text-white transition hover:bg-[#263039] disabled:cursor-not-allowed disabled:opacity-40"
         >
-          Start 60s
+          Start 30s
         </button>
 
         <button
