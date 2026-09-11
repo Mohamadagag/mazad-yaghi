@@ -2746,7 +2746,7 @@ export const products: Product[] = [
   },
   {
     id: "silvercrest-coffeemachine",
-    name: 'Ninja Desk',
+    name: 'Silvercrest Coffee Machine',
     code: "silvercrest-coffeemachine",
     category: "Furniture",
     condition: "New",
@@ -3124,7 +3124,7 @@ export const products: Product[] = [
     currentBid: "25",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
-    image: "/products/Skateboard.jpg",
+    image: "/products/skateboard.jpg",
     accent: "#dc2626",
     description:
       "The WeSkate 3108-1 is a complete, pre-assembled 31-inch standard skateboard built from durable 7-ply Canadian maple. Featuring a double kick concave design and soft shock-absorbing wheels, it is an ideal, budget-friendly choice for beginners and teenagers learning basic stunts or cruising.",
