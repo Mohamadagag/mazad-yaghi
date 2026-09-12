@@ -50,21 +50,9 @@ export default function MazadPage() {
 
           <div className="grid gap-5 border-t border-black/10 p-5 md:grid-cols-[1fr_auto] md:items-center">
             <div>
-              <p className="text-sm font-semibold uppercase text-[#0f766e]">
-                Auction page
-              </p>
-
-              <h1 className="mt-2 text-3xl font-semibold leading-tight text-[#101316]">
+              <h1 className=" text-3xl font-semibold leading-tight text-[#101316]">
                 {product.name}
               </h1>
-
-              <p className="mt-1 text-sm font-semibold text-[#647079]">
-                {product.code}
-              </p>
-
-              <p className="mt-3 max-w-2xl text-base leading-7 text-[#59636d]">
-                {product.description}
-              </p>
             </div>
           </div>
         </div>
@@ -74,40 +62,42 @@ export default function MazadPage() {
 
           {/* Bidder */}
           <section className="rounded-lg border border-black/10 bg-white p-5 shadow-sm">
-            <div className="flex items-start justify-between gap-4">
+            {/* <div className="flex items-start justify-between gap-4">
               <div>
                 <p className="text-sm font-semibold uppercase text-[#0f766e]">
                   Current Highest Bid
                 </p>
               </div>
-            </div>
+            </div> */}
 
-            <div className="mt-6 grid grid-cols-2 gap-3">
-              <div className="rounded-md bg-[#f7f8fb] p-4">
-                <p className="text-xs text-[#76818b]">
+            <div className="flex flex-col">
+               <div className="rounded-md bg-[#f7f8fb] p-4 mb-5 flex items-center">
+                <p className="text-5xl mr-4">
+                  Lot
+                </p>
+
+                <p className="mt-1 text-5xl font-semibold text-[#101316]">
+                  {currentIndex + 1}
+                </p>
+              </div>
+
+              <div className="rounded-md bg-[#f7f8fb] p-4 flex items-center">
+                <p className="text-5xl mr-4">
                   Current Bid
                 </p>
 
-                <p className="mt-1 text-xl font-semibold text-[#101316]">
+                <p className="text-5xl font-semibold text-[#101316]">
                   ${product.currentBid}
                 </p>
               </div>
 
-              <div className="rounded-md bg-[#f7f8fb] p-4">
-                <p className="text-xs text-[#76818b]">
-                  Item
-                </p>
-
-                <p className="mt-1 text-xl font-semibold text-[#101316]">
-                  {currentIndex + 1} / {products.length}
-                </p>
-              </div>
+             
             </div>
           </section>
           <AuctionTimer
-  key={product.id}
-  onSold={handleSold}
-/>
+          key={product.id}
+          onSold={handleSold}
+        />
 
           {/* Next Item */}
           <button
@@ -137,11 +127,6 @@ export default function MazadPage() {
             <p className="mt-3 text-lg font-semibold text-[#59636d]">
               ${product.currentBid}
             </p>
-
-            {/* <p className="mt-1 text-sm text-[#76818b]">
-              Sold to {product.bidder.name} for {product.currentBid}
-            </p> */}
-
             <button
               type="button"
               onClick={() => setShowSoldPopup(false)}

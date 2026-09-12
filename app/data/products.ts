@@ -29,7 +29,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€45",
     ////////////////////////////////////////////////////
-    currentBid: "0",
+    currentBid: " 0",
     //////////////////////////////////////////////////// 
     closing: "Friday, 8:10 PM",
     image: "/products/cleaner-800W.webp",
@@ -1231,6 +1231,42 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
+   {
+    id: "PARKSIDE-PERFORMANCE-Cordless-Drill-Driver",
+    name: 'PARKSIDE PERFORMANCE Cordless Drill Driver',
+    code: "B0FZFKKF31",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€85",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/PARKSIDE-PERFORMANCE.jpg",
+    accent: "#dc2626",
+    description:
+      "The Parkside Performance 12V Starter Set is a compact power tool bundle featuring a premium cordless drill driver and a high-torque impact screwdriver. Driven by wear-free, efficient brushless motors, this kit delivers exceptional power and longevity for demanding DIY and professional projects alike.",
+    details: [
+      'Dual Tool Power: Includes both the 12V Cordless Drill Driver (PBSPA 12) and the 12V Cordless Impact Driver (PDSSAP 12).',
+      'Brushless Technology: Equipped with advanced brushless motors that significantly increase tool lifespan and runtime.',
+      "Premium Power System: Packs two high-performance 12V Lithium-Ion batteries (2.0 Ah) and a 2.4A quick charger.",
+      'Heavy-Duty Build: Designed with robust 2-speed metal gearboxes, variable speed controls, and integrated LED work lights.',
+      'Complete Kit: Comes ready to work with a magnetic bit holder and a heavy-duty fabric carry bag for easy transport.',
+    ],
+      specs:[
+      ["Lot", "37"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€85"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+
+  // 
   {
     id: "handheld-garment-steamer",
     name: "Handheld Garment Steamer",
@@ -1254,7 +1290,7 @@ export const products: Product[] = [
       "Ergonomic Build: Designed with a comfortable handheld grip and a wide, smooth-glide metal steaming plate.",
     ],
       specs:[
-      ["Lot", "37"],
+      ["Lot", "38"],
       ["Included", "Full set"],
       ["Price in origin country", "$30"],
     ],
@@ -1287,7 +1323,7 @@ export const products: Product[] = [
       "Multi-Purpose Use: Suited for kitchen dining tables, home office desks, vanities, or reception areas.",
     ],
       specs:[
-      ["Lot", "38"],
+      ["Lot", "39"],
       ["Included", "Full set"],
       ["Price in origin country", "$110"],
     ],
@@ -1320,7 +1356,7 @@ export const products: Product[] = [
       'Locking Caster Wheels: Moves effortlessly on four durable caster wheels that automatically lock into place when you sit down and apply pressure.',
     ],
       specs:[
-      ["Lot", "39"],
+      ["Lot", "40"],
       ["Included", "Full set"],
       ["Price in origin country", "£399"],
     ],
@@ -1353,7 +1389,7 @@ export const products: Product[] = [
       'Smart Home Control: Compatible with Apple AirPlay, Apple Home, and Google Home for effortless casting and voice integration.',
     ],
       specs:[
-      ["Lot", "40"],
+      ["Lot", "41"],
       ["Included", "Full set"],
       ["Price in origin country", "€180"],
     ],
@@ -1388,7 +1424,7 @@ export const products: Product[] = [
       'Materials: Constructed from durable 15 mm particleboard with a smooth, wipe-clean finish.',
     ],
       specs:[
-      ["Lot", "41"],
+      ["Lot", "42"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -1422,7 +1458,7 @@ export const products: Product[] = [
       'Age & Weight Capacity: Designed for toddlers and children aged 3 to 8 years old, with a maximum weight limit of 55 lbs (25 kg).'
     ],
       specs:[
-      ["Lot", "42"],
+      ["Lot", "43"],
       ["Included", "Full set"],
       ["Price in origin country", "$150"],
     ],
@@ -1455,7 +1491,7 @@ export const products: Product[] = [
       'Sturdy Construction: Built from robust engineered wood designed to resist daily wear and tear while providing reliable structural stability.',
     ],
       specs:[
-      ["Lot", "43"],
+      ["Lot", "44"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
     ],
@@ -1489,7 +1525,7 @@ export const products: Product[] = [
       'Sturdy & Stable Frame: Built with a rigid steel frame and adjustable leveling feet to keep the unit stable even on uneven floors.',
     ],
       specs:[
-      ["Lot", "44"],
+      ["Lot", "45"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -1523,7 +1559,7 @@ export const products: Product[] = [
       "Smart Adjustments: Auto vertical keystone correction and four-corner manual calibration for a perfectly square image.",
     ],
       specs:[
-      ["Lot", "45"],
+      ["Lot", "46"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -1556,7 +1592,7 @@ export const products: Product[] = [
       "Freestanding structure works excellently against a wall or placed centrally as a stylish room separator.",
     ],
       specs:[
-      ["Lot", "46"],
+      ["Lot", "47"],
       ["Included", "Full set"],
       ["Price in origin country", "60$"],
     ],
@@ -1590,7 +1626,7 @@ export const products: Product[] = [
       'Compact Footprint: Measuring 73 x 33 x 72 cm, its slim profile makes it perfect for tight spaces like small laundry rooms, bathrooms, or bedroom closets.',
     ],
       specs:[
-      ["Lot", "47"],
+      ["Lot", "48"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -1624,7 +1660,7 @@ export const products: Product[] = [
       "Safety: Built-in pressure relief valve and secure locking lid mechanism.",
     ],
       specs:[
-      ["Lot", "48"],
+      ["Lot", "49"],
       ["Included", "Full set"],
       ["Price in origin country", "75€"],
     ],
@@ -1658,7 +1694,7 @@ export const products: Product[] = [
       'Safety Features: Features anti-pinch protective cutouts and rounded corner edges to keep hands safe.',
     ],
       specs:[
-      ["Lot", "49"],
+      ["Lot", "50"],
       ["Included", "Full set"],
       ["Price in origin country", "$75"],
     ],
@@ -1692,9 +1728,42 @@ export const products: Product[] = [
       "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "50"],
+      ["Lot", "51"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+   {
+    id: "Parkside-4V-Cordless-Cross-Line-Laser",
+    name: 'Parkside 4V Cordless Cross Line Laser',
+    code: "B0FZFKKF31",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€95",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/PARKSIDE-PERFORMANCE-laser.jpg",
+    accent: "#dc2626",
+    description:
+      "This rechargeable laser level projects clear 360-degree horizontal and vertical alignment lines for precise construction and DIY projects. It features an integrated lithium-ion battery and comes equipped with a multi-section extendable tripod stand.",
+    details: [
+      'Projection range: Up to 20 meters under optimal conditions.',
+      'Accuracy rating: Self-leveling within ±0.4 mm/m.',
+      "Power system: Integrated 4V (2Ah) Lithium-Ion battery with a USB-C charging port.",
+      'Mounting base: Included floor tripod with an adjustable center column and bubble level.',
+    ],
+      specs:[
+      ["Lot", "52"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€95"],
     ],
     bidder: {
       name: "Rami B.",
@@ -1725,7 +1794,7 @@ export const products: Product[] = [
       "Material: 15 mm thick particleboard with a durable white melamine finish",
     ],
       specs:[
-      ["Lot", "51"],
+      ["Lot", "53"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -1758,7 +1827,7 @@ export const products: Product[] = [
       "Stable & Safe Design: Equipped with a built-in anti-tipping device for wall anchoring and non-slip floor protectors on the base.",
     ],
       specs:[
-      ["Lot", "52"],
+      ["Lot", "54"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
     ],
@@ -1794,7 +1863,7 @@ export const products: Product[] = [
       "Mounting Type: Low-profile, flush-mount design suitable for standard and covered outdoor ceilings.",
     ],
       specs:[
-      ["Lot", "53"],
+      ["Lot", "55"],
       ["Included", "Full set"],
       ["Price in origin country", "75$"],
     ],
@@ -1827,7 +1896,7 @@ export const products: Product[] = [
       'Material Composition: Built from engineered wood paneling with smooth, dark textured laminate finishes.',
     ],
       specs:[
-      ["Lot", "54"],
+      ["Lot", "56"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -1861,7 +1930,7 @@ export const products: Product[] = [
       "Safety Suite: Equipped with automatic protection against reverse polarity, short circuits, and overload.",
     ],
       specs:[
-      ["Lot", "55"],
+      ["Lot", "57"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -1894,7 +1963,7 @@ export const products: Product[] = [
       'Portability: Folds down completely flat for compact storage and easy transport.',
     ],
       specs:[
-      ["Lot", "56"],
+      ["Lot", "58"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
     ],
@@ -1928,7 +1997,7 @@ export const products: Product[] = [
       'Sleek Finish: Coated in an eco-friendly black lacquer that creates a smooth, water-resistant surface that is easy to wipe clean.',
     ],
       specs:[
-      ["Lot", "57"],
+      ["Lot", "59"],
       ["Included", "Full set"],
       ["Price in origin country", "€55"],
     ],
@@ -1962,7 +2031,7 @@ export const products: Product[] = [
       'Extra Hanging Space: Includes a metal mesh grid panel and 14 S-hooks for mugs and tools.',
     ],
       specs:[
-      ["Lot", "58"],
+      ["Lot", "60"],
       ["Included", "Full set"],
       ["Price in origin country", "€90"],
     ],
@@ -1995,7 +2064,7 @@ export const products: Product[] = [
       'Scratching Surfaces: Built with durable sisal-wrapped posts to encourage healthy claw maintenance.',
     ],
       specs:[
-      ["Lot", "59"],
+      ["Lot", "61"],
       ["Included", "Full set"],
       ["Price in origin country", "£75"],
     ],
@@ -2029,7 +2098,7 @@ export const products: Product[] = [
       "Smart App & Voice Controls: Connects with the Ultenic app, Amazon Alexa, or Google Assistant to let you customize cleaning schedules and modes hands-free.",
     ],
       specs:[
-      ["Lot", "60"],
+      ["Lot", "62"],
       ["Included", "Full set"],
       ["Price in origin country", "$110"],
     ],
@@ -2063,7 +2132,7 @@ export const products: Product[] = [
       "Enhanced Stability: Equipped with adjustable feet for uneven floors and an anti-tip kit for wall-mounting safety.",
     ],
       specs:[
-      ["Lot", "61"],
+      ["Lot", "63"],
       ["Included", "Full set"],
       ["Price in origin country", "55$"],
     ],
@@ -2096,7 +2165,7 @@ export const products: Product[] = [
       "Flexible configuration: Can be used upright, flipped upside down, or split into smaller units.",
     ],
       specs:[
-      ["Lot", "62"],
+      ["Lot", "64"],
       ["Included", "Full set"],
       ["Price in origin country", "$35"],
     ],
@@ -2129,7 +2198,7 @@ export const products: Product[] = [
       "Balanced Lighting: Bright, soft illumination highlights the matte finish of the frame and brings out the fine details of the decorative items without harsh glare.",
     ],
       specs:[
-      ["Lot", "63"],
+      ["Lot", "65"],
       ["Included", "Full set"],
       ["Price in origin country", "$35"],
     ],
@@ -2162,7 +2231,7 @@ export const products: Product[] = [
       'Functionality: Multiple dedicated scratching surfaces to help keep your cat’s claws healthy and protect home furniture.',
     ],
       specs:[
-      ["Lot", "64"],
+      ["Lot", "66"],
       ["Included", "Full set"],
       ["Price in origin country", "£60"],
     ],
@@ -2197,7 +2266,7 @@ export const products: Product[] = [
       "Advanced HEPA Filtration: Captures 99.99% of microscopic dust particles and allergens to exhaust clean air.",
     ],
       specs:[
-      ["Lot", "65"],
+      ["Lot", "67"],
       ["Included", "Full set"],
       ["Price in origin country", "€80 to €130"],
     ],
@@ -2230,7 +2299,7 @@ export const products: Product[] = [
       "Floor Protection: Includes a removable, leak-proof plastic pan for fast cleaning and protective bottom pads to prevent floor scratches.",
     ],
       specs:[
-      ["Lot", "66"],
+      ["Lot", "68"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -2262,7 +2331,7 @@ export const products: Product[] = [
       'Seating Capacity: Designed with integrated benches to comfortably fit 4 children at once.',
     ],
       specs:[
-      ["Lot", "67"],
+      ["Lot", "69"],
       ["Included", "Full set"],
       ["Price in origin country", "$50"],
     ],
@@ -2295,7 +2364,7 @@ export const products: Product[] = [
       "Wide-Opening Safety Door: Equipped with a lockable front door that opens up to 100 degrees to allow hassle-free entry without scraping your car's interior.",
     ],
       specs:[
-      ["Lot", "68"],
+      ["Lot", "70"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
     ],
@@ -2329,7 +2398,7 @@ export const products: Product[] = [
       "Sturdy H-Base Frame: Built with industrial-grade steel legs that keep the single-column workstation completely stable while typing.",
     ],
       specs:[
-      ["Lot", "69"],
+      ["Lot", "71"],
       ["Included", "Full set"],
       ["Price in origin country", "$100"],
     ],
@@ -2362,7 +2431,7 @@ export const products: Product[] = [
       'Smart Home Control: Compatible with Apple AirPlay, Apple Home, and Google Home for effortless casting and voice integration.',
     ],
       specs:[
-      ["Lot", "70"],
+      ["Lot", "72"],
       ["Included", "Full set"],
       ["Price in origin country", "€180"],
     ],
@@ -2396,7 +2465,7 @@ export const products: Product[] = [
       "Mobility: Built-in wheels on one side allow for easy repositioning around the room.",
     ],
       specs:[
-      ["Lot", "71"],
+      ["Lot", "73"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -2429,7 +2498,7 @@ export const products: Product[] = [
       "Sturdy Build: Constructed with a rust-preventing, powder-sprayed steel frame and adjustable feet for complete stability on uneven floors.",
     ],
       specs:[
-      ["Lot", "72"],
+      ["Lot", "74"],
       ["Included", "Full set"],
       ["Price in origin country", "$160"],
     ],
@@ -2461,7 +2530,7 @@ export const products: Product[] = [
       'Grow-with-Me Fit: Outfitted with an adjustable handlebar and seat to accommodate your growing child.',
     ],
       specs:[
-      ["Lot", "73"],
+      ["Lot", "75"],
       ["Included", "Full set"],
       ["Price in origin country", "$150"],
     ],
@@ -2494,7 +2563,7 @@ export const products: Product[] = [
       "Weatherproof Fabric: Made from fade-resistant, water-repellent polyester featuring a top wind vent for maximum airflow and stability.",
     ],
       specs:[
-      ["Lot", "74"],
+      ["Lot", "76"],
       ["Included", "Full set"],
       ["Price in origin country", "70$"],
     ],
@@ -2529,7 +2598,7 @@ export const products: Product[] = [
       'Multifunctional Design: Quickly transitions from a standard low center table into a laptop desk or a casual dining spot.',
     ],
       specs:[
-      ["Lot", "75"],
+      ["Lot", "77"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
       ["Issues", "Broken Leg"],
@@ -2563,7 +2632,7 @@ export const products: Product[] = [
       "Collapsible Umbrella Design: Features an easy-glide lifting mechanism to raise the arms for use or collapse them downward for compact storage.",
     ],
       specs:[
-      ["Lot", "76"],
+      ["Lot", "78"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
     ],
@@ -2598,7 +2667,7 @@ export const products: Product[] = [
       "Fuel Type: Regular unleaded gasoline (E10 compatible)",
     ],
       specs:[
-      ["Lot", "77"],
+      ["Lot", "79"],
       ["Included", "Full set"],
       ["Price in origin country", "€130"],
     ],
@@ -2630,7 +2699,7 @@ export const products: Product[] = [
       "Modern Aesthetic: Styled with a clean white finish and mid-century modern tapered wooden legs for a sleek, contemporary look.",
     ],
       specs:[
-      ["Lot", "78"],
+      ["Lot", "80"],
       ["Included", "Full set"],
       ["Price in origin country", "€60"],
     ],
@@ -2665,7 +2734,7 @@ export const products: Product[] = [
       "Portability: Built-in wheels for easy room-to-room movement.",
     ],
       specs:[
-      ["Lot", "79"],
+      ["Lot", "81"],
       ["Included", "Full set"],
       ["Price in origin country", "$170"],
     ],
@@ -2699,7 +2768,7 @@ export const products: Product[] = [
       "Safe Design: Features heat-resistant handles, non-slip feet, and clear power/ready indicator lights.",
     ],
       specs:[
-      ["Lot", "80"],
+      ["Lot", "82"],
       ["Included", "Full set"],
       ["Price in origin country", "60€"],
     ],
@@ -2733,7 +2802,7 @@ export const products: Product[] = [
       "Convenience Accessories: Includes a dedicated under-desk headphone storage hook and a side-mounted cup holder.",
     ],
       specs:[
-      ["Lot", "81"],
+      ["Lot", "83"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -2767,7 +2836,7 @@ export const products: Product[] = [
       "Mess-Free Design: Equipped with a removable filter bracket (size 1x4) featuring an automatic drip-stop mechanism.",
     ],
       specs:[
-      ["Lot", "82"],
+      ["Lot", "84"],
       ["Included", "Full set"],
       ["Price in origin country", "30$"],
     ],
@@ -2800,7 +2869,7 @@ export const products: Product[] = [
       "Wireless Connections: Features integrated Wi-Fi and Bluetooth for wireless internet access and audio streaming.",
     ],
       specs:[
-      ["Lot", "83"],
+      ["Lot", "85"],
       ["Included", "Full set"],
       ["Price in origin country", "€170"],
     ],
@@ -2832,7 +2901,7 @@ export const products: Product[] = [
       'Materials: Constructed from durable engineered wood (white MDF) paired with breathable non-woven fabric components.',
     ],
       specs:[
-      ["Lot", "84"],
+      ["Lot", "86"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -2865,7 +2934,7 @@ export const products: Product[] = [
       "Safety Lock: Integrated locking arm mechanism prevents operation unless all components are safely secured.",
     ],
       specs:[
-      ["Lot", "85"],
+      ["Lot", "87"],
       ["Included", "Full set"],
       ["Price in origin country", "65$"],
     ],
@@ -2898,7 +2967,7 @@ export const products: Product[] = [
       "Maintenance: Finished with an anti-fingerprint coating that easily wipes clean with a damp cloth.",
     ],
       specs:[
-      ["Lot", "86"],
+      ["Lot", "88"],
       ["Included", "Full set"],
       ["Price in origin country", "£120"],
     ],
@@ -2932,7 +3001,7 @@ export const products: Product[] = [
       "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "87"],
+      ["Lot", "89"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
     ],
@@ -2965,7 +3034,7 @@ export const products: Product[] = [
       "Product Dimensions: Measures 54.5 cm (H) x 40 cm (W) x 46 cm (D) and weighs approximately 16.4 kg.",
     ],
       specs:[
-      ["Lot", "88"],
+      ["Lot", "90"],
       ["Included", "Full set"],
       ["Price in origin country", "£55"],
     ],
@@ -2998,7 +3067,7 @@ export const products: Product[] = [
       'Sturdy Hexagonal Frame: Designed with a 112 cm diameter hexagonal steel frame that provides superior stability and prevents the trampoline from tipping during side-to-side movements.',
     ],
       specs:[
-      ["Lot", "89"],
+      ["Lot", "91"],
       ["Included", "Full set"],
       ["Price in origin country", "€160"],
     ],
@@ -3031,7 +3100,7 @@ export const products: Product[] = [
       "Easy Mobility: Mounted on 360° rolling casters—including lockable wheels—to smoothly shift the station and secure it safely in place.",
     ],
       specs:[
-      ["Lot", "90"],
+      ["Lot", "92"],
       ["Included", "Full set"],
       ["Price in origin country", "$95"],
     ],
@@ -3065,7 +3134,7 @@ export const products: Product[] = [
       "Dual Power & Portability: Comes with an AC wall adapter and a car charger cigarette lighter adapter, making it fully functional at home, in the office, or during travel. Note: Cordless/rechargeable variants are also available.",
     ],
       specs:[
-      ["Lot", "91"],
+      ["Lot", "93"],
       ["Included", "Full set"],
       ["Price in origin country", "€45"],
     ],
@@ -3098,7 +3167,7 @@ export const products: Product[] = [
       'Easy Maintenance: Includes a high-quality non-stick coating for effortless food release and quick cleanup.',
     ],
       specs:[
-      ["Lot", "92"],
+      ["Lot", "94"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -3132,7 +3201,7 @@ export const products: Product[] = [
       "Bearings: ABEC-7 high-speed precision bearings allow for easy, long-lasting coasting.",
     ],
       specs:[
-      ["Lot", "93"],
+      ["Lot", "95"],
       ["Included", "Full set"],
       ["Price in origin country", "$30"],
     ],
@@ -3165,7 +3234,7 @@ export const products: Product[] = [
       'Age Grading: Specifically designed for kids aged 3 years and older.',
     ],
       specs:[
-      ["Lot", "94"],
+      ["Lot", "96"],
       ["Included", "Full set"],
       ["Price in origin country", "€35"],
     ],
@@ -3201,7 +3270,7 @@ export const products: Product[] = [
       "Portability: Built-in transport wheels with zero installation required.",
     ],
       specs:[
-      ["Lot", "95"],
+      ["Lot", "97"],
       ["Included", "Full set"],
       ["Price in origin country", "£280"],
     ],
@@ -3233,7 +3302,7 @@ export const products: Product[] = [
       'Sturdy Construction: Crafted from durable particleboard to ensure long-term stability and support.',
     ],
       specs:[
-      ["Lot", "96"],
+      ["Lot", "98"],
       ["Included", "Full set"],
       ["Price in origin country", "$100"],
     ],
@@ -3265,7 +3334,7 @@ export const products: Product[] = [
       'Space-Saving Frame: Foldable and lightweight body structure allows for easy storage and effortless travel.',
     ],
       specs:[
-      ["Lot", "97"],
+      ["Lot", "99"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -3298,7 +3367,7 @@ export const products: Product[] = [
       'Temperature Control: Features a front-facing adjustable thermostat dial for precise heat regulation.',
     ],
       specs:[
-      ["Lot", "98"],
+      ["Lot", "100"],
       ["Included", "Full set"],
       ["Price in origin country", "€60"],
     ],
@@ -3330,7 +3399,7 @@ export const products: Product[] = [
       'Customizable Resistance: Equipped with tension control knobs to increase or decrease rotational friction for tailored workout intensities.',
     ],
       specs:[
-      ["Lot", "99"],
+      ["Lot", "101"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -3363,7 +3432,7 @@ export const products: Product[] = [
       "Product Dimensions: Measures approximately 57 inches high by 14 inches wide across its sturdy floor base.",
     ],
       specs:[
-      ["Lot", "100"],
+      ["Lot", "102"],
       ["Included", "Full set"],
       ["Price in origin country", "$95"],
     ],
@@ -3396,7 +3465,7 @@ export const products: Product[] = [
       "Cable Management: Built-in desktop grommet hole to route wires cleanly.",
     ],
       specs:[
-      ["Lot", "101"],
+      ["Lot", "103"],
       ["Included", "Full set"],
       ["Price in origin country", "$100"],
     ],
@@ -3429,7 +3498,7 @@ export const products: Product[] = [
       'Smart Platform: VIDAA OS with built-in streaming apps',
     ],
       specs:[
-      ["Lot", "102"],
+      ["Lot", "104"],
       ["Included", "Full set"],
       ["Price in origin country", "€200"],
     ],
@@ -3464,7 +3533,7 @@ export const products: Product[] = [
   //     "Compact & Lightweight: Easy to carry with an integrated handle, making storage simple and stair cleaning effortless.",
   //   ],
   //     specs:[
-  //     ["Lot", "37"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€99.99"],
   //   ],
@@ -3497,7 +3566,7 @@ export const products: Product[] = [
   //     "Safety & Build: Features a high-quality stainless steel blade with a safety switch and non-slip feet for secure operation.",
   //   ],
   //     specs:[
-  //     ["Lot", "38"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€30"],
   //   ],
@@ -3531,7 +3600,7 @@ export const products: Product[] = [
   //     'Ventilated Back Panel: Built with integrated rear air vents to maintain fresh airflow and control unpleasant odors.',
   //   ],
   //     specs:[
-  //     ["Lot", "41"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$70"],
   //   ],
@@ -3567,7 +3636,7 @@ export const products: Product[] = [
   //     "Speed Management: Adjustable control knob",
   //   ],
   //     specs:[
-  //     ["Lot", "55"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$110 to $140"],
   //   ],
@@ -3604,7 +3673,7 @@ export const products: Product[] = [
   //     "Medical Certification: Registered as an official medical device for treating chronic venous insufficiency and lymphedema.",
   //   ],
   //     specs:[
-  //     ["Lot", "61"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€299"],
   //   ],
@@ -3643,7 +3712,7 @@ export const products: Product[] = [
   //     "Safety: Built with a cool-touch housing, an insulated viewing window, and an automatic shut-off feature.",
   //   ],
   //     specs:[
-  //     ["Lot", "69"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€110"],
   //   ],
@@ -3677,7 +3746,7 @@ export const products: Product[] = [
   //     "Adaptable Design: Built with a reversible door and adjustable leveling feet to accommodate uneven flooring and different room configurations.",
   //   ],
   //     specs:[
-  //     ["Lot", "71"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "170$"],
   //   ],
@@ -3714,7 +3783,7 @@ export const products: Product[] = [
   //     "Space-Saving Design: Designed with a small footprint that easily fits under tables or in small living areas when not in use.",
   //   ],
   //     specs:[
-  //     ["Lot", "76"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€65"],
   //   ],
@@ -3750,7 +3819,7 @@ export const products: Product[] = [
   //     "Digital Display: Built-in LCD monitor tracks training data including time, speed, distance, and calories.",
   //   ],
   //     specs:[
-  //     ["Lot", "88"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$179"],
   //   ],
@@ -3788,7 +3857,7 @@ export const products: Product[] = [
   //     'Standard Fit: Uses a standard center pole diameter compatible with most patio tables and base weights.',
   //   ],
   //     specs:[
-  //     ["Lot", "97"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$50"],
   //   ],
@@ -3821,7 +3890,7 @@ export const products: Product[] = [
   //     'Premium Guide Attachments: Includes a parallel rip fence, a router/plunge depth stop, and 45°/90° angle tables for highly accurate cutting, milling, and grinding.',
   //   ],
   //     specs:[
-  //     ["Lot", "98"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€70"],
   //   ],
@@ -3855,7 +3924,7 @@ export const products: Product[] = [
   //     'Material: Durable steel and plastic',
   //   ],
   //     specs:[
-  //     ["Lot", "100"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$35"],
   //   ],
@@ -3902,7 +3971,7 @@ export const products: Product[] = [
   //     'User Capacity: Engineered with a sturdy frame that supports a maximum user weight limit of up to 120 kg (~265 lbs).',
   //   ],
   //     specs:[
-  //     ["Lot", "122"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€299"],
   //   ],
@@ -3937,7 +4006,7 @@ export const products: Product[] = [
   //     'Cutting Adjustments: Continuous mitre bevel tracking from 0° to 45° with a flexible tilting mechanism.',
   //   ],
   //     specs:[
-  //     ["Lot", "125"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€110"],
   //   ],
@@ -3972,7 +4041,7 @@ export const products: Product[] = [
   //     "Aesthetic: Neutral natural white color palette that complements various decor textures and colors.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "200$"],
   //   ],
@@ -4005,7 +4074,7 @@ export const products: Product[] = [
   //     "Ergonomic Design: Features thick, dense cushioning designed for comfortable extended periods of sitting.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "60$"],
   //   ],
@@ -4037,7 +4106,7 @@ export const products: Product[] = [
   //     "Retractable Footrest: Features a hidden leg support pad that slides smoothly out from beneath the seat cushion.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "100$"],
   //   ],
@@ -4077,7 +4146,7 @@ export const products: Product[] = [
   //     "Safety & Security: Outfitted with an integrated push-to-lock hand brake mechanism.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$120"],
   //   ],
@@ -4111,7 +4180,7 @@ export const products: Product[] = [
   //     "Functional Top: Includes a distinct glass-panel section on the left tabletop surface to easily view stored items.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$100"],
   //   ],
@@ -4144,7 +4213,7 @@ export const products: Product[] = [
   //     "Integrated LED Lighting: Equipped with an interior battery-powered light strip featuring three distinct color modes (warm, cool, and neutral).",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€135"],
   //   ],
@@ -4184,7 +4253,7 @@ export const products: Product[] = [
   //     "Easy Assembly: No tools are required, making it fast to put together or take apart for transport.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$30"],
   //   ],
@@ -4219,7 +4288,7 @@ export const products: Product[] = [
   //     "Weight & Capacity: Weighs 4.7 kg and safely supports a maximum static load of 25 kg.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€70"],
   //   ],
@@ -4254,7 +4323,7 @@ export const products: Product[] = [
   //     "Premium Materials: Built from high-quality MDF wood finished with a durable, 5-layer matte lacquer.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€50"],
   //   ],
@@ -4289,7 +4358,7 @@ export const products: Product[] = [
   //     "Weatherproof Design: Equipped with heavy springs to absorb wind gusts and anti-glare PVC sheets to shield posters from UV rays and rain.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$40"],
   //   ],
@@ -4324,7 +4393,7 @@ export const products: Product[] = [
   //     "Compact Dimensions: Measures 17.7” in diameter and 19.7” in height, fitting comfortably into tight corners next to a bed or sofa.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$40"],
   //   ],
@@ -4357,7 +4426,7 @@ export const products: Product[] = [
   //     "Modern Aesthetic: Styled in a neutral, classic white finish that blends seamlessly with contemporary, Scandinavian, or minimalist decor.",
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$30"],
   //   ],
@@ -4391,7 +4460,7 @@ export const products: Product[] = [
   //     'Height Adjustable: Built-in smooth gas-lift mechanism changes seat height seamlessly.',
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$60"],
   //   ],
@@ -4425,7 +4494,7 @@ export const products: Product[] = [
   //     'Versatility: Blends seamlessly with modern, industrial, or minimalist home decor.',
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$40"],
   //   ],
@@ -4457,7 +4526,7 @@ export const products: Product[] = [
   //     'Design Aesthetic: Clean, frameless circular edge suited for modern bathrooms, powder rooms, or retail setups.',
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$60"],
   //   ],
@@ -4489,7 +4558,7 @@ export const products: Product[] = [
   //     'Advanced Options: High-end models often incorporate anti-fog heating elements, adjustable color temperatures (warm, neutral, cool), and dimming functions.',
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$80"],
   //   ],
@@ -4521,7 +4590,7 @@ export const products: Product[] = [
   //     'Sleek Floating Effect: Mounted via a rear bracket system that offsets the glass from the wall to create a floating silhouette.',
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$80"],
   //   ],
@@ -4553,7 +4622,7 @@ export const products: Product[] = [
   //     'Dimmable Brightness: Allows you to easily adjust the intensity to mimic different environmental lighting conditions.',
   //   ],
   //     specs:[
-  //     ["Lot", "133"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "$80"],
   //   ],
@@ -4594,7 +4663,7 @@ export const products: Product[] = [
   //     "Safety: Features a cool-touch handle and automatic shut-off functionality.",
   //   ],
   //     specs:[
-  //     ["Lot", "67"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€55"],
   //   ],
@@ -4630,7 +4699,7 @@ export const products: Product[] = [
   //     "Temperature Control: Wide adjustable range from 40°C up to 230°C.",
   //   ],
   //     specs:[
-  //     ["Lot", "54"],
+  //     ["Lot", "104"],
   //     ["Included", "Full set"],
   //     ["Price in origin country", "€90"],
   //   ],
