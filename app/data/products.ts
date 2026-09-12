@@ -1231,40 +1231,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "PARKSIDE-PERFORMANCE-Cordless-Drill-Driver",
-    name: 'PARKSIDE PERFORMANCE Cordless Drill Driver',
-    code: "B0FZFKKF31",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€85",
-    ////////////////////////////////////////////////////
-    currentBid: "0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/PARKSIDE-PERFORMANCE.jpg",
-    accent: "#dc2626",
-    description:
-      "The Parkside Performance 12V Starter Set is a compact power tool bundle featuring a premium cordless drill driver and a high-torque impact screwdriver. Driven by wear-free, efficient brushless motors, this kit delivers exceptional power and longevity for demanding DIY and professional projects alike.",
-    details: [
-      'Dual Tool Power: Includes both the 12V Cordless Drill Driver (PBSPA 12) and the 12V Cordless Impact Driver (PDSSAP 12).',
-      'Brushless Technology: Equipped with advanced brushless motors that significantly increase tool lifespan and runtime.',
-      "Premium Power System: Packs two high-performance 12V Lithium-Ion batteries (2.0 Ah) and a 2.4A quick charger.",
-      'Heavy-Duty Build: Designed with robust 2-speed metal gearboxes, variable speed controls, and integrated LED work lights.',
-      'Complete Kit: Comes ready to work with a magnetic bit holder and a heavy-duty fabric carry bag for easy transport.',
-    ],
-      specs:[
-      ["Lot", "37"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€85"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
 
   // 
   {
@@ -1290,7 +1257,7 @@ export const products: Product[] = [
       "Ergonomic Build: Designed with a comfortable handheld grip and a wide, smooth-glide metal steaming plate.",
     ],
       specs:[
-      ["Lot", "38"],
+      ["Lot", "37"],
       ["Included", "Full set"],
       ["Price in origin country", "$30"],
     ],
@@ -1323,7 +1290,7 @@ export const products: Product[] = [
       "Multi-Purpose Use: Suited for kitchen dining tables, home office desks, vanities, or reception areas.",
     ],
       specs:[
-      ["Lot", "39"],
+      ["Lot", "38"],
       ["Included", "Full set"],
       ["Price in origin country", "$110"],
     ],
@@ -1356,7 +1323,7 @@ export const products: Product[] = [
       'Locking Caster Wheels: Moves effortlessly on four durable caster wheels that automatically lock into place when you sit down and apply pressure.',
     ],
       specs:[
-      ["Lot", "40"],
+      ["Lot", "39"],
       ["Included", "Full set"],
       ["Price in origin country", "£399"],
     ],
@@ -1389,7 +1356,7 @@ export const products: Product[] = [
       'Smart Home Control: Compatible with Apple AirPlay, Apple Home, and Google Home for effortless casting and voice integration.',
     ],
       specs:[
-      ["Lot", "41"],
+      ["Lot", "40"],
       ["Included", "Full set"],
       ["Price in origin country", "€180"],
     ],
@@ -1424,7 +1391,7 @@ export const products: Product[] = [
       'Materials: Constructed from durable 15 mm particleboard with a smooth, wipe-clean finish.',
     ],
       specs:[
-      ["Lot", "42"],
+      ["Lot", "41"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -1458,7 +1425,7 @@ export const products: Product[] = [
       'Age & Weight Capacity: Designed for toddlers and children aged 3 to 8 years old, with a maximum weight limit of 55 lbs (25 kg).'
     ],
       specs:[
-      ["Lot", "43"],
+      ["Lot", "42"],
       ["Included", "Full set"],
       ["Price in origin country", "$150"],
     ],
@@ -1491,7 +1458,7 @@ export const products: Product[] = [
       'Sturdy Construction: Built from robust engineered wood designed to resist daily wear and tear while providing reliable structural stability.',
     ],
       specs:[
-      ["Lot", "44"],
+      ["Lot", "43"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
     ],
@@ -1525,7 +1492,7 @@ export const products: Product[] = [
       'Sturdy & Stable Frame: Built with a rigid steel frame and adjustable leveling feet to keep the unit stable even on uneven floors.',
     ],
       specs:[
-      ["Lot", "45"],
+      ["Lot", "44"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -1559,7 +1526,7 @@ export const products: Product[] = [
       "Smart Adjustments: Auto vertical keystone correction and four-corner manual calibration for a perfectly square image.",
     ],
       specs:[
-      ["Lot", "46"],
+      ["Lot", "45"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -1592,7 +1559,7 @@ export const products: Product[] = [
       "Freestanding structure works excellently against a wall or placed centrally as a stylish room separator.",
     ],
       specs:[
-      ["Lot", "47"],
+      ["Lot", "46"],
       ["Included", "Full set"],
       ["Price in origin country", "60$"],
     ],
@@ -1626,7 +1593,7 @@ export const products: Product[] = [
       'Compact Footprint: Measuring 73 x 33 x 72 cm, its slim profile makes it perfect for tight spaces like small laundry rooms, bathrooms, or bedroom closets.',
     ],
       specs:[
-      ["Lot", "48"],
+      ["Lot", "47"],
       ["Included", "Full set"],
       ["Price in origin country", "$45"],
     ],
@@ -1660,7 +1627,7 @@ export const products: Product[] = [
       "Safety: Built-in pressure relief valve and secure locking lid mechanism.",
     ],
       specs:[
-      ["Lot", "49"],
+      ["Lot", "48"],
       ["Included", "Full set"],
       ["Price in origin country", "75€"],
     ],
@@ -1694,7 +1661,7 @@ export const products: Product[] = [
       'Safety Features: Features anti-pinch protective cutouts and rounded corner edges to keep hands safe.',
     ],
       specs:[
-      ["Lot", "50"],
+      ["Lot", "49"],
       ["Included", "Full set"],
       ["Price in origin country", "$75"],
     ],
@@ -1728,7 +1695,7 @@ export const products: Product[] = [
       "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "51"],
+      ["Lot", "50"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
     ],
@@ -1739,39 +1706,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-   {
-    id: "Parkside-4V-Cordless-Cross-Line-Laser",
-    name: 'Parkside 4V Cordless Cross Line Laser',
-    code: "B0FZFKKF31",
-    category: "Furniture",
-    condition: "New",
-    estimate: "€95",
-    ////////////////////////////////////////////////////
-    currentBid: "0",
-    //////////////////////////////////////////////////// 
-    closing: "Friday, 8:10 PM",
-    image: "/products/PARKSIDE-PERFORMANCE-laser.jpg",
-    accent: "#dc2626",
-    description:
-      "This rechargeable laser level projects clear 360-degree horizontal and vertical alignment lines for precise construction and DIY projects. It features an integrated lithium-ion battery and comes equipped with a multi-section extendable tripod stand.",
-    details: [
-      'Projection range: Up to 20 meters under optimal conditions.',
-      'Accuracy rating: Self-leveling within ±0.4 mm/m.',
-      "Power system: Integrated 4V (2Ah) Lithium-Ion battery with a USB-C charging port.",
-      'Mounting base: Included floor tripod with an adjustable center column and bubble level.',
-    ],
-      specs:[
-      ["Lot", "52"],
-      ["Included", "Full set"],
-      ["Price in origin country", "€95"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  },
+   
   {
     id: "VASAGLE-4-Tier-Corner-Shelf",
     name: 'VASAGLE 4-Tier Corner Shelf',
@@ -1794,7 +1729,7 @@ export const products: Product[] = [
       "Material: 15 mm thick particleboard with a durable white melamine finish",
     ],
       specs:[
-      ["Lot", "53"],
+      ["Lot", "51"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -1827,7 +1762,7 @@ export const products: Product[] = [
       "Stable & Safe Design: Equipped with a built-in anti-tipping device for wall anchoring and non-slip floor protectors on the base.",
     ],
       specs:[
-      ["Lot", "54"],
+      ["Lot", "52"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
     ],
@@ -1863,7 +1798,7 @@ export const products: Product[] = [
       "Mounting Type: Low-profile, flush-mount design suitable for standard and covered outdoor ceilings.",
     ],
       specs:[
-      ["Lot", "55"],
+      ["Lot", "53"],
       ["Included", "Full set"],
       ["Price in origin country", "75$"],
     ],
@@ -1896,7 +1831,7 @@ export const products: Product[] = [
       'Material Composition: Built from engineered wood paneling with smooth, dark textured laminate finishes.',
     ],
       specs:[
-      ["Lot", "56"],
+      ["Lot", "54"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -1930,7 +1865,7 @@ export const products: Product[] = [
       "Safety Suite: Equipped with automatic protection against reverse polarity, short circuits, and overload.",
     ],
       specs:[
-      ["Lot", "57"],
+      ["Lot", "55"],
       ["Included", "Full set"],
       ["Price in origin country", "€40"],
     ],
@@ -1963,7 +1898,7 @@ export const products: Product[] = [
       'Portability: Folds down completely flat for compact storage and easy transport.',
     ],
       specs:[
-      ["Lot", "58"],
+      ["Lot", "56"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
     ],
@@ -1997,7 +1932,7 @@ export const products: Product[] = [
       'Sleek Finish: Coated in an eco-friendly black lacquer that creates a smooth, water-resistant surface that is easy to wipe clean.',
     ],
       specs:[
-      ["Lot", "59"],
+      ["Lot", "57"],
       ["Included", "Full set"],
       ["Price in origin country", "€55"],
     ],
@@ -2031,7 +1966,7 @@ export const products: Product[] = [
       'Extra Hanging Space: Includes a metal mesh grid panel and 14 S-hooks for mugs and tools.',
     ],
       specs:[
-      ["Lot", "60"],
+      ["Lot", "58"],
       ["Included", "Full set"],
       ["Price in origin country", "€90"],
     ],
@@ -2064,7 +1999,7 @@ export const products: Product[] = [
       'Scratching Surfaces: Built with durable sisal-wrapped posts to encourage healthy claw maintenance.',
     ],
       specs:[
-      ["Lot", "61"],
+      ["Lot", "59"],
       ["Included", "Full set"],
       ["Price in origin country", "£75"],
     ],
@@ -2098,7 +2033,7 @@ export const products: Product[] = [
       "Smart App & Voice Controls: Connects with the Ultenic app, Amazon Alexa, or Google Assistant to let you customize cleaning schedules and modes hands-free.",
     ],
       specs:[
-      ["Lot", "62"],
+      ["Lot", "60"],
       ["Included", "Full set"],
       ["Price in origin country", "$110"],
     ],
@@ -2132,7 +2067,7 @@ export const products: Product[] = [
       "Enhanced Stability: Equipped with adjustable feet for uneven floors and an anti-tip kit for wall-mounting safety.",
     ],
       specs:[
-      ["Lot", "63"],
+      ["Lot", "61"],
       ["Included", "Full set"],
       ["Price in origin country", "55$"],
     ],
@@ -2165,7 +2100,7 @@ export const products: Product[] = [
       "Flexible configuration: Can be used upright, flipped upside down, or split into smaller units.",
     ],
       specs:[
-      ["Lot", "64"],
+      ["Lot", "62"],
       ["Included", "Full set"],
       ["Price in origin country", "$35"],
     ],
@@ -2198,7 +2133,7 @@ export const products: Product[] = [
       "Balanced Lighting: Bright, soft illumination highlights the matte finish of the frame and brings out the fine details of the decorative items without harsh glare.",
     ],
       specs:[
-      ["Lot", "65"],
+      ["Lot", "63"],
       ["Included", "Full set"],
       ["Price in origin country", "$35"],
     ],
@@ -2231,7 +2166,7 @@ export const products: Product[] = [
       'Functionality: Multiple dedicated scratching surfaces to help keep your cat’s claws healthy and protect home furniture.',
     ],
       specs:[
-      ["Lot", "66"],
+      ["Lot", "64"],
       ["Included", "Full set"],
       ["Price in origin country", "£60"],
     ],
@@ -2266,7 +2201,7 @@ export const products: Product[] = [
       "Advanced HEPA Filtration: Captures 99.99% of microscopic dust particles and allergens to exhaust clean air.",
     ],
       specs:[
-      ["Lot", "67"],
+      ["Lot", "65"],
       ["Included", "Full set"],
       ["Price in origin country", "€80 to €130"],
     ],
@@ -2299,7 +2234,7 @@ export const products: Product[] = [
       "Floor Protection: Includes a removable, leak-proof plastic pan for fast cleaning and protective bottom pads to prevent floor scratches.",
     ],
       specs:[
-      ["Lot", "68"],
+      ["Lot", "66"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -2331,7 +2266,7 @@ export const products: Product[] = [
       'Seating Capacity: Designed with integrated benches to comfortably fit 4 children at once.',
     ],
       specs:[
-      ["Lot", "69"],
+      ["Lot", "67"],
       ["Included", "Full set"],
       ["Price in origin country", "$50"],
     ],
@@ -2364,7 +2299,7 @@ export const products: Product[] = [
       "Wide-Opening Safety Door: Equipped with a lockable front door that opens up to 100 degrees to allow hassle-free entry without scraping your car's interior.",
     ],
       specs:[
-      ["Lot", "70"],
+      ["Lot", "68"],
       ["Included", "Full set"],
       ["Price in origin country", "$80"],
     ],
@@ -2398,7 +2333,7 @@ export const products: Product[] = [
       "Sturdy H-Base Frame: Built with industrial-grade steel legs that keep the single-column workstation completely stable while typing.",
     ],
       specs:[
-      ["Lot", "71"],
+      ["Lot", "69"],
       ["Included", "Full set"],
       ["Price in origin country", "$100"],
     ],
@@ -2431,7 +2366,7 @@ export const products: Product[] = [
       'Smart Home Control: Compatible with Apple AirPlay, Apple Home, and Google Home for effortless casting and voice integration.',
     ],
       specs:[
-      ["Lot", "72"],
+      ["Lot", "70"],
       ["Included", "Full set"],
       ["Price in origin country", "€180"],
     ],
@@ -2465,7 +2400,7 @@ export const products: Product[] = [
       "Mobility: Built-in wheels on one side allow for easy repositioning around the room.",
     ],
       specs:[
-      ["Lot", "73"],
+      ["Lot", "71"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -2498,7 +2433,7 @@ export const products: Product[] = [
       "Sturdy Build: Constructed with a rust-preventing, powder-sprayed steel frame and adjustable feet for complete stability on uneven floors.",
     ],
       specs:[
-      ["Lot", "74"],
+      ["Lot", "72"],
       ["Included", "Full set"],
       ["Price in origin country", "$160"],
     ],
@@ -2530,7 +2465,7 @@ export const products: Product[] = [
       'Grow-with-Me Fit: Outfitted with an adjustable handlebar and seat to accommodate your growing child.',
     ],
       specs:[
-      ["Lot", "75"],
+      ["Lot", "73"],
       ["Included", "Full set"],
       ["Price in origin country", "$150"],
     ],
@@ -2563,7 +2498,7 @@ export const products: Product[] = [
       "Weatherproof Fabric: Made from fade-resistant, water-repellent polyester featuring a top wind vent for maximum airflow and stability.",
     ],
       specs:[
-      ["Lot", "76"],
+      ["Lot", "74"],
       ["Included", "Full set"],
       ["Price in origin country", "70$"],
     ],
@@ -2598,7 +2533,7 @@ export const products: Product[] = [
       'Multifunctional Design: Quickly transitions from a standard low center table into a laptop desk or a casual dining spot.',
     ],
       specs:[
-      ["Lot", "77"],
+      ["Lot", "75"],
       ["Included", "Full set"],
       ["Price in origin country", "€70"],
       ["Issues", "Broken Leg"],
@@ -2632,7 +2567,7 @@ export const products: Product[] = [
       "Collapsible Umbrella Design: Features an easy-glide lifting mechanism to raise the arms for use or collapse them downward for compact storage.",
     ],
       specs:[
-      ["Lot", "78"],
+      ["Lot", "76"],
       ["Included", "Full set"],
       ["Price in origin country", "$60"],
     ],
@@ -2667,7 +2602,7 @@ export const products: Product[] = [
       "Fuel Type: Regular unleaded gasoline (E10 compatible)",
     ],
       specs:[
-      ["Lot", "79"],
+      ["Lot", "77"],
       ["Included", "Full set"],
       ["Price in origin country", "€130"],
     ],
@@ -2699,7 +2634,7 @@ export const products: Product[] = [
       "Modern Aesthetic: Styled with a clean white finish and mid-century modern tapered wooden legs for a sleek, contemporary look.",
     ],
       specs:[
-      ["Lot", "80"],
+      ["Lot", "78"],
       ["Included", "Full set"],
       ["Price in origin country", "€60"],
     ],
@@ -2734,7 +2669,7 @@ export const products: Product[] = [
       "Portability: Built-in wheels for easy room-to-room movement.",
     ],
       specs:[
-      ["Lot", "81"],
+      ["Lot", "79"],
       ["Included", "Full set"],
       ["Price in origin country", "$170"],
     ],
@@ -2768,7 +2703,7 @@ export const products: Product[] = [
       "Safe Design: Features heat-resistant handles, non-slip feet, and clear power/ready indicator lights.",
     ],
       specs:[
-      ["Lot", "82"],
+      ["Lot", "80"],
       ["Included", "Full set"],
       ["Price in origin country", "60€"],
     ],
@@ -2802,7 +2737,7 @@ export const products: Product[] = [
       "Convenience Accessories: Includes a dedicated under-desk headphone storage hook and a side-mounted cup holder.",
     ],
       specs:[
-      ["Lot", "83"],
+      ["Lot", "81"],
       ["Included", "Full set"],
       ["Price in origin country", "100$"],
     ],
@@ -2836,7 +2771,7 @@ export const products: Product[] = [
       "Mess-Free Design: Equipped with a removable filter bracket (size 1x4) featuring an automatic drip-stop mechanism.",
     ],
       specs:[
-      ["Lot", "84"],
+      ["Lot", "82"],
       ["Included", "Full set"],
       ["Price in origin country", "30$"],
     ],
@@ -2869,7 +2804,7 @@ export const products: Product[] = [
       "Wireless Connections: Features integrated Wi-Fi and Bluetooth for wireless internet access and audio streaming.",
     ],
       specs:[
-      ["Lot", "85"],
+      ["Lot", "83"],
       ["Included", "Full set"],
       ["Price in origin country", "€170"],
     ],
@@ -2901,7 +2836,7 @@ export const products: Product[] = [
       'Materials: Constructed from durable engineered wood (white MDF) paired with breathable non-woven fabric components.',
     ],
       specs:[
-      ["Lot", "86"],
+      ["Lot", "84"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -2934,7 +2869,7 @@ export const products: Product[] = [
       "Safety Lock: Integrated locking arm mechanism prevents operation unless all components are safely secured.",
     ],
       specs:[
-      ["Lot", "87"],
+      ["Lot", "85"],
       ["Included", "Full set"],
       ["Price in origin country", "65$"],
     ],
@@ -2967,7 +2902,7 @@ export const products: Product[] = [
       "Maintenance: Finished with an anti-fingerprint coating that easily wipes clean with a damp cloth.",
     ],
       specs:[
-      ["Lot", "88"],
+      ["Lot", "86"],
       ["Included", "Full set"],
       ["Price in origin country", "£120"],
     ],
@@ -3001,7 +2936,7 @@ export const products: Product[] = [
       "Tech Features: Built-in handlebar LCD screen to monitor speed, battery life, and assist levels.",
     ],
       specs:[
-      ["Lot", "89"],
+      ["Lot", "87"],
       ["Included", "Full set"],
       ["Price in origin country", "700$"],
     ],
@@ -3034,7 +2969,7 @@ export const products: Product[] = [
       "Product Dimensions: Measures 54.5 cm (H) x 40 cm (W) x 46 cm (D) and weighs approximately 16.4 kg.",
     ],
       specs:[
-      ["Lot", "90"],
+      ["Lot", "88"],
       ["Included", "Full set"],
       ["Price in origin country", "£55"],
     ],
@@ -3067,7 +3002,7 @@ export const products: Product[] = [
       'Sturdy Hexagonal Frame: Designed with a 112 cm diameter hexagonal steel frame that provides superior stability and prevents the trampoline from tipping during side-to-side movements.',
     ],
       specs:[
-      ["Lot", "91"],
+      ["Lot", "89"],
       ["Included", "Full set"],
       ["Price in origin country", "€160"],
     ],
@@ -3100,7 +3035,7 @@ export const products: Product[] = [
       "Easy Mobility: Mounted on 360° rolling casters—including lockable wheels—to smoothly shift the station and secure it safely in place.",
     ],
       specs:[
-      ["Lot", "92"],
+      ["Lot", "90"],
       ["Included", "Full set"],
       ["Price in origin country", "$95"],
     ],
@@ -3134,7 +3069,7 @@ export const products: Product[] = [
       "Dual Power & Portability: Comes with an AC wall adapter and a car charger cigarette lighter adapter, making it fully functional at home, in the office, or during travel. Note: Cordless/rechargeable variants are also available.",
     ],
       specs:[
-      ["Lot", "93"],
+      ["Lot", "91"],
       ["Included", "Full set"],
       ["Price in origin country", "€45"],
     ],
@@ -3167,7 +3102,7 @@ export const products: Product[] = [
       'Easy Maintenance: Includes a high-quality non-stick coating for effortless food release and quick cleanup.',
     ],
       specs:[
-      ["Lot", "94"],
+      ["Lot", "92"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -3201,7 +3136,7 @@ export const products: Product[] = [
       "Bearings: ABEC-7 high-speed precision bearings allow for easy, long-lasting coasting.",
     ],
       specs:[
-      ["Lot", "95"],
+      ["Lot", "93"],
       ["Included", "Full set"],
       ["Price in origin country", "$30"],
     ],
@@ -3234,7 +3169,7 @@ export const products: Product[] = [
       'Age Grading: Specifically designed for kids aged 3 years and older.',
     ],
       specs:[
-      ["Lot", "96"],
+      ["Lot", "94"],
       ["Included", "Full set"],
       ["Price in origin country", "€35"],
     ],
@@ -3270,7 +3205,7 @@ export const products: Product[] = [
       "Portability: Built-in transport wheels with zero installation required.",
     ],
       specs:[
-      ["Lot", "97"],
+      ["Lot", "95"],
       ["Included", "Full set"],
       ["Price in origin country", "£280"],
     ],
@@ -3302,7 +3237,7 @@ export const products: Product[] = [
       'Sturdy Construction: Crafted from durable particleboard to ensure long-term stability and support.',
     ],
       specs:[
-      ["Lot", "98"],
+      ["Lot", "96"],
       ["Included", "Full set"],
       ["Price in origin country", "$100"],
     ],
@@ -3334,7 +3269,7 @@ export const products: Product[] = [
       'Space-Saving Frame: Foldable and lightweight body structure allows for easy storage and effortless travel.',
     ],
       specs:[
-      ["Lot", "99"],
+      ["Lot", "97"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -3367,7 +3302,7 @@ export const products: Product[] = [
       'Temperature Control: Features a front-facing adjustable thermostat dial for precise heat regulation.',
     ],
       specs:[
-      ["Lot", "100"],
+      ["Lot", "98"],
       ["Included", "Full set"],
       ["Price in origin country", "€60"],
     ],
@@ -3399,7 +3334,7 @@ export const products: Product[] = [
       'Customizable Resistance: Equipped with tension control knobs to increase or decrease rotational friction for tailored workout intensities.',
     ],
       specs:[
-      ["Lot", "101"],
+      ["Lot", "99"],
       ["Included", "Full set"],
       ["Price in origin country", "$40"],
     ],
@@ -3432,7 +3367,7 @@ export const products: Product[] = [
       "Product Dimensions: Measures approximately 57 inches high by 14 inches wide across its sturdy floor base.",
     ],
       specs:[
-      ["Lot", "102"],
+      ["Lot", "100"],
       ["Included", "Full set"],
       ["Price in origin country", "$95"],
     ],
@@ -3465,7 +3400,7 @@ export const products: Product[] = [
       "Cable Management: Built-in desktop grommet hole to route wires cleanly.",
     ],
       specs:[
-      ["Lot", "103"],
+      ["Lot", "101"],
       ["Included", "Full set"],
       ["Price in origin country", "$100"],
     ],
@@ -3498,7 +3433,7 @@ export const products: Product[] = [
       'Smart Platform: VIDAA OS with built-in streaming apps',
     ],
       specs:[
-      ["Lot", "104"],
+      ["Lot", "102"],
       ["Included", "Full set"],
       ["Price in origin country", "€200"],
     ],
@@ -3509,1214 +3444,72 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },
-  // {
-  //   id: "Cordless-Upholstery",
-  //   name: "Cordless Upholstery and Carpet Cleaner",
-  //   code: "100399003",
-  //   category: "Electronics",
-  //   condition: "New",
-  //   estimate: "€99.99",
-    
-  //   currentBid: "36",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/champonese.webp",
-  //   accent: "#dc2626",
-  //   description:
-  //     "Tackle tough spots and spills anywhere with the ultimate portable cleaning companion. Powered by a high-performance 20V lithium-ion battery, this lightweight, cordless carpet cleaner delivers powerful suction to lift deep stains from carpets, rugs, car interiors, and home upholstery without tethering you to an electrical outlet.",
-  //   details: [
-  //     "Cordless Convenience: Powered by a removable 20V battery platform for unlimited portability around the home or in your vehicle.",
-  //     "Dual Tank System: Keeps clean solution and dirty water completely separate for a pristine, streak-free clean every time.",
-  //     "Powerful Lift Suction: Engineered to pull heavy liquids, embedded dirt, and stubborn pet stains directly out of dense fibers.",
-  //     "Multi-Surface Versatility: Safely lifts messes from sofas, area rugs, stairs, car seats, and pet beds.",
-  //     "Targeted Cleaning Tools: Includes specialized scrubbing brush attachments designed to clean both wide paths and tight, hard-to-reach crevices.",
-  //     "Compact & Lightweight: Easy to carry with an integrated handle, making storage simple and stair cleaning effortless.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€99.99"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  // {
-  //   id: "food-slicer",
-  //   name: "Silvercrest Food Slicer",
-  //   code: "01.492989.01.460",
-  //   category: "Electronics",
-  //   condition: "New",
-  //   estimate: "€30",
-    
-  //   currentBid: "9",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/foodslicer.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This SilverCrest Electric Multi-Purpose Slicer is a compact, space-saving kitchen appliance designed for effortlessly slicing bread, meat, cheese, and vegetables. It features a foldable design that stores away easily, making it perfect for smaller kitchens without sacrificing performance.",
-  //   details: [
-  //     "Motor Power: Equipped with a 100W eco-motor for efficient cutting performance.",
-  //     "Adjustable Slicing: Customize thickness up to 17 mm to suit different food items.",
-  //     "Compact Build: Measures 33 x 27 x 20 cm when open and folds down to a slim width of just 9.6 cm.",
-  //     "Safety & Build: Features a high-quality stainless steel blade with a safety switch and non-slip feet for secure operation.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€30"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // }, 
-  // {
-  //   id: "Costway-Cat-Litter-Box",
-  //   name: 'Costway Cat Litter Box ',
-  //   code: "73496852",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$70",
-    
-  //   currentBid: "30",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/pv10002wh1_1_.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This sleek, dual-purpose credenza functions as a modern home accent while completely concealing your cat's litter pan out of sight. It features a separate entryway compartment designed to capture tracking granules before your pet steps back out onto your floors.",
-  //   details: [
-  //     '3-in-1 Design: Blends seamlessly into your home decor as a stylish side table, TV console, or hidden pet washroom.',
-  //     'Smart Litter Control: An internal entry divider holds an included scratching pad to clean paws and catch stray litter particles.',
-  //     "Sturdy Construction: Crafted from durable, glossy white engineered wood and supported by solid elevated legs for stability.",
-  //     'User-Friendly Access: Equipped with double front doors and classic round knobs for quick cleaning and scooping.',
-  //     'Ventilated Back Panel: Built with integrated rear air vents to maintain fresh airflow and control unpleasant odors.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$70"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
- 
-  // {
-  //   id: "planetary-stand-mixer",
-  //   name: "Z.I.T Planetary Stand Mixer",
-  //   code: "ZIT1001",
-  //   category: "Electronics",
-  //   condition: "New",
-  //   estimate: "$90 to $150",
-    
-  //   currentBid: "40",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Planetary-Stand-Mixer.jpeg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The Z.I.T cuisine Planetary Stand Mixer (ZIT1001) is an 1800W high-performance electric kitchen machine designed for heavy-duty household baking and kneading. Its planetary mixing action ensures even, thorough blending of ingredients inside its massive, family-sized stainless steel bowl.",
-  //   details: [
-  //     "Motor Power: 1800 Watts",
-  //     "Bowl Capacity: 8.5 Liters",
-  //     "Mixing Action: Planetary Beating Action",
-  //     "Included Attachments: Y-Stirrer, Dough Hook, and Whisk",
-  //     "Speed Management: Adjustable control knob",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$110 to $140"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
- 
- 
-  // {
-  //   id: "VenenWalker-PRO2",
-  //   name: "VenenWalker® PRO2",
-  //   code: "VenenWalker® PRO2",
-  //   category: "Electronics",
-  //   condition: "New",
-  //   estimate: "€299",
-    
-  //   currentBid: "40",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/VenenWalkerPRO2.webp",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The VenenWalker Pro 2 is a certified medical pressotherapy device that uses intermittent pneumatic compression to improve blood circulation and reduce leg swelling. It mimics the body's natural muscle pump, making it highly effective for treating heavy legs, varicose veins, and lymphatic buildup.",
-  //   details: [
-  //     "3-Chamber System: Alternating air cushions inflate and deflate sequentially to massage the legs from the ankles up to the thighs.",
-  //     "Adjustable Pressure: Allows customizable compression levels up to a maximum pressure of 120 mmHg.",
-  //     "Integrated Timer: Features an automatic shut-off function with selectable session lengths from 0 to 60 minutes.",
-  //     "Universal Leg Sleeves: Includes two double-walled boots with an 85 cm length and a maximum thigh circumference of 70 cm.",
-  //     "Medical Certification: Registered as an official medical device for treating chronic venous insufficiency and lymphedema.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€299"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
- 
- 
-  
-  // {
-  //   id: "GourmetMaxx-12L",
-  //   name: 'Digital Air Fryer 12L',
-  //   code: "13606",
-  //   category: "Electronics",
-  //   condition: "New",
-  //   estimate: "€110",
-    
-  //   currentBid: "40",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/gourmetmaxx12L.webp",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The GourmetMaxx 13606 is a 1700-watt digital air fryer oven featuring a large 12-liter capacity and versatile 9-in-1 multi-cooking functions. It combines an air fryer, rotary grill, and dehydrator into one countertop appliance, making it ideal for preparing family-sized meals efficiently.",
-  //   details: [
-  //     "Capacity: 12-liter XXL interior space suitable for up to 8 portions or three 23 cm pizzas.",
-  //     "Power: 1700 watts of high-efficiency heating power for rapid cooking without preheating.",
-  //     "Programs: 10 preset smart programs on a digital touchscreen for quick, one-touch cooking.",
-  //     "Functions: 9 modes including air frying, roasting, baking, grilling, and food dehydrating.",
-  //     "Accessories: Includes a rotisserie spit, rotating fries basket, 3 mesh grids, kebab skewers, and a drip tray.",
-  //     "Safety: Built with a cool-touch housing, an insulated viewing window, and an automatic shut-off feature.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€110"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  // {
-  //   id: "Mini-Fridge",
-  //   name: 'Upstreman Mini Fridge',
-  //   code: "Upstreman BR321",
-  //   category: "Electronics",
-  //   condition: "New",
-  //   estimate: "170$",
-    
-  //   currentBid: "20",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/upsterman.webp",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The Upstreman BR321 is a highly popular, energy-efficient 3.2 Cu.Ft. single-door mini fridge designed for dorm rooms, bedrooms, and offices. It delivers whisper-quiet cooling down to 32°F and features a flexible interior with adjustable glass shelves to maximize small spaces.",
-  //   details: [
-  //     "Storage Layout: Offers 2.9 Cu.Ft. of fresh food storage across two adjustable glass shelves, a bottom crisper drawer, and door bottle racks.",
-  //     "Chiller Box: Features a small 0.3 Cu.Ft. internal freezer compartment suitable for ice trays, ice packs, or short-term frozen snacks.",
-  //     "Ultra-Quiet Operation: Runs at a low noise level of 38 dB, ensuring it won't disturb your sleep or work.",
-  //     "Temperature Adjustment: Equipped with a mechanical control dial offering 5 adjustable cooling levels ranging from 32°F to 50°F.",
-  //     "Adaptable Design: Built with a reversible door and adjustable leveling feet to accommodate uneven flooring and different room configurations.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "170$"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
-  
-   
-  // {
-  //   id: "Barbara-Klein-seated-compact-mini-stepper",
-  //   name: 'Barbara Klein seated compact mini stepper',
-  //   code: "481600",
-  //   category: "Sports",
-  //   condition: "New",
-  //   estimate: "€65",
-    
-  //   currentBid: "215",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/B&K2.png",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The BK Workout Cube by Barbara Klein is a compact, multifunctional home exercise machine that combines a step machine with a swivel stool. It is designed to provide low-impact cardio, core conditioning, and lower-body toning entirely from a comfortable, seated position.",
-  //   details: [
-  //     "360° Swivel Seat: Features a thick, cushioned rotating top designed to engage your abdominal and core muscles during movement.",
-  //     "Dual Foot Pedals: Equipped with textured, non-slip vertical stepping plates for a smooth hydraulic resistance workout.",
-  //     "LCD Fitness Monitor: Displays essential real-time workout tracking data including steps, time elapsed, and estimated calories burned.",
-  //     "Heavy-Duty Frame: Constructed with a supportive, black tubular steel outer handle system for safety and stability.",
-  //     "Space-Saving Design: Designed with a small footprint that easily fits under tables or in small living areas when not in use.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€65"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  
-
-  // {
-  //   id: "Barbara-Klein-Mini-Electric-Elliptical",
-  //   name: 'Barbara Klein Mini Electric Elliptical',
-  //   code: " JF-J-10",
-  //   category: "Sports",
-  //   condition: "New",
-  //   estimate: "$179",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/B&K.png",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The Barbara Klein Mini Electric Elliptical Trainer is a compact, low-impact exercise machine designed for passive or active leg workouts while sitting down. It is ideal for senior mobility, physical therapy rehab, or burning light calories under an office desk.",
-  //   details: [
-  //     "Dual-Mode Operation: Functions as an automated electric pedal assist or manual resistance trainer.",
-  //     "12 Speed Levels: Features adjustable motorized pacing to accommodate various fitness and mobility levels.",
-  //     "Remote Controlled: Includes a wireless remote control to seamlessly alter speed and direction without bending over.",
-  //     "Bi-Directional Pedaling: Supports both forward and reverse movement to target different leg muscle groups.",
-  //     "Digital Display: Built-in LCD monitor tracks training data including time, speed, distance, and calories.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$179"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
-  
-  
-  
-  // {
-  //   id: "SONGMICS-Parasol",
-  //   name: 'SONGMICS parasol',
-  //   code: "GPU202G01",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$50",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/SONGMICS-parasol.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This SONGMICS market patio umbrella features a charcoal-gray canopy supported by a robust metal frame and an integrated manual crank for smooth operation. Designed for residential outdoor spaces, it provides reliable shade and weather resistance over dining tables or standalone seating arrangements.",
-  //   details: [
-  //     "Sun Protection: Engineered with a high-density fabric canopy offering up to UPF 50+ UV shielding.",
-  //     "Crank System: Equipped with an easy-to-use mechanical hand crank built directly into the pole for effortless opening and closing.",
-  //     'Sturdy Frame: Built with high-strength, powder-coated metal ribs that resist rusting and wind distortion.',
-  //     'Ventilated Canopy: Features a single wind vent at the apex to enhance stability by letting air pass through freely.',
-  //     'Standard Fit: Uses a standard center pole diameter compatible with most patio tables and base weights.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$50"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  // {
-  //   id: "Parkside-Performance-12V-Cordless-Rotary-Tool",
-  //   name: 'Parkside Performance 12V Cordless Rotary Tool',
-  //   code: "PPFBSA 12 A1",
-  //   category: "Tools",
-  //   condition: "New",
-  //   estimate: "€70",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/PPFBSA12A1.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This Parkside Performance 12V Cordless Rotary Tool Set is a versatile, high-precision multi-tool powered by an efficient brushless motor for hobby, crafting, and DIY projects. It comes packaged as a comprehensive starter kit complete with various specialized cutting guides, a battery, a charger, and a rugged aluminum carrying case.",
-  //   details: [
-  //     "Brushless Motor Technology: Delivers higher efficiency, a longer service life, and less wear compared to standard brushed motors.",
-  //     "Digital Speed Control: Features an onboard display screen and control buttons to easily adjust and monitor operational speeds from 5,000 to 32,000 RPM.",
-  //     "12V Lithium-Ion Battery System: Uses a removable 12V battery compatible with other tools in the Parkside 12V Team family.",
-  //     'Premium Guide Attachments: Includes a parallel rip fence, a router/plunge depth stop, and 45°/90° angle tables for highly accurate cutting, milling, and grinding.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€70"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
-  // {
-  //   id: "Ladder-DAVDING",
-  //   name: 'Ladder DAVDING',
-  //   code: "2412761",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$35",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Ladder-DAVDING.webp",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The JYSK DAVDING 2-step ladder is a compact and foldable household stepping stool designed for safe, easy reach around the home. It features wide, slip-resistant steps and a sturdy frame that collapses flat to easily fit into tight storage spaces.",
-  //   details: [
-  //     "Height: 78 cm",
-  //     "Step Count: 2 steps",
-  //     'Weight Capacity: Up to 150 kg',
-  //     'Material: Durable steel and plastic',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$35"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  
-  
-     
-  
-  
- 
-  
-  
-  
-  
- 
- 
-  
- 
-  // {
-  //   id: "BK-Barbara-Klein-Treadmill",
-  //   name: 'BK Barbara Klein Treadmill',
-  //   code: "473587",
-  //   category: "Sports",
-  //   condition: "New",
-  //   estimate: "€299",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/BK-treadmill.png",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This BK Barbara Klein 2-in-1 Smart Treadmill features a space-saving, fold-flat design that easily transitions from a high-speed running machine into a low-profile under-desk walking pad. Created by a leading German fitness expert, it delivers a quiet, high-efficiency workout optimized for small apartments and home offices.",
-  //   details: [
-  //     'Dual Functionality: The support handlebar folds down completely for under-desk walking or locks upright for jogging up to 12 km/h',
-  //     'Compact Storage: Built with a slim profile and transport wheels to easily roll under beds or store vertically in tight closets.',
-  //     "Integrated Console: Features a built-in LED base screen to monitor your speed, distance, time, and calories in real time.",
-  //     'User Capacity: Engineered with a sturdy frame that supports a maximum user weight limit of up to 120 kg (~265 lbs).',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€299"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  
- 
-  // {
-  //   id: "Parkside-Sliding-Compound-Mitre-Saw",
-  //   name: 'Parkside Sliding Compound Mitre Saw',
-  //   code: "B079PYJ6S8",
-  //   category: "Tools",
-  //   condition: "New",
-  //   estimate: "€110",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Parkside-Sliding-Compound-Mitre-Saw.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This Parkside PZKS 2000 C3 is a 2000W sliding compound mitre saw engineered for making precise, clean cuts through wood and plastic materials. It features a continuous tilting saw head and an integrated laser guide to ensure maximum accuracy for both DIY workshops and home renovation projects.",
-  //   details: [
-  //     'Power Output: 2000W high-performance motor.',
-  //     "No-Load Speed: 4800 rpm for rapid, clean cutting.",
-  //     "Blade Dimensions: Ø 210 mm diameter with a 24-tooth carbide-tipped blade pre-installed.",
-  //     'Cutting Adjustments: Continuous mitre bevel tracking from 0° to 45° with a flexible tilting mechanism.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€110"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  
-  
-  // {
-  //   id: "Round-Coffee-Table",
-  //   name: 'Acme Dustan Round Coffee Table',
-  //   code: "B0DKXP7FMS",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "200$",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/cofeetablewhite.jpeg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This minimalist, drum-style round concrete coffee table features a sleek, low-profile cylindrical shape with slightly tapered base edges. Its clean aesthetic blends seamlessly into modern, industrial, or bohemian spaces both inside and outside the home.",
-  //   details: [
-  //     "Material: Eco-friendly cement or microcement construction with a smooth, faux-concrete finish.",
-  //     "Placement: Fully weather-resistant and versatile for indoor or outdoor use, such as living rooms or backyard patios.",
-  //     "Maintenance: Features a non-porous, easy-to-clean surface that resists spills and stains.",
-  //     "Aesthetic: Neutral natural white color palette that complements various decor textures and colors.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "200$"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-   
-  // {
-  //   id: "Bar-Stool",
-  //   name: 'Bar Stool Dover brown',
-  //   code: "403512",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "60$",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/brown-high-chair.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The tectake Bar Stool Dover features a comfortable, ergonomically padded backrest and an elegant antique brown faux leather finish. Built for longevity and everyday comfort, it stands on sturdy dark wooden legs equipped with integrated practical footrests.",
-  //   details: [
-  //     "Material Composition: Easy-to-clean synthetic faux leather upholstery over a solid wood framework.",
-  //     "Functional Elements: Fitted with protective, non-slip floor glider pads to prevent floor scuffing and scratches.",
-  //     "Ergonomic Design: Features thick, dense cushioning designed for comfortable extended periods of sitting.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "60$"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  // {
-  //   id: "Gaming-Chair",
-  //   name: 'Gaming Chair',
-  //   code: "B0F21RP583",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "100$",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Gaming-Chair.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The WOTSTA Ergonomic Gaming Chair with Footrest is an entry-tier racing-style chair designed for long hours of gaming or office work. It features integrated synthetic leather padding, a reclining frame, and dedicated support pillows to maximize comfort and posture.",
-  //   details: [
-  //     "Lumbar Massage: Includes an adjustable lower back cushion featuring a built-in USB-powered vibration node.",
-  //     "Synchronized Tilt: Reclines smoothly from 90° to 135° with link armrests that automatically adjust to your position.",
-  //     "Retractable Footrest: Features a hidden leg support pad that slides smoothly out from beneath the seat cushion.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "100$"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
- 
-  
-  
-  
-  
-  // {
-  //   id: "Mobility-Scooter-Cargo",
-  //   name: 'Mobility Scooter Cargo',
-  //   code: "B0DR8W67VJ",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$120",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Mobility-Scooter-Cargo.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This heavy-duty utility cargo trailer features a removable 70-liter plastic transportation box supported by a rugged alloy steel chassis. It is designed with a universal hitch attachment to easily connect behind adult mobility scooters, electric power chairs, or bicycles.",
-  //   details: [
-  //     "Weight Capacity: Safely carries and hauls a payload of up to 30 kg (66 lbs).",
-  //     "Storage Volume: Equipped with a spacious, heavy-duty 70L removable plastic tub.",
-  //     "Durable Frame: Built on a weather-resistant, powder-coated alloy steel chassis.",
-  //     "Mobility Wheels: Rolling on two large, solid-construction puncture-proof tyres.",
-  //     "Safety & Security: Outfitted with an integrated push-to-lock hand brake mechanism.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$120"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
- 
-  // {
-  //   id: "white-Dresser",
-  //   name: 'Black Vanity Desk',
-  //   code: "Black dresser",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$100",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/black-dresser.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This modern black vanity desk features a sleek, space-saving design with integrated shelving and a built-in LED mirror. Supported by an elegant gold-finished metal frame, it blends contemporary style with practical bedroom organization.",
-  //   details: [
-  //     "Storage Options: Features three side storage drawers, a lower cabinet, a wide main drawer, and multiple open display shelves.",
-  //     "Integrated Lighting: Equipped with a rectangular mirror that features an embedded LED light strip border.",
-  //     "Premium Accents: Accented with minimalist round gold hardware knobs that complement the geometric gold base.",
-  //     "Functional Top: Includes a distinct glass-panel section on the left tabletop surface to easily view stored items.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$100"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  // {
-  //   id: "Jewellery-Cabinet",
-  //   name: 'Homcom 360 Degree Lockable Mirror Jewellery Cabinet with White Frame',
-  //   code: "B0FKH4GGWJ",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "€135",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/jewlery-cabinet.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This multifunctional white vanity furniture features a full-length dressing mirror that swivels 360 degrees on caster wheels for ultimate bedroom convenience. The innovative space-saving design conceals a lockable jewelry armoire behind the mirror while offering open display shelves on the side and back.",
-  //   details: [
-  //     "4-in-1 Functionality: Serves as a full-length dressing mirror, secure jewelry storage, clothes hanging rack, and open shelving.",
-  //     "360° Rotating Base: Built on heavy-duty wheels to easily turn, reposition, and access hidden storage spaces.",
-  //     "Lockable Cabinet: Features a secure key-lock mechanism protecting a velvet-lined interior with extensive hooks, slots, and trays for jewelry.",
-  //     "Integrated LED Lighting: Equipped with an interior battery-powered light strip featuring three distinct color modes (warm, cool, and neutral).",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€135"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  
- 
-  
-  
- 
- 
-  
-  // {
-  //   id: "Mannequin",
-  //   name: 'Mannequin',
-  //   code: "B0GCHK293F",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$30",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Mannequin.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     'This pinnable female dress form features a lightweight styrofoam torso covered in fabric, making it ideal for sewing, clothing design, and retail garment displays. Supported by an adjustable stainless steel pole and a classic tripod base, it provides a stable and versatile setup for showcasing fashion pieces.',
-  //   details: [
-  //     'Pinnable Body: The sturdy foam core lets you insert sewing pins directly into the torso at any angle.',
-  //     "Adjustable Height: The support pole easily shifts to customize the overall height from 58 inches to 67 inches.",
-  //     'Stable Footprint: The three-legged tripod base ensures solid balance on carpets and hard floors alike.',
-  //     "Easy Assembly: No tools are required, making it fast to put together or take apart for transport.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$30"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-
-  
-  //  {
-  //   id: "VASAGLE-Side-Table",
-  //   name: 'VASAGLE Side Table',
-  //   code: "B0C73BVGMH",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "€70",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/VASAGLE-Side-Table.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     'The VASAGLE C-Shaped Side Table is a sleek, space-saving mobile utility table designed to slide effortlessly under your sofa or bed. Combining a minimalist cream white finish with a sturdy steel frame, it functions perfectly as a modern laptop workspace, coffee table, or bedside tray.',
-  //   details: [
-  //     'Dimensions: 35D x 50W x 60H cm (when using wheels) or 56H cm (when using fixed feet).',
-  //     'Base Flexibility: Includes both 4 rolling castors for smooth mobility and 4 adjustable leveling feet for stationary stability.',
-  //     'Furniture Clearance: Requires at least 7 cm of floor clearance underneath your couch or bed frame to slide the base inside.',
-  //     "Weight & Capacity: Weighs 4.7 kg and safely supports a maximum static load of 25 kg.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€70"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-   
-  
-  //  {
-  //   id: "WOLTU-Set-of-3-Floating",
-  //   name: 'WOLTU Set of 3 Floating',
-  //   code: "B075YG4TR9",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "€50",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/WOLTU-Set-of-3-Floating.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     'This 3-piece WOLTU floating shelf set features a retro, rounded-corner design with a modern white exterior and black interior lining. Equipped with an invisible integrated mounting system, these versatile MDF wood shelves create a sleek, bracketless look perfect for books, DVDs, and home decor.',
-  //   details: [
-  //     "Package Contents: 1 large oval shelf and 2 matching small shelves.",
-  //     'Large Shelf Dimensions: 95 cm x 17.5 cm x 16 cm (Length x Height x Depth).',
-  //     'Small Shelf Dimensions: 40 cm x 13 cm x 16 cm (Length x Height x Depth).',
-  //     "Premium Materials: Built from high-quality MDF wood finished with a durable, 5-layer matte lacquer.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€50"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  
-  
-  //   {
-  //   id: "pavement-sign",
-  //   name: 'Pavement Sign',
-  //   code: "clothes airer",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$40",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/sign-stand.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     'This heavy-duty outdoor pavement sign features a dual-sided aluminum snap frame designed to securely hold and protect commercial posters. Its robust, water-fillable base provides maximum stability, making it an excellent choice for storefronts, sidewalks, and high-traffic promotional displays.',
-  //   details: [
-  //     "Wind-Resistant Base: Heavy-duty plastic base can be filled with water or sand to prevent the stand from tipping over in high winds.",
-  //     'Poster Compatibility: Perfectly fits DIN A1 size graphics (594 x 841 mm) with a double-sided display for multi-directional visibility.',
-  //     'Snap-Frame Functionality: Front-opening aluminum profiles allow you to change marketing materials in seconds without dismantling the unit.',
-  //     "Weatherproof Design: Equipped with heavy springs to absorb wind gusts and anti-glare PVC sheets to shield posters from UV rays and rain.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$40"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-   
-   
-  //    {
-  //   id: "VASAGLE-Side-Table-round",
-  //   name: 'VASAGLE Side Table',
-  //   code: "B0CV4VTM97",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$40",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/VASAGLE-Side-Table2.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     'This VASAGLE round side table combines sleek modern style with functional utility, featuring a sleek dove gray top and a matching slate gray lower fabric basket. Its clever design integrates a hidden power strip directly under the tabletop, making it an ideal spacesaver for contemporary living rooms or bedrooms.',
-  //   details: [
-  //     "Integrated Charging Station: Equipped with two AC outlets and two USB ports to easily power your phone, tablet, or lamp.",
-  //     'Storage Basket: Features a durable, double-layered polyester fabric basket at the base for organizing books, blankets, or remote controls.',
-  //     'Sturdy Construction: Supported by a robust steel frame and rigid U-shaped legs capable of holding up to 77 lbs (35 kg) on the tabletop.',
-  //     "Compact Dimensions: Measures 17.7” in diameter and 19.7” in height, fitting comfortably into tight corners next to a bed or sofa.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$40"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  //     {
-  //   id: "VASAGLE-Bedside-Table2",
-  //   name: 'VASAGLE Bedside Table',
-  //   code: "B0C46WKDHL",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$30",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/VASAGLE-Bedside-Table2.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The VASAGLE CUSTOS Bedside Table combines a sleek white finish with a compact footprint to provide efficient bedroom storage. Its minimalist profile features a smooth-gliding drawer paired with a spacious lower compartment to keep your evening essentials organized and within arm's reach.",
-  //   details: [
-  //     "Product Dimensions: 39 cm x 28 cm x 41 cm (Length x Width x Height)",
-  //     'Storage Options: Features one storage drawer with a silver metallic handle and one open base compartment.',
-  //     'Sturdy Construction: Built from durable engineered wood capable of supporting a total load capacity of up to 75 kg.',
-  //     "Modern Aesthetic: Styled in a neutral, classic white finish that blends seamlessly with contemporary, Scandinavian, or minimalist decor.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$30"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-   
-   
-  //      {
-  //   id: "LRFVADW-Bar-Stools",
-  //   name: 'LRFVADW Bar Stools',
-  //   code: "B0GNFFNQXP",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$60",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Bar-Stools.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This modern swivel bar stool features an ergonomic, low-back bucket seat wrapped in sleek black faux leather with an elegant diamond-tufted stitch pattern. Its polished chrome pedestal base provides a contemporary look, complete with an adjustable pneumatic gas lift to easily customize the height.",
-  //   details: [
-  //     "Upholstery Material: Premium, water-resistant faux leather (PU) that is easy to wipe clean.",
-  //     'Ergonomic Design: Diamond-patterned tufted backrest provides supportive, padded comfort.',
-  //     'Height Adjustable: Built-in smooth gas-lift mechanism changes seat height seamlessly.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$60"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-   
-  
-  //    {
-  //   id: "modern-round-wall-mirror",
-  //   name: "Modern Round Wall Mirror",
-  //   code: "Modern Round Wall Mirror",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$40",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/modern-round-wall-mirror.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This item is a modern round wall mirror featuring a minimalist, matte black metallic frame. Its sleek and universal design makes it an ideal accent piece for entryways, bathrooms, or contemporary living areas.",
-  //   details: [
-  //     "Frame Style: Thin, low-profile outer rim with a clean matte black finish.",
-  //     'Shape: Perfectly circular geometric design.',
-  //     'Versatility: Blends seamlessly with modern, industrial, or minimalist home decor.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$40"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  //    {
-  //   id: "borderless-mirror",
-  //   name: "Frameless round smart LED vanity mirror",
-  //   code: "borderless-mirror",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$60",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/borderless-mirror.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This sleek, frameless round smart LED vanity mirror features a modern minimalist aesthetic with built-in ambient lighting. It is uniquely designed as a plug-and-play unit, making it ideal for standard wall mounting or custom commercial displays.",
-  //   details: [
-  //     "Lighting Style: Integrated LED backlit system that projects a soft, diffused glow onto the wall surface.",
-  //     'Power Source: Equipped with a standard attached power cable and plug, though it can typically be hardwired by an electrician.',
-  //     'Design Aesthetic: Clean, frameless circular edge suited for modern bathrooms, powder rooms, or retail setups.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$60"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  //   {
-  //   id: "rectangular-smart-LED-bathroom-mirror",
-  //   name: "Rectangular smart LED bathroom mirror",
-  //   code: "rectangular-smart-LED-bathroom-mirror",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$80",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/rectangular-smart-LED-bathroom-mirror.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The item displayed in the image is a rectangular smart LED bathroom mirror featuring an integrated frosted light border around its perimeter. This type of functional home piece is commonly used above a vanity to provide even, shadow-free lighting.",
-  //   details: [
-  //     "Integrated Lighting: Features built-in energy-efficient LED strips diffused behind a frosted glass border.",
-  //     'Touch Sensor Controls: Typically operated via capacitive touch buttons directly on the glass face.',
-  //     'Advanced Options: High-end models often incorporate anti-fog heating elements, adjustable color temperatures (warm, neutral, cool), and dimming functions.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$80"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  //    {
-  //   id: "round-LED-backlit-smart-mirror",
-  //   name: "Round LED backlit smart mirror",
-  //   code: "rectangular-smart-LED-bathroom-mirror",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$80",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/round-LED-backlit-smart-mirror.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This round LED backlit smart mirror features a sleek, frameless design with an integrated frosted glass border. It provides modern, shadow-free illumination that is perfect for contemporary bathrooms, vanity spaces, or salon settings.",
-  //   details: [
-  //     "Backlit LED Lighting: Energy-efficient strips illuminate the frosted outer ring for a soft, ambient glow.",
-  //     'Hardwired or Plug-in: Features an external power cord, allowing it to be plugged directly into a wall outlet or seamlessly hardwired by an electrician.',
-  //     'Sleek Floating Effect: Mounted via a rear bracket system that offsets the glass from the wall to create a floating silhouette.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$80"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-  //    {
-  //   id: "modern-rectangular-tabletop-vanity-mirror",
-  //   name: "Modern rectangular tabletop vanity mirror",
-  //   code: "rectangular-smart-LED-bathroom-mirror",
-  //   category: "Furniture",
-  //   condition: "New",
-  //   estimate: "$80",
-    
-  //   currentBid: "0",
-     
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/modern-rectangular-tabletop-vanity-mirror.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "This sleek, tabletop LED vanity mirror features a minimalist borderless design that blends seamlessly into any modern dressing space. Its integrated front-lit illumination provides clear, shadow-free lighting perfect for precise makeup application and skincare routines.",
-  //   details: [
-  //     "Smart Touch Controls: Built-in capacitive icons on the glass surface offer effortless, one-touch management.",
-  //     'Adjustable Lighting: Cycles through multiple color temperatures, including cool white, daylight, and warm yellow.  ',
-  //     'Dimmable Brightness: Allows you to easily adjust the intensity to mimic different environmental lighting conditions.',
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "$80"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },
-   
-   
-  
-   
-     
- 
-   
-  //  {  
-  //   id: "GOURMETmaxx-4.5",
-  //   name: 'GOURMETmaxx Air fryer - 4.5L',
-  //   code: "11822",
-  //   category: "Electronics",
-  //   condition: "New",
-  //   estimate: "€55",
-  //   ////////////////////////////////////////////////////
-  //   currentBid: "120",
-  //   //////////////////////////////////////////////////// 
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/GOURMETmaxx-4.5.jpg",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The GOURMETmaxx Digitale Heißluft-Fritteuse is a versatile 1400-watt digital air fryer designed to grill, roast, bake, and fry food with minimal oil. It utilizes rapid hot-air circulation to prepare your favorite meals faster and more efficiently than a standard conventional oven.",
-  //   details: [
-  //     "Capacity: 4.5-liter cooking basket suitable for family-sized meals.",
-  //     "Interface: Digital touchscreen display for intuitive temperature and time adjustments.",
-  //     "Pre-sets: 8 automatic programs tailored for popular foods like fries, poultry, and fish.",
-  //     "Healthier Cooking: Uses up to 80% less fat compared to traditional deep frying methods.",
-  //     "Safety: Features a cool-touch handle and automatic shut-off functionality.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€55"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // }, 
-   
-  
-  //  {
-  //   id: "Dual-chamber",
-  //   name: 'Dual-chamber air fryer 7L',
-  //   code: "11339",
-  //   category: "Sports",
-  //   condition: "New",
-  //   estimate: "€90",
-  //   ////////////////////////////////////////////////////
-  //   currentBid: "225",
-  //   //////////////////////////////////////////////////// 
-  //   closing: "Friday, 8:10 PM",
-  //   image: "/products/Dual-chamber.webp",
-  //   accent: "#dc2626",
-  //   description:
-  //     "The GOURMETmaxx Dual-Chamber Hot Air Fryer 7L is a powerful 2400W appliance that combines a hot air oven, grill, and deep fryer into one compact unit. Its innovative dual-chamber system lets you cook two different meals simultaneously using 360° rapid air technology for crispy results with up to 80% less fat.",
-  //   details: [
-  //     "Total Capacity: 7 liters split into two independent 3.5-liter cooking zones.",
-  //     "Power & Performance: 2400 watts of high-efficiency power that cooks 1.5 times faster than standard ovens.",
-  //     "Smart Synchronization: Synchronization feature ensures two different foods finish cooking at the exact same time.",
-  //     "Pre-installed Programs: 10 digital touch programs for frying, roasting, baking, grilling, and dehydrating.",
-  //     "Temperature Control: Wide adjustable range from 40°C up to 230°C.",
-  //   ],
-  //     specs:[
-  //     ["Lot", "104"],
-  //     ["Included", "Full set"],
-  //     ["Price in origin country", "€90"],
-  //   ],
-  //   bidder: {
-  //     name: "Rami B.",
-  //     amount: "$980",
-  //     since: "Leading for 2 minutes",
-  //     badge: "Interior buyer",
-  //   },
-  // },  
- 
-  
-    
-    
-  
- 
-  
-  
+  {
+    id: "PARKSIDE-PERFORMANCE-Cordless-Drill-Driver",
+    name: 'PARKSIDE PERFORMANCE Cordless Drill Driver',
+    code: "B0FZFKKF31",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€85",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/PARKSIDE-PERFORMANCE.jpg",
+    accent: "#dc2626",
+    description:
+      "The Parkside Performance 12V Starter Set is a compact power tool bundle featuring a premium cordless drill driver and a high-torque impact screwdriver. Driven by wear-free, efficient brushless motors, this kit delivers exceptional power and longevity for demanding DIY and professional projects alike.",
+    details: [
+      'Dual Tool Power: Includes both the 12V Cordless Drill Driver (PBSPA 12) and the 12V Cordless Impact Driver (PDSSAP 12).',
+      'Brushless Technology: Equipped with advanced brushless motors that significantly increase tool lifespan and runtime.',
+      "Premium Power System: Packs two high-performance 12V Lithium-Ion batteries (2.0 Ah) and a 2.4A quick charger.",
+      'Heavy-Duty Build: Designed with robust 2-speed metal gearboxes, variable speed controls, and integrated LED work lights.',
+      'Complete Kit: Comes ready to work with a magnetic bit holder and a heavy-duty fabric carry bag for easy transport.',
+    ],
+      specs:[
+      ["Lot", "103"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€85"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
+  {
+    id: "Parkside-4V-Cordless-Cross-Line-Laser",
+    name: 'Parkside 4V Cordless Cross Line Laser',
+    code: "B0FZFKKF31",
+    category: "Furniture",
+    condition: "New",
+    estimate: "€95",
+    ////////////////////////////////////////////////////
+    currentBid: "0",
+    //////////////////////////////////////////////////// 
+    closing: "Friday, 8:10 PM",
+    image: "/products/PARKSIDE-PERFORMANCE-laser.jpg",
+    accent: "#dc2626",
+    description:
+      "This rechargeable laser level projects clear 360-degree horizontal and vertical alignment lines for precise construction and DIY projects. It features an integrated lithium-ion battery and comes equipped with a multi-section extendable tripod stand.",
+    details: [
+      'Projection range: Up to 20 meters under optimal conditions.',
+      'Accuracy rating: Self-leveling within ±0.4 mm/m.',
+      "Power system: Integrated 4V (2Ah) Lithium-Ion battery with a USB-C charging port.",
+      'Mounting base: Included floor tripod with an adjustable center column and bubble level.',
+    ],
+      specs:[
+      ["Lot", "104"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€95"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },
 ];
 export const featuredProduct = products[0]; 

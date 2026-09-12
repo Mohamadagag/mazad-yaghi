@@ -124,7 +124,7 @@ export default function MazadPage() {
               SOLD
             </p>
 
-            <p className="mt-3 text-lg font-semibold text-[#59636d]">
+            <p className="mt-3 text-4xl text-center font-semibold text-[#59636d]">
               ${product.currentBid}
             </p>
             <button
