@@ -2716,7 +2716,7 @@ export const products: Product[] = [
     estimate: "€35",
     currentBid: "0",
     closing: "Friday, 8:10 PM",
-    image: "/products/Multi-Function-Detector.jpg",
+    image: "/products/Multi-Function-detector.jpg",
     accent: "#dc2626",
     description:
       'The PARKSIDE PERFORMANCE Multi-Material Wall Scanner (Model: PPOG 120 A1) is a precision detection tool designed to locate hidden structures before drilling. It uses an integrated LC display and acoustic warning signals to ensure accurate positioning and prevent accidental damage to underlying infrastructure.',
