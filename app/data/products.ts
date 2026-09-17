@@ -1365,7 +1365,7 @@ export const products: Product[] = [
     estimate: "$30",
     currentBid: "0",
     closing: "Friday, 8:10 PM",
-    image: "/products/Oral-Irrigator.jpg",
+    image: "/products/flosser.jpg",
     accent: "#dc2626",
     description:
       "The Sejoy Cordless Oral Irrigator is a portable water flosser designed with a 1400mAh rechargeable lithium-ion battery for deep dental cleaning. It includes a dedicated inductive charging dock that doubles as a built-in tip organizer to keep accessories clean and accessible.",
