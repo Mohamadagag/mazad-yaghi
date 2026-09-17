@@ -198,7 +198,7 @@ export const products: Product[] = [
     currentBid: "0",
      
     closing: "Friday, 8:10 PM",
-    image: "/products/Ladder-DAVDING.webp",
+    image: "/products/Ladder-DAVDING.jpg",
     accent: "#dc2626",
     description:
       "The JYSK DAVDING 2-step ladder is a compact and foldable household stepping stool designed for safe, easy reach around the home. It features wide, slip-resistant steps and a sturdy frame that collapses flat to easily fit into tight storage spaces.",
@@ -458,7 +458,7 @@ export const products: Product[] = [
     {
     id: "pavement-sign",
     name: 'Pavement Sign',
-    code: "clothes airer",
+    code: "Pavement Sign",
     category: "Furniture",
     condition: "New",
     estimate: "$40",
@@ -3085,7 +3085,7 @@ export const products: Product[] = [
     estimate: "€60",
     currentBid: "0",
     closing: "Friday, 8:10 PM",
-    image: "/products/Crivit-Cooler.webp",
+    image: "/products/Crivit-Cooler.jpg",
     accent: "#dc2626",
     description:
       "The Crivit Electric Cool Box is a budget-friendly, portable thermoelectric travel refrigerator sold seasonally through Lidl supermarkets. It is designed to switch seamlessly between a vehicle's 12V cigarette lighter and a standard 230V wall outlet, making it perfect for camping and road trips.",
