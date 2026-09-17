@@ -1455,7 +1455,7 @@ export const products: Product[] = [
     estimate: "$30",
     currentBid: "0",
     closing: "Friday, 8:10 PM",
-    image: "/products/steamer.jpeg",
+    image: "/products/steamer.jpg",
     accent: "#dc2626",
     description:
       "This high-power handheld garment steamer features a fast-heating design that smooths out tough wrinkles quickly and effortlessly. It is an ideal portable solution for refreshing a wide variety of everyday clothing fabrics both at home and on the go",
