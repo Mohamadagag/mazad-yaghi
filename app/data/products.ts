@@ -2063,7 +2063,7 @@ export const products: Product[] = [
   },
   {
     id: "Bathroom-Sink-Cabinet",
-    name: "Yaheetech Floor Standing Sink Storage Cabinet",
+    name: "Bathroom Sink Cabinet",
     code: "B091FM6W76",
     category: "Furniture",
     condition: "New",
@@ -2912,28 +2912,27 @@ export const products: Product[] = [
     },
   },
   {
-    id: "Cordless-Drill-Driver",
-    name: 'Parkside 20V Cordless Drill Driver',
-    code: "Cordless-Drill-Driver", 
+    id: "Garden-Parasol",
+    name: 'SONGMICS Garden Parasol',
+    code: "B08LDG6ZJF", 
     category: "Furniture",
     condition: "New",
-    estimate: "€35",
+    estimate: "€60",
     currentBid: "0",
     closing: "Friday, 8:10 PM",
-    image: "/products/Drill-Driver.jpg",
+    image: "/products/Parasol.jpg",
     accent: "#dc2626",
     description:
-      'This is a compact and versatile cordless drill-driver designed for light to medium-duty household DIY tasks and fastening applications. It features a dual-speed gearbox and adjustable torque settings, making it highly adaptable for drilling through materials like wood, plastic, and metal.',
+      'This 2.1-meter outdoor market parasol is engineered to offer premium sun protection and flexible shading for compact spaces like balconies, patios, and poolsides. Its user-friendly crank mechanism and dual-direction tilting system allow you to effortlessly adjust the canopy to block out shifting sunlight throughout the day.',
     details: [
-      "Power System: Driven by the interchangeable Parkside X20V Team battery platform, offering wireless convenience across multiple tools",
-      'Performance Capacity: Delivers a maximum torque of up to 45 Nm with a 2-speed variable control drive (0–430 / 0–1,500 RPM).',
-      'Clutch Settings: Features 25 selectable torque positions plus an independent drilling stage to prevent over-tightening or stripping screws.',
-      'Chuck Mechanism: Integrated with a 13mm metal keyless chuck paired with an automatic spindle lock for easy, single-handed bit changes.',
+      "Premium UV Protection: The durable 180 g/m² polyester canopy boasts a UPF 50+ rating, effectively blocking over 98% of harmful UV rays.",
+      'Weather & Drizzle Resistant: Designed with a water-repellent coating to withstand unexpected light rain showers without soaking through.',
+      'Dual-Direction 30° Tilt: An integrated push-button joint lets you easily tilt the umbrella 30 degrees to both sides for customizable shade.',
     ],
       specs:[
       ["Lot", "94"],
       ["Included", "Full set"],
-      ["Price in origin country", "€35"],
+      ["Price in origin country", "€60"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3067,35 +3066,36 @@ export const products: Product[] = [
     },
   }, 
   {
-    id: "Ceiling-Fan-1",
-    name: 'Ceiling Fan',
-    code: "YM-QWABS001-52", 
-    category: "Furniture",
-    condition: "New",
-    estimate: "75$",
-    currentBid: "0",
-    closing: "Friday, 8:10 PM",
-    image: "/products/Ceiling-Fan.webp",
-    accent: "#dc2626",
-    description:
-      'The YM-QWABS001-52 is a 52-inch modern, low-profile ceiling fan without a light designed for quiet and energy-efficient indoor or covered outdoor use. Operating on a reversible DC motor, this 3-blade minimalist fan delivers powerful airflow and comes equipped with a multi-functional wireless remote.',
-    details: [
-      "Motor: 35W energy-efficient reversible DC motor.",
-      'Blades: 3 moisture-resistant ABS plastic blades',
-      'Speed Settings: 6 adjustable wind speeds.',
-    ],
-      specs:[
-      ["Lot", "99"],
-      ["Included", "Full set"],
-      ["Price in origin country", "75$"],
-    ],
-    bidder: {
-      name: "Rami B.",
-      amount: "$980",
-      since: "Leading for 2 minutes",
-      badge: "Interior buyer",
-    },
-  }, 
+      id: "skateboard",
+      name: 'WeSkate',
+      code: "3108-1", 
+      category: "Furniture",
+      condition: "New",
+      estimate: "$25",
+      currentBid: "0",
+      closing: "Friday, 8:10 PM",
+      image: "/products/skateboard.jpg",
+      accent: "#dc2626",
+      description:
+        'The WeSkate 3108-1 is a complete, pre-assembled standard skateboard featuring an 8-inch wide, 7-ply maple wood deck designed for entry-level riders. Built with a double kick concave shape and high-speed bearings, it provides a stable and highly responsive platform for children, teens, and adults learning fundamental stunts or casual cruising.',
+      details: [
+        "Durable Construction: Crafted with a high-density, 7-layer Canadian maple deck supported by strong 5-inch aluminum alloy trucks.",
+        'Optimal Balance Support: Designed with a 20-degree upward tilt and a U-shaped concave profile to maximize steering responsiveness and control.',
+        'Smooth Glide Performance: Equipped with shock-absorbing 50mm 85A polyurethane wheels and precision ABEC-7 high-speed bearings for a quiet, stable ride.',
+        'Ready-to-Ride Setup: Arrives fully pre-assembled out of the box with permanent, anti-slip black emery grip tape for immediate use.',
+      ],
+        specs:[
+        ["Lot", "99"],
+        ["Included", "Full set"],
+        ["Price in origin country", "$25"],
+      ],
+      bidder: {
+        name: "Rami B.",
+        amount: "$980",
+        since: "Leading for 2 minutes",
+        badge: "Interior buyer",
+      },
+  },
   {
     id: "SWFT-VOLT-BLK-2",
     name: 'SWFT Volt Electric Bike',
@@ -3158,23 +3158,23 @@ export const products: Product[] = [
     },
   },  
   {
-    id: "Rollator-1",
-    name: 'Arebos Lightweight Rollator',
-    code: "B0119ZIPD8", 
+    id: "Raised-Bed",
+    name: 'Tectake Raised Bed',
+    code: "403232", 
     category: "Furniture",
     condition: "New",
     estimate: "€75",
     currentBid: "0",
     closing: "Friday, 8:10 PM",
-    image: "/products/Rollator.jpg",
+    image: "/products/Raised.jpg",
     accent: "#dc2626",
     description:
-      "Arebos Lightweight Aluminium Rollator Walker.It is a highly-rated mobility aid designed for both indoor and outdoor use.",
+      "This tectake Wooden Raised Garden Bed features an ergonomic waist-high design that lets you comfortably grow herbs, vegetables, or flowers without bending over. It combines an integrated lower storage shelf with a protective inner liner, making it both a practical and highly durable solution for balconies, patios, and compact garden spaces.",
     details: [
-      "Customizable Design: Features a 6-way height-adjustable handle (ranging from 78 cm to 91 cm) to accommodate different body sizes and encourage correct posture.",
-      "Weight & Capacity: Built with a sturdy yet lightweight aluminum frame weighing 7.1 kg, supporting a maximum user weight capacity of up to 135 kg (approx. 300 lbs).",
-      'Safety & Mobility: Equipped with ergonomic handles featuring a 2-in-1 braking system (hand brake for control and parking brake for stable sitting), alongside 360° swivel wheels, a practical curb climber aid, and integrated safety reflectors.',
-      'Travel-Ready: Folds down compactly in seconds via a webbed seat pull mechanism, making it highly portable for car trunks or tight storage spaces.',
+      "Ergonomic Working Height: Measures 90 cm high to alleviate strain on your back and knees while gardening.",
+      "Integrated Storage Shelf: Features a sturdy lower slatted shelf to keep soil bags, watering cans, and hand tools organized.",
+      'Moisture Protection: Includes a heavy-duty black polyethylene inner liner to safeguard the wooden structure from water damage.',
+      'Robust Softwood Build: Constructed from weatherproof, lacquered coniferous wood capable of holding a maximum capacity of 120 kg.',
     ],
       specs:[
       ["Lot", "102"],
@@ -3217,134 +3217,29 @@ export const products: Product[] = [
       since: "Leading for 2 minutes",
       badge: "Interior buyer",
     },
-  },
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-   
- 
-  
-   
-  
-  
-   
-   
-   
-     
-    
-   
-   
-      
-   
-  
-     
-     
-    
-     
-  
-     
-     
-      
-   
-      
-    
-      
-      
-    
-      
-    
-   
-   
-   
-    
-  
-     
-     
-   
-   
- 
-  
-     
-       
-  
-    
-  
-   
-   
-   
-   
-     
-     
-   
-     
-    
-   
-  
-    
-      
-   
-    
-      
-   
-  
- 
-    
-    
-  
-     
-     
-      
-    
-    
-
-      
-    
-    
-  
-  
-   
-    
-    
-      {
-    id: "Ceiling-Fan-2",
-    name: 'Ceiling Fan',
-    code: "YM-QWABS001-52", 
-    category: "Furniture",
+  }, 
+  {
+    id: "Physionics",
+    name: 'Physionics Calf Machine',
+    code: "B01HT8DYXK", 
+    category: "Sports",
     condition: "New",
-    estimate: "75$",
+    estimate: "€110",
     currentBid: "0",
     closing: "Friday, 8:10 PM",
-    image: "/products/Ceiling-Fan.webp",
+    image: "/products/Physionics.jpg",
     accent: "#dc2626",
     description:
-      'The YM-QWABS001-52 is a 52-inch modern, low-profile ceiling fan without a light designed for quiet and energy-efficient indoor or covered outdoor use. Operating on a reversible DC motor, this 3-blade minimalist fan delivers powerful airflow and comes equipped with a multi-functional wireless remote.',
+      'The Physionics Seated Calf Raise Machine (B01HT8DYXK) is a robust, steel-framed plate-loaded fitness station engineered specifically for targeted lower-leg muscle development. It features dual padded cushions and multiple vertical adjustments to offer a custom, highly secure home training experience',
     details: [
-      "Motor: 35W energy-efficient reversible DC motor.",
-      'Blades: 3 moisture-resistant ABS plastic blades',
-      'Speed Settings: 6 adjustable wind speeds.',
+      "High Structural Capacity: Features a heavy-duty steel frame that supports a massive total maximum load of up to 220 kg while remaining compact with a device footprint of 107 x 60 x 104 cm.",
+      'Universal 4-Way Adaptability: Offers rapid vertical height adjustment intervals (96.5, 99, 102, and 105 cm) across the thigh assembly to properly accommodate varied leg lengths',
+      'Enhanced Safety Hardware: Includes an integrated quick-access safety release lever, spring-lock collar clips to anchor weight plates, protective base end caps, and dual ergonomic handles for absolute control.',
     ],
       specs:[
       ["Lot", "133"],
       ["Included", "Full set"],
-      ["Price in origin country", "75$"],
+      ["Price in origin country", "€110"],
     ],
     bidder: {
       name: "Rami B.",
@@ -3353,7 +3248,7 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-      {
+  {
     id: "Parkside-20V-Cordless-Impact-Wrench",
     name: 'Parkside 20V Cordless Drill Driver',
     code: "Impact-Wrench", 
@@ -3384,23 +3279,5 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   }, 
-   
-   
-  
-    
-  
-   
-   
-     
-    
-    
-   
-   
-   
-    
-    
-    
-  
-];
+  ];
 export const featuredProduct = products[0]; 
-// Rollator
