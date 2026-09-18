@@ -87,7 +87,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€30",
     
-    currentBid: "9",
+    currentBid: "0",
      
     closing: "Friday, 8:10 PM",
     image: "/products/foodslicer.jpg",
@@ -120,7 +120,7 @@ export const products: Product[] = [
     condition: "New",
     estimate: "€65",
     
-    currentBid: "215",
+    currentBid: "0",
      
     closing: "Friday, 8:10 PM",
     image: "/products/B&K2.png",
@@ -487,7 +487,7 @@ export const products: Product[] = [
       "Premium Materials: Built from high-quality MDF wood finished with a durable, 5-layer matte lacquer.",
     ],
       specs:[
-      ["Lot", "25"],
+      ["Lot", "14"],
       ["Included", "Full set"],
       ["Price in origin country", "€50"],
     ],
@@ -3237,7 +3237,7 @@ export const products: Product[] = [
       'Enhanced Safety Hardware: Includes an integrated quick-access safety release lever, spring-lock collar clips to anchor weight plates, protective base end caps, and dual ergonomic handles for absolute control.',
     ],
       specs:[
-      ["Lot", "133"],
+      ["Lot", "104"],
       ["Included", "Full set"],
       ["Price in origin country", "€110"],
     ],
@@ -3268,7 +3268,7 @@ export const products: Product[] = [
       'System Integration: Fully compatible with all lithium-ion batteries under the shared Parkside X 20V Team ecosystem.',
     ],
       specs:[
-      ["Lot", "133"],
+      ["Lot", "105"],
       ["Included", "Full set"],
       ["Price in origin country", "€45"],
     ],
