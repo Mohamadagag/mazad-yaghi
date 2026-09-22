@@ -2687,5 +2687,66 @@ export const products: Product[] = [
       badge: "Interior buyer",
     },
   },  
+  {
+    id: "VASAGLE-Small-Side-Table",
+    name: "VASAGLE Small Side Table",
+    code: "VASAGLE-Small-Side-Table", 
+    category: "Furniture",
+    condition: "New",
+    estimate: "$100",  
+    currentBid: "25",
+    closing: "Friday, 8:10 PM",
+    image: "/products/VASAGLE-Small-Side-Table.jpg",
+    accent: "#dc2626",
+    description:
+      'The VASAGLE LET223R61 is a compact, round side table from the LILEA collection featuring a sleek pastel pink tabletop and cloud white frame. It seamlessly blends modern functionality with style by integrating a double-layer beige fabric storage basket directly underneath the top.',
+    details: [
+      'Space-saving size: Measures 45 x 50 cm (17.7" x 19.7"), making it ideal for tight spaces next to beds, sofas, or armchairs.',
+      "Sturdy build: Engineered with high-quality particleboard and a solid steel alloy frame that safely supports up to 35 kg (77 lbs).",
+      'Versatile storage: Equipped with a spacious, chemical-free polyester fabric basket perfect for organizing blankets, books, toys, or pet supplies.',
+    ],
+      specs:[
+      ["Lot", "105"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$100"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  }, 
+   {
+    id: "ride",
+    name: "Baby Ride-On",
+    code: "ride", 
+    category: "Furniture",
+    condition: "New",
+    estimate: "$50",  
+    currentBid: "25",
+    closing: "Friday, 8:10 PM",
+    image: "/products/ride.jpg",
+    accent: "#dc2626",
+    description:
+      'This multi-functional 5-in-1 baby ride-on toy is crafted from ultra-lightweight, shock-absorbing Expanded Polypropylene (EPP) foam. Its minimalist beige design features a friendly cartoon face and a sturdy T-bar handle, making it a safe and silent choice for indoor play.',
+    details: [
+      'Material: Made from soft, durable, and highly impact-resistant EPP foam.',
+      "Ultra-Lightweight: Weighs only about 1.4 kg, allowing toddlers to move and steer it easily.",
+      'Convertible Design: Adapts into a baby walker, scooter, parent-assisted push car, or a low caster board.',
+    ],
+      specs:[
+      ["Lot", "105"],
+      ["Included", "Full set"],
+      ["Price in origin country", "$50"],
+    ],
+    bidder: {
+      name: "Rami B.",
+      amount: "$980",
+      since: "Leading for 2 minutes",
+      badge: "Interior buyer",
+    },
+  },  
   ];
 export const featuredProduct = products[0]; 
+// ride
