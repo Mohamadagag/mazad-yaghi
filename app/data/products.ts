@@ -1219,7 +1219,7 @@ export const products: Product[] = [
     estimate: "$30",
     currentBid: "25",
     closing: "Friday, 8:10 PM",
-    image: "/products/cat-tree.jpg",
+    image: "/products/cat-tree-small.png",
     accent: "#dc2626",
     description:
       'This compact and functional multi-level cat tree blends a cozy condo hideaway with an elevated observation platform to create the perfect activity center for indoor cats. Its neutral beige plush fabric covers a sturdy design that offers dedicated areas for recreation, scratching, and privacy while seamlessly matching home decor.',
