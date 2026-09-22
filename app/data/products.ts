@@ -2689,5 +2689,3 @@ export const products: Product[] = [
   },  
   ];
 export const featuredProduct = products[0]; 
-// Dartboard Set of 6
-// Bamboo Frame Wall Mirror
