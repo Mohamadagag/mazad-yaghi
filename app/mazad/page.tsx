@@ -106,7 +106,7 @@ export default function MazadPage() {
             disabled={
               !isSold || currentIndex === products.length - 1
             }
-            className="w-full min-h-12 rounded-md bg-[#101316] px-4 text-sm font-semibold text-white transition hover:bg-[#263039] disabled:cursor-not-allowed disabled:opacity-40"
+            className="w-full min-h-16 rounded-md bg-[#101316] px-4 text-2xl font-semibold text-white transition hover:bg-[#263039] disabled:cursor-not-allowed disabled:opacity-40 cursor-pointer"
           >
             {currentIndex === products.length - 1
               ? "Last Item"
@@ -130,7 +130,7 @@ export default function MazadPage() {
             <button
               type="button"
               onClick={() => setShowSoldPopup(false)}
-              className="mt-6 w-full min-h-12 rounded-md bg-[#101316] px-4 text-sm font-semibold text-white hover:bg-[#263039]"
+              className="mt-6 w-full min-h-12 rounded-md bg-[#101316] px-4 text-sm font-semibold text-white hover:bg-[#263039] cursor-pointer"
             >
               Close
             </button>
