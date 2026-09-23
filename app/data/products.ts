@@ -3057,7 +3057,7 @@ export const products: Product[] = [
     estimate: "€180",  
     currentBid: "25",
     closing: "Friday, 8:10 PM",
-    image: "/products/SUNNIGOO.jpg",
+    image: "/products/sunnigoo.jpg",
     accent: "#dc2626",
     description:
       "The SUNNIGOO N7PRO is a lightweight, foldable electric scooter designed for seamless urban commuting and short daily trips. It combines an efficient electric drivetrain with smart smartphone connectivity to offer a reliable, low-maintenance alternative to traditional city transit.",
@@ -3087,7 +3087,7 @@ export const products: Product[] = [
     estimate: "€180",  
     currentBid: "25",
     closing: "Friday, 8:10 PM",
-    image: "/products/SUNNIGOO.jpg",
+    image: "/products/sunnigoo.jpg",
     accent: "#dc2626",
     description:
       "The SUNNIGOO N7PRO is a lightweight, foldable electric scooter designed for seamless urban commuting and short daily trips. It combines an efficient electric drivetrain with smart smartphone connectivity to offer a reliable, low-maintenance alternative to traditional city transit.",
