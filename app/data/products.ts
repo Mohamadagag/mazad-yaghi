@@ -1534,19 +1534,19 @@ export const products: Product[] = [
     name: "Baby Bed",
     code: "baby-bed", 
     currentBid: "0",
-    image: "/products/baby-bed.jpg",
+    image: "/products/Lupilu.webp",
     accent: "#dc2626",
     description:
-      ' ',
+      'This practical travel crib provides a safe and comfortable environment for infants and toddlers to sleep or play while away from home. Its lightweight frame packs down completely into a matching carry case, making it highly portable and ideal for family trips',
     details: [
-      '',
-      '',
-      '',
+      'Age Suitability: Intended for use from birth up to a maximum weight capacity of 15 kg (~33 lbs).',
+      'Ventilation: Built with large mesh side panels to ensure optimal, continuous airflow and clear visibility.',
+      'Compact Setup: Uses a simple folding mechanism that allows it to lock securely in place or collapse in minutes.',
     ],
       specs:[
       ["Lot", "76"],
       ["Included", "Full set"],
-      ["Price in origin country", "$35"],
+      ["Price in origin country", "€50"],
     ],
   },  
     {
@@ -2097,6 +2097,48 @@ export const products: Product[] = [
       ["Lot", "103"],
       ["Included", "Full set"],
       ["Price in origin country", "€30"],
+    ],
+  },
+   {
+    id: "Charger",
+    name: 'Ultimate Speed Car Battery Charger',
+    code: "Charger", 
+    currentBid: "0",
+    image: "/products/Charger.jpg",
+    accent: "#dc2626",
+    description:
+      'This is the Ultimate Speed ULG 17 A1 Car Battery Charger and Jump Starter, an automotive maintenance tool sold at Lidl. It functions as both a smart microprocessor-controlled diagnostic charger for 6V/12V batteries and a quick engine jump-start booster',
+    details: [
+      "Dual Voltage Support: Works on both 6V and 12V vehicle batteries.",
+      'Jump Start Assistance: Delivers a short 75A boost to start cars with weak batteries.',
+      'Adjustable Charging Rates: Offers selectable currents at 2A, 6A, and 17A.',
+      'Smart Diagnostics: Includes pulse charging modes for recovering deeply discharged batteries.',
+    ],
+      specs:[
+      ["Lot", "104"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€30"],
+    ],
+  },
+     {
+    id: "Trolley-Jack",
+    name: 'Scheppach CJ2000HP hydraulic trolley jack',
+    code: "Trolley-Jack", 
+    currentBid: "0",
+    image: "/products/Trolley-Jack.jpg",
+    accent: "#dc2626",
+    description:
+      'This hydraulic trolley jack is a practical, mobile assistant designed for quick lifting operations in your garage or workshop. It utilizes standard hydraulic pump technology to offer smooth, controlled elevation, making it ideal for routine underbody maintenance tasks like seasonal tire changes',
+    details: [
+      "Load Capacity: Supports a maximum vehicle weight of 2,000 kg (2 tons).",
+      'Lifting Range: Operates within a clearance window from a minimum height of 13 cm to a maximum height of 33 cm',
+      'Mobility System: Equipped with 2 fixed front wheels (65 mm diameter) and 2 rear swiveling wheels (40 mm diameter) for smooth positioning.',
+      'Saddle Size: Features a lifting saddle with a 4.5 cm diameter to interface with vehicle lift points.',
+    ],
+      specs:[
+      ["Lot", "105"],
+      ["Included", "Full set"],
+      ["Price in origin country", "€45"],
     ],
   },
   ];
